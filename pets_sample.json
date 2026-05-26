@@ -1,0 +1,192 @@
+[
+  {
+    "Title": "Albino Peacock",
+    "Tier": "Mythical",
+    "Obtaining": "Redeeming a code from buying a Grow a Garden plushie from PhatMojo",
+    "HatchChance": "",
+    "Passive": "Pure Beauty: Occasionally fans its feathers and all active pets nearby will advance ability cooldowns and get XP to half the amount",
+    "DateAdded": "",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/9/92/AlbinoPeacock.png/revision/latest/scale-to-width-down/268?cb=20251227043649",
+    "Appearance": "The appearance of the Albino Peacock appears to be similar to the Peacock's appearance, but it is white with having their eyes red and their beaks being peach. It is also glowing white."
+  },
+  {
+    "Title": "Amethyst Beetle",
+    "Tier": "Legendary",
+    "Obtaining": "Gem Egg",
+    "HatchChance": "32%",
+    "Passive": "Beetle Duel: Every 6:00-1:20m, initiates a battle with another player's Beetle. If the beetle a player owns wins, they get a reward! The higher level and heavier the beetle the more likely it is to win!",
+    "DateAdded": "November 15, 2025",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/c/c6/AmethystBeetle.png/revision/latest?cb=20251115034002",
+    "Appearance": "This beetle is purple in color and there are gems on it."
+  },
+  {
+    "Title": "Angora Goat",
+    "Tier": "Uncommon",
+    "Obtaining": "Redeeming a code from buying a Grow a Garden plushie from PhatMojo.",
+    "HatchChance": "",
+    "Passive": "Angora Ram: Occasionally goes to a random player and rams them, knocking and launching them away! Rammed players have a chance to get a single harvest seed from the seed shop. Rarer seeds have rarer chance",
+    "DateAdded": "",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/6/6a/AngoraGoat.png/revision/latest/scale-to-width-down/268?cb=20251227044059",
+    "Appearance": "The appearance of the Angora Goat appears to be similar to the Goat but it is white, the horns are slanted down and a beard under its snout."
+  },
+  {
+    "Title": "Ankylosaurus",
+    "Tier": "Mythical",
+    "Obtaining": "Primal EggPremium Primal Egg",
+    "HatchChance": "1%",
+    "Passive": "Armored Defender: When a player steals a fruit from the player, grants a chance that the player stolen from, gets the stolen fruit as well",
+    "DateAdded": "July 12, 2025",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/a/a7/Ankylosaurus.png/revision/latest?cb=20250712071321",
+    "Appearance": "The Ankylosaurus has a brown skin at the top, and a light-brown skin on the bottom. The Ankylosaurus has white stings on the top and sides of its body."
+  },
+  {
+    "Title": "Apple Gazelle",
+    "Tier": "Mythical",
+    "Obtaining": "Admin Abuse War",
+    "HatchChance": "",
+    "Passive": "Apple Harvester: Fruits that have apple in the name have a 4-7% chance to duplicate when collected; Sugar Warp: Harvesting Sugar Apple crops have a 2-4% to apply Warped mutation to a random fruit in your garden!",
+    "DateAdded": "August 23rd, 2025",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/b/bc/AppleGazelle.png/revision/latest?cb=20250823054639",
+    "Appearance": "The Apple Gazelle is a cream-coloured deer-like creature with a white underbody, with a multi layered green to dark green gradient (a Sugar Apple) seamlessly fused into it's torso."
+  },
+  {
+    "Title": "Arctic Fox",
+    "Tier": "Mythical",
+    "Obtaining": "Season Pass",
+    "HatchChance": "",
+    "Passive": "Arctic Scoundrel: Occasionally steals ~24 random unique fruit from the players garden and refreshes the seed shop! Ignores favorited fruit. Cannot be mimicked or refreshed.",
+    "DateAdded": "December 6, 2025",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/4/4c/Arctic_Fox.png/revision/latest/scale-to-width-down/268?cb=20251208075304",
+    "Appearance": "The Arctic Fox uses the same model as the Red Fox, except its coloring is white."
+  },
+  {
+    "Title": "Armadillo",
+    "Tier": "Rare",
+    "Obtaining": "Season Pass Level 2",
+    "HatchChance": "",
+    "Passive": "Armadillo Roll: Every 7:55m, rolls into a ball and transforms the player into a armadillo ball for 30.37s",
+    "DateAdded": "November 1, 2025",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/9/9f/Armadillo.png/revision/latest?cb=20251106095032",
+    "Appearance": "The Armadillo resembles a real-life armadillo, with a nose, two horns and a protective armour shell. It also has a tail."
+  },
+  {
+    "Title": "Ash Raven",
+    "Tier": "Legendary",
+    "Obtaining": "Season 4 of the Season Pass",
+    "HatchChance": "",
+    "Passive": "Ashened Furnishing: Occasionally goes to a random fruit with Ash and/or Burnt mutation and converts it into a random Ash-themed castle cosmetic! Ignores favorited fruit.",
+    "DateAdded": "April 4, 2026",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/e/e6/AshRaven.png/revision/latest/scale-to-width-down/268?cb=20260402110159",
+    "Appearance": "To be added."
+  },
+  {
+    "Title": "Axolotl",
+    "Tier": "Mythical",
+    "Obtaining": "Oasis Egg",
+    "HatchChance": "Oasis Egg 15%Premium Oasis Egg 15%",
+    "Passive": "6.76% chance Summer type fruit stays after collecting!",
+    "DateAdded": "June 28, 2025",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/0/0f/AxolotlIcon.png/revision/latest?cb=20250626225725",
+    "Appearance": "The appearance of the axolotl is light blue, with 6 external gills surrounding it's head, tail, and 4 legs, with blush right below the eyes. Its appearance is similar to that of the cyan axolotl from Minecraft."
+  },
+  {
+    "Title": "Bacon Pig",
+    "Tier": "Uncommon",
+    "Obtaining": "Culinarian Chest 34.5%Exotic Culinarian Chest 34%Rainbow Sack 28%",
+    "HatchChance": "",
+    "Passive": "Bacon Frenzy: Every 5s to 120s, emits an aura for >15s granting >2x chance for new fruit to grow as variants within >15 studs!",
+    "DateAdded": "August 2, 2025",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/b/b1/BaconPig.png/revision/latest?cb=20250809053320",
+    "Appearance": "The Bacon Pig takes the shape of a normal Pig, but has strips of bacon in replacement to the normal texture."
+  },
+  {
+    "Title": "Badger",
+    "Tier": "Rare",
+    "Obtaining": "Fall Egg",
+    "HatchChance": "32.5%",
+    "Passive": "Earthquake Excavator: Occasionally digs around and spreads mud, has a chance to mutate nearby fruits with Cracked.",
+    "DateAdded": "September 13, 2025",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/f/ff/Badger.png/revision/latest?cb=20250913055949",
+    "Appearance": "Shades of grey similar to the colors of the Raccoon. It has a flat rectangular body with a pair of black and grey legs along with 3 claws on each leg."
+  },
+  {
+    "Title": "Bagel Bunny",
+    "Tier": "Common",
+    "Obtaining": "Gourmet Egg",
+    "HatchChance": "",
+    "Passive": "Bagels and Carrots: Every 5-45s, eats a carrot for >5x value bonus!",
+    "DateAdded": "August 2nd, 2025",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/5/51/BagelBunny.png/revision/latest/scale-to-width-down/268?cb=20250806114811",
+    "Appearance": "The Bagel Bunny appears to be a bunny in a sandwich costume, stated by the name of the pet, its a bagel."
+  },
+  {
+    "Title": "Bald Eagle",
+    "Tier": "Legendary",
+    "Obtaining": "4th July Event 2025",
+    "HatchChance": "",
+    "Passive": "Wings of Freedom: Every 7:04m, takes flight and spreads its wings. All eggs advance their hatch time by 70.40s! 70.40% chance for the time to be multiplied by ~2x.",
+    "DateAdded": "July 4th, 2025",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/d/d2/BaldEagle.png/revision/latest?cb=20250811161002",
+    "Appearance": "The Bald Eagle appears as a standard eagle, with a red-white striped hat ringed with white stars on a blue ring, which resembles the American flag. The Bald Eagle is also the mascot for the  4th July Event 2025, as it is seen on top of the red, white and blue striped stand."
+  },
+  {
+    "Title": "Barn Owl",
+    "Tier": "Mythical",
+    "Obtaining": "Fall Egg",
+    "HatchChance": "1.5%",
+    "Passive": "Wise Shopper: Pets bought from shops directly have a chance to get an extra base weightPrince of Fall: All Fall type pets gain bonus XP per second",
+    "DateAdded": "September 13, 2025",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/c/cc/BarnOwl.png/revision/latest?cb=20250913060021",
+    "Appearance": "The design of the Barn Owl is based on the bird species of the same name. It shares the same distinctive ghostly white face and black eyes with its real-life counterpart."
+  },
+  {
+    "Title": "Bat",
+    "Tier": "Uncommon",
+    "Obtaining": "Spooky Egg",
+    "HatchChance": "45%",
+    "Passive": "Grants Spooky plants in ~32 studs a ~0.7x variant chance bonus!",
+    "DateAdded": "October 11, 2025",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/a/ad/Bat.png/revision/latest?cb=20251011074853",
+    "Appearance": "The Bat has a short pink nose, large ears with pink inner ears, dark brown wings, black skin membrane, and very small legs."
+  },
+  {
+    "Title": "Bear Bee",
+    "Tier": "Mythical",
+    "Obtaining": "Bee Egg",
+    "HatchChance": "5%",
+    "Passive": "Wanna-bee:Every 25 minutes applies the HoneyGlazed mutation to a random fruit",
+    "DateAdded": "May 31, 2025",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/8/8b/Bearbeee1.png/revision/latest/scale-to-width-down/268?cb=20250806113242",
+    "Appearance": "The Bear Bee resembles a brown bear, wearing a bee costume."
+  },
+  {
+    "Title": "Bear on Bike",
+    "Tier": "Legendary",
+    "Obtaining": "Carnival Egg 20%  Premium Carnival Egg 20%  Rainbow Premium Carnival Egg 17%",
+    "HatchChance": "",
+    "Passive": "One Bear Act: Occasionally goes to a random fruit in your garden and does a trick on it, applying the Whimsical mutation!",
+    "DateAdded": "January 3, 2026",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/1/13/BearonBike.png/revision/latest/scale-to-width-down/268?cb=20260103095613",
+    "Appearance": "It is a Grizzly Bear but it is riding a bike."
+  },
+  {
+    "Title": "Bearded Dragon",
+    "Tier": "Divine",
+    "Obtaining": "",
+    "HatchChance": "Gem Chest 1%Exotic Gem Chest 1%Rainbow Sack 7%",
+    "Passive": "Egg Stash: Occasionally eats all fruit on a Divine and higher rarity plant and grants a random egg from the egg shop!",
+    "DateAdded": "November 22, 2025",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/8/87/BeardedDragonHQ.png/revision/latest?cb=20251216135731",
+    "Appearance": "The Bearded Dragon has medium brown body with a light-brownish broad triangular head, along with various spiny scales surrounding its mouth, head and body. It has a small tail and four legs with yellow toes."
+  },
+  {
+    "Title": "Beaver",
+    "Tier": "Rare",
+    "Obtaining": "Easter Event Shop",
+    "HatchChance": "",
+    "Passive": "The Wood Works: Occasionally goes to a Woody type fruit in your garden to convert it into a random wooden-based building cosmetic.",
+    "DateAdded": "April 11, 2026",
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/2/26/Beaver.png/revision/latest/scale-to-width-down/268?cb=20260410091619",
+    "Appearance": "The Beaver is an orange-brown beaver with a lighter tan muzzle, black eyes, black whiskers, and small white buck teeth. It has a dark brown body and a flat, wide tail."
+  }
+]

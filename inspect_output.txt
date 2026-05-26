@@ -1,0 +1,13 @@
+Appearance
+DateAdded
+Equals
+GetHashCode
+GetType
+HatchChance
+Image
+Obtaining
+Passive
+Tier
+Title
+ToString
+-----

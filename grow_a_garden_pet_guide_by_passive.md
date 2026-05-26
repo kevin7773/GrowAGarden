@@ -1,0 +1,6356 @@
+# Grow a Garden Pet Guide — Sorted by Passive Ability
+
+Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
+
+<div align='center'>[Cosmetics](#cosmetics) | [Crafting](#crafting) | [Egg Helpers](#egg-helpers) | [Gear](#gear)</div>
+
+<div align='center'>[Harvest or Seed Helpers](#harvest-or-seed-helpers) | [Levellers](#levellers) | [Mutators](#mutators) | [Pet Helpers](#pet-helpers)</div>
+
+<div align='center'>[Plant Growth](#plant-growth) | [Player Interactive](#player-interactive) | [Special](#special)</div>
+
+\pagebreak
+
+## Cosmetics {#cosmetics}
+
+### Beaver {#beaver}
+
+![Beaver](media/Beaver.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Easter Event Shop
+
+- **Passive Ability:** The Wood Works: Occasionally goes to a Woody type fruit in your garden to convert it into a random wooden-based building cosmetic.
+
+- **Appearance:** The Beaver is a limited rare pet that was added in the second part of the Easter Event 2026. It can be purchased from the Easter Event Shop for  2,500,  419 or  419.
+
+- **Date Added:** April 11, 2026
+
+
+### Black Cat {#black-cat}
+
+![Black Cat](media/Black_Cat.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 8.5%
+
+- **Obtaining Method:**
+  Spooky Egg
+
+- **Passive Ability:** Occasionally goes to a Witch's Cauldron cosmetic and naps near it for a duration. New fruit within radius have bonus size!
+
+- **Appearance:** The Black Cat is a mythical pet that was added in the Halloween Event.
+
+- **Date Added:** October 11, 2025
+
+
+### Carpenter Bee {#carpenter-bee}
+
+![Carpenter Bee](media/Carpenter_Bee.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Royal Jelly Shop
+
+- **Passive Ability:** Hive Workshop: Occasionally converts a Pollinated fruit into a honey-themed cosmetic.
+
+- **Appearance:** The Carpenter Bee is a limited rare pet that was added to the second part of the Bizzy Bee Event 2026.
+
+- **Date Added:** May 16, 2026
+
+
+### Celebration Puppy {#celebration-puppy}
+
+![Celebration Puppy](media/Celebration_Puppy.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 20%
+
+- **Obtaining Method:**
+  New Year's Egg
+
+- **Passive Ability:** Celebration's Best Friend: Occasionally has chance to dig up a random New Year's themed cosmetic.
+
+- **Appearance:** The Celebration Puppy is a legendary pet that was obtainable during the New Year's Event. It can be obtained from the New Year's Egg with a 20% chance.
+
+- **Date Added:** December 27, 2025
+
+
+### Cocoa Cat {#cocoa-cat}
+
+![Cocoa Cat](media/Cocoa_Cat.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Gold Gift 2.08% Rainbow Gift 6.9%
+
+- **Passive Ability:** Cocoa Nap: Occasionally goes to a Hot Chocolate Mug cosmetic and naps near it for a duration. New fruit within radius have bonus size!
+
+- **Appearance:** The Cocoa Cat is a limited mythical pet that was added during the second part of the Christmas Harvest Event.
+
+- **Date Added:** December 13, 2025
+
+
+### Gift Rat {#gift-rat}
+
+![Gift Rat](media/Gift_Rat.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Santa's Stash Shop
+
+- **Passive Ability:** Gift Wrap: Occasionally converts Apple fruits into a random Gift cosmetic! Collect all 6 variants!
+
+- **Appearance:** The Gift Rat is a limited rare pet that was added in the Christmas Harvest Event.
+
+- **Date Added:** December 6, 2025
+
+
+### Parasaurolophus {#parasaurolophus}
+
+![Parasaurolophus](media/Parasaurolophus.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Primal Egg
+
+- **Passive Ability:** Crowbar Head: Occasionally, goes to the cosmetic crate with the highest time and reduces time to open!
+
+- **Appearance:** The Parasaurolophus is a legendary pet, added in the Pet Mutation Update. It came at a 34% hatch chance from the Primal Egg.
+
+- **Date Added:** July 12th, 2025
+
+
+### Pumpkin Rat {#pumpkin-rat}
+
+![Pumpkin Rat](media/Pumpkin_Rat.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Creepy Critters Shop
+
+- **Passive Ability:** Occasionally converts a Pumpkin in the player's garden into a random Jack-O-Lantern cosmetic! Collect all 5 variants!
+
+- **Appearance:** The Pumpkin Rat is a limited common pet that was added in the Halloween Event.
+
+- **Date Added:** October 11, 2025
+
+
+### Silver Piggy {#silver-piggy}
+
+![Silver Piggy](media/Silver_Piggy.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Crafting
+
+- **Passive Ability:** Silver Hoarder: For every Silver Ingot Cosmetic you have in your garden, nearby plants in a radius grow faster!
+
+- **Appearance:** The Silver Piggy is an legendary pet.
+
+- **Date Added:** November 22, 2025
+
+
+### Tomb Marmot {#tomb-marmot}
+
+![Tomb Marmot](media/Tomb_Marmot.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 14.5%
+
+- **Obtaining Method:**
+  Spooky Chest
+
+- **Passive Ability:** Tomb Raid: Occasionally burrows down in the ground and hides in a Tombstone! Finding the tombstone grants a random Graveyard cosmetic!
+
+- **Appearance:** The Tomb Marmot is a limited legendary pet that was added with the third expansion of the Halloween Event.
+
+- **Date Added:** October 25, 2025
+
+
+### Wind-Up Rat {#wind-up-rat}
+
+![Wind-Up Rat](media/Wind-Up_Rat.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie from Phat
+  Mojo
+
+- **Passive Ability:** Mechanical Rodent: Occasionally converts Buttercups into a random Mechanical themed cosmetic! Collect all 5!
+
+- **Appearance:** The Wind-Up Rat is an exclusive rare pet. It can be obtained by redeeming a code from buying a Grow a Garden plushie at PhatMojo.
+
+- **Date Added:** 
+
+
+\pagebreak
+
+## Crafting {#crafting}
+
+### Hamster {#hamster}
+
+![Hamster](media/Hamster.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Summer Shop
+
+- **Passive Ability:** Hamster Wheel: Occasionally runs in a hamster wheel and grants increased crafting speed for a duration
+
+- **Appearance:** The Hamster is a mythical pet released in the Summer Update. It could be obtained from the Harvest Shop for 15 or 449.
+
+- **Date Added:** June 28, 2025
+
+
+### Orangutan {#orangutan}
+
+![Orangutan](media/Orangutan.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 15%
+
+- **Obtaining Method:**
+  Rare Summer Egg
+
+- **Passive Ability:** Helping Hands: When crafting, each material has a chance for it not to be consumed.
+
+- **Appearance:** The Orangutan is a rare pet released in the Summer Update.
+
+- **Date Added:** June 21, 2025
+
+
+### Pachycephalosaurus {#pachycephalosaurus}
+
+![Pachycephalosaurus](media/Pachycephalosaurus.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 28%
+
+- **Obtaining Method:**
+  Primal Egg
+
+- **Passive Ability:** Crafty Dome: Grants a 6% chance to duplicate a crafted item.
+
+- **Appearance:** The Pachycephalosaurus is a legendary pet that was added in the Pet Mutations Update.
+
+- **Date Added:** July 12, 2025
+
+
+### Pack Mule {#pack-mule}
+
+![Pack Mule](media/Pack_Mule.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Trader Rewards
+
+- **Passive Ability:** Crafted pets have a bonus 0.1 - 0.20-0.40 KG to their base weight! (Max 3 KG).
+
+- **Appearance:** The Pack Mule is a limited mythical pet that was added in the Trader Event.
+
+- **Date Added:** November 22, 2025
+
+
+\pagebreak
+
+## Egg Helpers {#egg-helpers}
+
+### Bald Eagle {#bald-eagle}
+
+![Bald Eagle](media/Bald_Eagle.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  4th July Event 2025
+
+- **Passive Ability:** Wings of Freedom: Every 7:04m, takes flight and spreads its wings. All eggs advance their hatch time by 70.40s! 70.40% chance for the time to be multiplied by ~2x.
+
+- **Appearance:** The Bald Eagle is a limited Legendary pet obtained by purchasing from the 4th July Event 2025.
+
+- **Date Added:** July 4th, 2025
+
+
+### Birb {#birb}
+
+![Birb](media/Birb.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:**
+  - 0.1%
+
+- **Obtaining Method:**
+  Bird Egg 0.1%  Premium Bird Egg 0.1%  Rainbow Premium Bird Egg 4.5%
+
+- **Passive Ability:** Birbegg: Occasionally uses its cuteness to hatch eggs faster. All eggs advanced their hatch time faster! There's a chance for the time advance to be multiplied.
+
+- **Appearance:** The Birb is a limited prismatic pet that was added in the Hungry Birds Event.
+
+- **Date Added:** January 17, 2026
+
+
+### Black Bird {#black-bird}
+
+![Black Bird](media/Black_Bird.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Bird Egg 44.9%  Premium Bird Egg 43.9%  Rainbow Premium Bird Egg 45%
+
+- **Passive Ability:** Dark Chirp: Grants pets hatched from eggs an age bonus
+
+- **Appearance:** The Black Bird is a limited common pet that was added in the Hungry Birds Event.
+
+- **Date Added:** January 17, 2026
+
+
+### Blood Kiwi {#blood-kiwi}
+
+![Blood Kiwi](media/Blood_Kiwi.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  20,000,000 in Blood Moon Shop
+
+- **Passive Ability:** Crimson Cradle: Every (60 - Weight)s, decreases hatch time of egg with the highest remaining hatch time by (45 + 0.45 * Weight)s and increases its hatch speed by (20 + 0.2 * Weight)%.
+
+- **Appearance:** The Blood Kiwi is a legendary pet added in the Blood Moon Event update; one of the 9 pets added. It could be purchased in the Blood Moon Shop for  20,000,000 or obtained during the Summer Harvest Event. It has 45,000 hunger, and is another variation of the Kiwi pet.
+
+- **Date Added:** May 17th, 2025
+
+
+### Brontosaurus {#brontosaurus}
+
+![Brontosaurus](media/Brontosaurus.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 1%
+
+- **Obtaining Method:**
+  Dinosaur Egg, DNA Converter
+
+- **Passive Ability:** Giant Incubator: Pets hatched from eggs have a ~5.0% increase in base size and weight! This size bonus is capped at ~30% and does not apply to Brontosaurus.
+
+- **Appearance:** The Brontosaurus is a Mythical pet added in the Prehistoric Event and was obtainable from the Dinosaur Egg with a 1% chance or from the DNA Converter.
+
+- **Date Added:** July 5th, 2025
+
+
+### Chicken {#chicken}
+
+![Chicken](media/Chicken.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 25%
+
+- **Obtaining Method:**
+  Uncommon Egg
+
+- **Passive Ability:** Increases egg hatch speed by 10%.
+
+- **Appearance:** The Chicken is an Uncommon pet added in the Animal Update. It can be obtained from hatching the Uncommon Egg with a chance of 25%. Its maximum hunger is 3,400.
+
+- **Date Added:** May 3rd, 2025
+
+
+### Easter Egg Chick {#easter-egg-chick}
+
+![Easter Egg Chick](media/Easter_Egg_Chick.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 35%
+
+- **Obtaining Method:**
+  Golden Egg
+
+- **Passive Ability:** Easter Eggcelerator: Occasionally goes to a random un-hatched egg, and reduces its hatch time. Bonus hatch time reduced for every other Easter Egg Chick in your garden!
+
+- **Appearance:** The Easter Egg Chick is a limited rare pet that was added in the Easter Event 2026.
+
+- **Date Added:** April 4, 2026
+
+
+### Kiwi (Pet) {#kiwi-pet}
+
+![Kiwi (Pet)](media/Kiwi_Pet.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  160
+
+- **Passive Ability:** Every 60 seconds, decreases hatch time of egg with the highest remaining hatch time by 25 seconds.
+
+- **Appearance:** The Kiwi is a bird with a brown body and head, featuring a yellow beak and feet, and black eyes. When singing, it produces musical notes in soft hues of blue, green, and pink.
+
+- **Date Added:** May 10th, 2025
+
+
+### Koi {#koi}
+
+![Koi](media/Koi.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Purchased in the Zen Shop
+
+- **Passive Ability:** Fish of Fortune: Grants a chance to recover an egg when hatching. Can be different colors
+
+- **Appearance:** The Koi is a limited mythical pet, obtainable from the Zen Event.
+
+- **Date Added:** July 19th, 2025
+
+
+### Ostrich {#ostrich}
+
+![Ostrich](media/Ostrich.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 40%
+
+- **Obtaining Method:**
+  Paradise Egg
+
+- **Passive Ability:** Eggsperience: Grants pets hatched from eggs an age bonus.
+
+- **Appearance:** The Ostrich is an obtainable legendary pet released in the Summer Update.
+
+- **Date Added:** June 21, 2025
+
+
+### Rooster {#rooster}
+
+![Rooster](media/Rooster.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 16.67%
+
+- **Obtaining Method:**
+  Rare Egg
+
+- **Passive Ability:** Increases egg hatch speed by ~20%.
+
+- **Appearance:** The Rooster is a rare pet added in the Animal Update. It can be obtained by hatching the Rare Egg with a chance of 16.67%.
+
+- **Date Added:** May 3, 2025
+
+
+### Seal {#seal}
+
+![Seal](media/Seal.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 10%
+
+- **Obtaining Method:**
+  Rare Summer Egg
+
+- **Passive Ability:** Seal the Deal: When selling pets, has a chance to get the pet back as its egg equivalent! This bonus is capped at 50% per pet sold.
+
+- **Appearance:** The Seal is an obtainable, rare pet released in the Summer Update. It was added back in the Safari Harvest Event through Safari Joyce.
+
+- **Date Added:** June 21, 2025
+
+
+### Sunny-Side Chicken {#sunny-side-chicken}
+
+![Sunny-Side Chicken](media/Sunny-Side_Chicken.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Taste Testing Rat Connoisseur
+
+- **Passive Ability:** Better Eggcelerator: Increases egg hatch speed by >20%!
+
+- **Appearance:** The Sunny-Side Chicken is an uncommon pet released in the second part of the Cooking Event.
+
+- **Date Added:** August 9th, 2025
+
+
+\pagebreak
+
+## Gear {#gear}
+
+### Angora Goat {#angora-goat}
+
+![Angora Goat](media/Angora_Goat.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie from Phat
+  Mojo.
+
+- **Passive Ability:** Angora Ram: Occasionally goes to a random player and rams them, knocking and launching them away! Rammed players have a chance to get a single harvest seed from the seed shop. Rarer seeds have rarer chance
+
+- **Appearance:** The Angora Goat is an exclusive uncommon pet. It can be obtained from redeeming a code from buying a Grow a Garden plushie from PhatMojo.
+
+- **Date Added:** 
+
+
+### Arctic Fox {#arctic-fox}
+
+![Arctic Fox](media/Arctic_Fox.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Arctic Scoundrel: Occasionally steals ~24 random unique fruit from the players garden and refreshes the seed shop! Ignores favorited fruit. Cannot be mimicked or refreshed.
+
+- **Appearance:** The Arctic Fox is a mythical pet that was added during the Christmas Harvest Event. It can be obtained from the Season Pass by reaching level 40.
+
+- **Date Added:** December 6, 2025
+
+
+### Bearded Dragon {#bearded-dragon}
+
+![Bearded Dragon](media/Bearded_Dragon.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - Gem Chest 1%`nExotic Gem Chest 1%`nRainbow Sack 7%
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Egg Stash: Occasionally eats all fruit on a Divine and higher rarity plant and grants a random egg from the egg shop!
+
+- **Appearance:** The Bearded Dragon is a divine pet that was added in the Trader Event. It can be obtained from the Gem Chest or the Exotic Gem Chest at a 1% chance. The Gem Chest is available in the Forever Pack.
+
+- **Date Added:** November 22, 2025
+
+
+### Dog {#dog}
+
+![Dog](media/Dog.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 33.33%
+
+- **Obtaining Method:**
+  Common Egg
+
+- **Passive Ability:** Every 60s, 5% chance to dig up a random Seed Shop seed.
+
+- **Appearance:** The Dog is one of the 23 pets added in the Grow a Garden Update 1.04.0. It can be obtained by hatching a Common Egg with a 33.33% chance. The Dog has 1,000 hunger. Its ability is identical to the Golden Lab but with a ~5% chance instead of a ~10% chance.
+
+- **Date Added:** May 3rd, 2025
+
+
+### Easter Bunny {#easter-bunny}
+
+![Easter Bunny](media/Easter_Bunny.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 0.5%, but 1% to get in Glided-Choc via the Glided Choc Golden Egg
+
+- **Obtaining Method:**
+  Golden Egg
+
+- **Passive Ability:** Egg Hunt: Occasionally hides an Easter Egg reward in a random spot. Finding the Easter Egg grants rewards/positive effects!
+
+- **Appearance:** The Easter Bunny is a limited divine pet that was added in the Easter Event 2026.
+
+- **Date Added:** April 4, 2026
+
+
+### Football {#football}
+
+![Football](media/Football.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Participating the Celebrity Guest Event
+
+- **Passive Ability:** Touchdown: Occasionally runs to the Gear Shop or Seed Shop (whichever is farther) and does a touchdown which awards the player with 870 sheckles or 20.4% getting a Watering Can instead
+
+- **Appearance:** The Football is a pet that was given as a reward for attending the Celebrity Guest Event.
+
+- **Date Added:** July 26th, 2025
+
+
+### Goblin Gardener {#goblin-gardener}
+
+![Goblin Gardener](media/Goblin_Gardener.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie from Phat
+  Mojo
+
+- **Passive Ability:** Garden Looter: Occasionally goes to a random shop and steals an item that is in stock and gives it to the player! Rarer items have rarer chance to be stolen.
+
+- **Appearance:** The Goblin Gardener is an exclusive mythical pet. It can be obtained from redeeming a code from buying a Grow a Garden plushie from PhatMojo.
+
+- **Date Added:** 
+
+
+### Golden Lab {#golden-lab}
+
+![Golden Lab](media/Golden_Lab.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 33.33%
+
+- **Obtaining Method:**
+  Common Egg
+
+- **Passive Ability:** Digging friend: ~10% chance to dig up a random Seed Shop seed every minute.
+
+- **Appearance:** The Golden Lab is a recolor of the Dog, having brown ears and a beige body, and lacks spots on its body & face. It also has a stud-like texture on its entire body.
+
+- **Date Added:** May 3, 2025
+
+
+### Imp {#imp}
+
+![Imp](media/Imp.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 15%
+
+- **Obtaining Method:**
+  Enchanted Egg
+
+- **Passive Ability:** Every 6:66m, the Imp will playfully invite the player to chase it. Catching the Imp will grant a random reward! The Imp has a >10% to play again on successful chase!
+
+- **Appearance:** The Imp is a limited legendary pet obtained from the Enchanted Egg with a 15% chance upon opening. It was released in the Fairy Event.
+
+- **Date Added:** August 30, 2025
+
+
+### Magpie {#magpie}
+
+![Magpie](media/Magpie.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 14.5%
+
+- **Obtaining Method:**
+  Gem Chest/Exotic Gem Chest
+
+- **Passive Ability:** When selling silver fruit, it has a 7.09% chance to grant a random reward! (Max 30%)
+
+- **Appearance:** The Magpie is a legendary pet added with the Trader Event.
+
+- **Date Added:** November 22nd 2025
+
+
+### Mallard {#mallard}
+
+![Mallard](media/Mallard.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Southbound: On the half-hourly, all Mallards fly South to migrate. The Mallard disappears leaving the player with a random gear! Mallard returns to the players inventory.
+
+- **Appearance:** The Mallard is a legendary pet that was added in the second half of the Fall Market Event.
+
+- **Date Added:** September 20th, 2025
+
+
+### Maneki-neko {#maneki-neko}
+
+![Maneki-neko](media/Maneki-neko.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 34.5%
+
+- **Obtaining Method:**
+  Kitsune Chest 34.5%Exotic Kitsune Chest 34%Rainbow Sack 28%
+
+- **Passive Ability:** Fortune Cat: Every 2 minutes, waves and invites good fortune that grants 8% chance to refund fruit back to player’s inventory for 10s! Rarer fruit have rarer chance to refund.
+
+- **Appearance:** The Maneki-neko is an uncommon pet, obtained from the Kitsune Chest (with a 34% chance) or from the Exotic Kitsune Chest (with a 34.5% chance) during the Zen Event.
+
+- **Date Added:** July 26th, 2025
+
+
+### Marmot {#marmot}
+
+![Marmot](media/Marmot.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Fall Pet Shop
+
+- **Passive Ability:** Every 540-120s, burrows down in the ground and hides in a random mound! Finding the Marmot will grant a Fall related reward! Has a 15-30% to burrow again!
+
+- **Appearance:** The Marmot is a limited legendary pet that was added in the Fall Market Event. It was obtainable from the Fall Pet Shop for  700,000,000, with a 15-30% chance to be in stock. The Marmot has 38,000 hunger.
+
+- **Date Added:** September 13, 2025
+
+
+### Mole {#mole}
+
+![Mole](media/Mole.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Night Egg 23.5%Premium Night Egg 22%
+
+- **Passive Ability:** Every ~80 seconds, digs down underground to find treasure. Can dig up gear or sheckles.
+
+- **Appearance:** The Mole is a Legendary pet added in the Lunar Glow Event. It can be obtained by hatching the Night Egg with a chance of 22%.
+
+- **Date Added:** May 10th 2025
+
+
+### Monkey {#monkey}
+
+![Monkey](media/Monkey.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 8.33%
+
+- **Obtaining Method:**
+  Rare Egg
+
+- **Passive Ability:** Cheeky Refund: Chance to get the player's fruit back when the player sells it
+
+- **Appearance:** The Monkey is a non-exclusive rare pet. It can be obtained by hatching from the Rare Egg purchasable in the Pet Eggs Shop.
+
+- **Date Added:** May 3, 2025
+
+
+### Nutcracker {#nutcracker}
+
+![Nutcracker](media/Nutcracker.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Christmas Egg 18.5% Premium Christmas Egg 18.5%
+
+- **Passive Ability:** Nutcracker: Occasionally cracks open a random Nutty type fruit and grants a random reward! Ignores favorited fruit.
+
+- **Appearance:** The Nutcracker is a limited mythical pet that was added during the second part of the Christmas Harvest Event.
+
+- **Date Added:** December 13, 2025
+
+
+### Pancake Mole {#pancake-mole}
+
+![Pancake Mole](media/Pancake_Mole.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 38%
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Pancake Hunter: Every 10-80s, digs down underground to find treasure. Can dig up gear or sheckles!
+
+- **Appearance:** The Pancake Mole is a rare pet which was added in the Cooking update. It can be obtained by hatching the Gourmet Egg with a 38% chance.
+
+- **Date Added:** August 2nd, 2025
+
+
+### Red Panda {#red-panda}
+
+![Red Panda](media/Red_Panda.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Fall Pet Shop
+
+- **Passive Ability:** Adorable Haggler: Occasionally, goes to the Gear or Seed Shop or Pet Egg Shop and restocks a random stock. Rarer items have rarer chance to stock.
+
+- **Appearance:** The Red Panda is a pet that was added in the second half of the Fall Market Event and can be obtained from the Fall Merchant.
+
+- **Date Added:** September 20th, 2025
+
+
+### Sand Snake {#sand-snake}
+
+![Sand Snake](media/Sand_Snake.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 34.5%
+
+- **Obtaining Method:**
+  Oasis Egg
+  Premium Oasis Egg
+
+- **Passive Ability:** Has a 1.31% - 6% to duplicate an item or seed when purchasing from the gear or seed shop.
+
+- **Appearance:** The Sand Snake is a legendary pet added during the second part of the Summer Harvest Event. It can be obtained from the Oasis Egg. The player could have bought it in the Harvest Shop.
+
+- **Date Added:** June 28, 2025
+
+
+### Santa Bear {#santa-bear}
+
+![Santa Bear](media/Santa_Bear.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Winter Egg 26% Premium Winter Egg 26%
+
+- **Passive Ability:** Merry Beary: Occasionally spawns a random Christmas gift! Find it to get a reward!
+
+- **Appearance:** The Santa Bear is a limited legendary pet that was added during the third part of the Christmas Harvest Event.
+
+- **Date Added:** December 20, 2025
+
+
+### Show Pony {#show-pony}
+
+![Show Pony](media/Show_Pony.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Carnival Egg 10%  Premium Carnival Egg 10%  Rainbow Premium Carnival Egg 10.5%
+
+- **Passive Ability:** Pony Parade: Every 30m on the clock, All your Ponies form a line and Parade towards the Gear Shop, Egg Shop or Seed Shop and has a chance to restock 1 random item. Each Pony in the parade grants extra restock luck.
+
+- **Appearance:** The Show Pony is a limited mythical pet that was added on the Garden Games Event.
+
+- **Date Added:** January 3rd, 2026
+
+
+### Silver Monkey {#silver-monkey}
+
+![Silver Monkey](media/Silver_Monkey.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 42.55%
+
+- **Obtaining Method:**
+  Legendary Egg
+
+- **Passive Ability:** 8% chance to refund crops.
+
+- **Appearance:** The Silver Monkey is a Legendary Pet added in the Animal Update. It can be obtained by hatching the Legendary Egg with a chance of 42.55%. It has about 8,000 hunger.
+
+- **Date Added:** May 3, 2025
+
+
+### Zebra {#zebra}
+
+![Zebra](media/Zebra.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Safari Egg
+
+- **Passive Ability:** Zebra Stampede: Every 30 minutes on the clock: All zebras run back and forth from the Seed Shop to Gear Shop or vice-versa. Grants you a random Safari related reward! Has a chance to trigger again on each run!
+
+- **Appearance:** The Zebra is a limited rare pet that was added in the Safari Harvest Event.
+
+- **Date Added:** November 1st, 2025
+
+
+\pagebreak
+
+## Harvest or Seed Helpers {#harvest-or-seed-helpers}
+
+### Axolotl {#axolotl}
+
+![Axolotl](media/Axolotl.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - Oasis Egg 15%`nPremium Oasis Egg 15%
+
+- **Obtaining Method:**
+  Oasis Egg
+
+- **Passive Ability:** 6.76% chance Summer type fruit stays after collecting!
+
+- **Appearance:** The Axolotl is a pet that is obtained in the Oasis Egg which can be bought in the Summer Shop and Premium Oasis Egg which then can be bought at the Limited Time Shop at a 15% chance of obtaining.
+
+- **Date Added:** June 28, 2025
+
+
+### Bone Dog {#bone-dog}
+
+![Bone Dog](media/Bone_Dog.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 28%
+
+- **Obtaining Method:**
+  Spooky Egg
+
+- **Passive Ability:** Every ~76s, ~15% chance to dig up a random seed! Can dig up a seed exclusive to the Bone Dog!
+
+- **Appearance:** The Bone Dog is a limited rare pet that was added in the Halloween Event.
+
+- **Date Added:** 
+
+
+### Cape Buffalo {#cape-buffalo}
+
+![Cape Buffalo](media/Cape_Buffalo.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Safari Harvest Event Shop
+
+- **Passive Ability:** Safari Renewal: 10.2% chance harvested fruit duplicates! Rarer crops have lower chance to duplicate.Safari Harvester: 5.1% extra chance for Safari type fruit to duplicate!
+
+- **Appearance:** The Cape Buffalo is a limited-time rare pet that was added in the Safari Mega Harvest Event. and also the best pet for duplicating fruits, due to its higher chance of duplication, than other alternatives like Giant Ant, Red Giant Ant and Stegosaurus
+
+- **Date Added:** November 8th 2025
+
+
+### Chipmunk {#chipmunk}
+
+![Chipmunk](media/Chipmunk.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Fall Pet Shop, Fall Merchant
+
+- **Passive Ability:** Harvest Stash: 6-12% Chance to not consume a use when using a Harvest Tool!
+
+- **Appearance:** The Chipmunk is a common pet that was released alongside the Fall Market Event.
+
+- **Date Added:** September 13, 2025
+
+
+### Cuckoo {#cuckoo}
+
+![Cuckoo](media/Cuckoo.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Bird Egg 30%  Premium Bird Egg 30%  Rainbow Premium Bird Egg 23%
+
+- **Passive Ability:** Cuckoo Luck: When the player get a Lucky Harvest: There is a 2-6% chance to get triple seeds! (stacked chance capped at 12%)
+
+- **Appearance:** The Cuckoo is a limited legendary pet that was added in the Hungry Birds Event.
+
+- **Date Added:** January 17, 2026
+
+
+### Dairy Cow {#dairy-cow}
+
+![Dairy Cow](media/Dairy_Cow.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 50%
+
+- **Obtaining Method:**
+  Sprout Egg
+
+- **Passive Ability:** All plants within 10 studs grow 1.3x faster! When selling this pet: Has a small chance to get a Beanstalk seed!
+
+- **Appearance:** The Dairy Cow is a limited common pet which could be obtained in the Sprout Egg in the Beanstalk Event.
+
+- **Date Added:** August 16th, 2025
+
+
+### Deer {#deer}
+
+![Deer](media/Deer.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 25%
+
+- **Obtaining Method:**
+  Uncommon Egg
+
+- **Passive Ability:** Gives a 3% chance for berry plants to stay when harvested.
+
+- **Appearance:** The Deer is an Uncommon Pet added in the Animal Update. It can be obtained by hatching the Uncommon Egg with a chance of 25%. The Deer has 2,500 hunger.
+
+- **Date Added:** May 3rd, 2025
+
+
+### Elk {#elk}
+
+![Elk](media/Elk.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Skyroot Chest 34.5%Exotic Skyroot Chest 34%Rainbow Sack 28%
+
+- **Passive Ability:** 2% chance berry fruit stays after collecting! Rarer plants have a rarer chance to stay.
+
+- **Appearance:** The Elk is a limited uncommon pet that was added in the second part of the Beanstalk Event.
+
+- **Date Added:** August 23rd, 2025
+
+
+### German Shepherd {#german-shepherd}
+
+![German Shepherd](media/German_Shepherd.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie at Phat
+  Mojo
+
+- **Passive Ability:** Digging K9: Occasionally has chance to dig up a random seed! The dug up seed has a small chance to be a Gold seed instead!
+
+- **Appearance:** The German Shepherd is an exclusive legendary pet. It can be obtained by redeeming a code from buying a Grow a Garden plushie at PhatMojo.
+
+- **Date Added:** 
+
+
+### Giant Ant {#giant-ant}
+
+![Giant Ant](media/Giant_Ant.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Bug Egg 25%Exotic Bug Egg 30%
+
+- **Passive Ability:** For the blue colony:~10% chance for harvested crops to duplicate. Rarer fruits duplicate less often. ~5% extra chance for Candy type fruit to duplicate!
+
+- **Appearance:** The Giant Ant has a blue body and head, as well as 6 dark blue legs and an antennae. It has two body segments: a torso and an abdomen.
+
+- **Date Added:** May 3, 2025
+
+
+### Hex Serpent {#hex-serpent}
+
+![Hex Serpent](media/Hex_Serpent.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Getting it from the Grave Digger's Treasures with a 2.33% chance
+
+- **Passive Ability:** Witchcraft: Plant single-harvest plants in a Hex Circle cosmetic and occasionally: The Hex Serpent will perform a ritual, consuming the plants, granting random rewards! The rarer plants and better variants grants better effects!
+
+- **Appearance:** The Hex Serpent is a divine pet that was added in the second part of the Halloween Event.
+
+- **Date Added:** October 18th, 2025
+
+
+### Hummingbird {#hummingbird}
+
+![Hummingbird](media/Hummingbird.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 30%
+
+- **Obtaining Method:**
+  Jungle Egg
+
+- **Passive Ability:** Every ~58s, converts a random single-harvest plant into its seed equivalent. Ignores favorited plants.
+
+- **Appearance:** The Hummingbird is a rare pet obtained from the Jungle Egg at a chance of 30%. It was added in the Seed Stages Event.
+
+- **Date Added:** September 27, 2025
+
+
+### Lyrebird {#lyrebird}
+
+![Lyrebird](media/Lyrebird.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Team Training
+
+- **Passive Ability:** Song of Lyre: Occasionally sings an empowering song, granting you the Song of Lyre buff for a duration. While active, you have a chance to duplicate collected fruits and also get bonus weight. Reapplying the buff refreshes its duration. If the new buff has a higher chance or weight bonus, it replaces the current one.
+
+- **Appearance:** The Lyrebird is a limited mythical pet that was added to the fourth part of the Easter Event 2026.
+
+- **Date Added:** April 25, 2026
+
+
+### Moon Cat {#moon-cat}
+
+![Moon Cat](media/Moon_Cat.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  100,000,000 439
+
+- **Passive Ability:** Every ~70s, naps for ~20s. New fruit within ~20 studs will be ~1.5x larger. ~6% chance Night type fruits stays after harvest.
+
+- **Appearance:** The Moon Cat is a Legendary pet added in the Update 1.07.1. It could be obtained through the Twilight Shop or by the Summer Harvest Event rewards. This pet is currently unobtainable. It has 2400 hunger.
+
+- **Date Added:** May 24th 2025
+
+
+### Red Fox {#red-fox}
+
+![Red Fox](media/Red_Fox.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 1.5%
+
+- **Obtaining Method:**
+  Mythical Egg
+
+- **Passive Ability:** Scoundrel: Occasionally goes to another player's plot and tries to steal a seed from a random plant. The rarer the plant, the harder it is to succeed
+
+- **Appearance:** The Red Fox is a divine pet added in the Blood Moon Update. It has a 1.5% chance of being hatched from a Mythical Egg.
+
+- **Date Added:** May 17th, 2025
+
+
+### Red Giant Ant {#red-giant-ant}
+
+![Red Giant Ant](media/Red_Giant_Ant.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 8.93%
+
+- **Obtaining Method:**
+  Mythical Egg
+
+- **Passive Ability:** 5% chance harvested crops duplicate! Rarer crops have lower chance to duplicate. 5% extra chance for Fruit type crops to duplicate!
+
+- **Appearance:** The Red Giant Ant is a Mythical pet added in the Blood Moon Event Update. It can be obtained from hatching the Mythical Egg with a chance of 8.93%. It has 15,000 hunger.
+
+- **Date Added:** May 17th, 2025
+
+
+### Seagull {#seagull}
+
+![Seagull](media/Seagull.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 25%
+
+- **Obtaining Method:**
+  Common Summer Egg
+
+- **Passive Ability:** When the player get a Lucky Harvest: There is a 4 percent chance to get a extra seed!
+
+- **Appearance:** The Seagull is a Common pet released in the Summer Update. It can be obtained from the Common Summer Egg for   1,000,000 or  29. It has 3,500 Hunger.
+
+- **Date Added:** June 21, 2025
+
+
+### Shiba Inu {#shiba-inu}
+
+![Shiba Inu](media/Shiba_Inu.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 40%
+
+- **Obtaining Method:**
+  Zen Egg
+
+- **Passive Ability:** Man's Best Tomodachi: Occasionally digs up a random seed at a higher chance
+
+- **Appearance:** The Shiba Inu was an uncommon, pet, obtainable from the Zen Egg with a 40% chance.
+
+- **Date Added:** July 19th, 2025
+
+
+### Snail {#snail}
+
+![Snail](media/Snail.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Bug Egg 30%Exotic Bug Egg 30%
+
+- **Passive Ability:** Extra 5.08% chance harvested plants drop seeds. Rarer plants have a lower chance to drop seeds
+
+- **Appearance:** The Snail has a beige body and eye stalks, as well as a brown shell with a swirl pattern. Its eyes and mouth are both black.
+
+- **Date Added:** May 3rd, 2025
+
+
+### Spotted Deer {#spotted-deer}
+
+![Spotted Deer](media/Spotted_Deer.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 25%
+
+- **Obtaining Method:**
+  Rare Egg
+
+- **Passive Ability:** Gives a 5% chance for berry plants to stay when harvested.
+
+- **Appearance:** The Spotted Deer is a Rare pet added in the Animal Update. It can be obtained by hatching the Rare Egg with a chance of 25%. The Spotted Deer has 2,500 hunger.
+
+- **Date Added:** May 3rd, 2025
+
+
+### Stegosaurus {#stegosaurus}
+
+![Stegosaurus](media/Stegosaurus.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Dinosaur Egg 28%A small chance to get from the DNA Machine
+
+- **Passive Ability:** Prehistoric Doubling: Small chance to duplicate harvested fruitPrehistoric Harvester: Increased chance to duplicate harvested prehistoric type plant
+
+- **Appearance:** The Stegosaurus is a Legendary pet added in the Prehistoric Event and was obtainable from the Dinosaur Egg or from the DNA Converter.
+
+- **Date Added:** July 5th, 2025
+
+
+### Topaz Snail {#topaz-snail}
+
+![Topaz Snail](media/Topaz_Snail.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 45%
+
+- **Obtaining Method:**
+  Gem Egg
+
+- **Passive Ability:** Shard and Steady: When triggering a Lucky Harvest: 7-14% the player gets a Cleansing Pet Shard! (Max 50%)
+
+- **Appearance:** The Topaz Snail is a limited, rare pet that can be obtained with a 45% chance from the Gem Egg.
+
+- **Date Added:** 15th November 2025
+
+
+### Tsuchinoko {#tsuchinoko}
+
+![Tsuchinoko](media/Tsuchinoko.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie at Phat
+  Mojo.
+
+- **Passive Ability:** Fat Snake: Increased lucky harvest chance!
+
+- **Appearance:** The Tsuchinoko is an exclusive uncommon pet. It can be obtainabed by redeeming a code from buying a Grow a Garden plushie at PhatMojo.
+
+- **Date Added:** 
+
+
+### Woodpecker {#woodpecker}
+
+![Woodpecker](media/Woodpecker.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Woodpecking: Occasionally goes to a Woody type plant and pecks at it, which grants a chance for Woody type fruit to duplicate! Rarer crops have lower chance to duplicate.
+
+- **Appearance:** The Woodpecker is a rare pet released in the second half of the Fall Market Event update.
+
+- **Date Added:** September 20th, 2025
+
+
+\pagebreak
+
+## Levellers {#levellers}
+
+### Amethyst Beetle {#amethyst-beetle}
+
+![Amethyst Beetle](media/Amethyst_Beetle.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 32%
+
+- **Obtaining Method:**
+  Gem Egg
+
+- **Passive Ability:** Beetle Duel: Every 6:00-1:20m, initiates a battle with another player's Beetle. If the beetle a player owns wins, they get a reward! The higher level and heavier the beetle the more likely it is to win!
+
+- **Appearance:** The Amethyst Beetle is a legendary pet that is obtained with a 32% chance from the Gem Egg.
+
+- **Date Added:** November 15, 2025
+
+
+### Cerberus {#cerberus}
+
+![Cerberus](media/Cerberus.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Trial by Fire: Occasionally devours a fruit with Ash, Haze, Burnt & Flaming mutations and then spits out Smoldering mutation at another fruit, also has a chance to increase the level of a random pet in your garden!  Flame Diety: When selling fruits with Smoledring mutation: There is a chance a random mutation from that fruit will be applied to a fruit in your garden!
+
+- **Appearance:** The Cerberus is a limited divine pet that was added in the Easter Event 2026.
+
+- **Date Added:** April 4, 2026
+
+
+### Champion Beetle {#champion-beetle}
+
+![Champion Beetle](media/Champion_Beetle.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie at Phat
+  Mojo
+
+- **Passive Ability:** Champion Beetle Duel: Occasionally initiates a battle with another player's Beetle. If the player's beetle wins the player get a reward! The higher level and heavier the beetle the more likely it is to win. Champion Beetles can give a beetle reward exclusive to it!
+
+- **Appearance:** The Champion Beetle is an exclusive legendary pet. It can be obtained by redeeming a code from buying a Grow a Garden plushie at PhatMojo.
+
+- **Date Added:** 
+
+
+### French Fry Ferret {#french-fry-ferret}
+
+![French Fry Ferret](media/French_Fry_Ferret.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 1%
+
+- **Obtaining Method:**
+  Gourmet Egg
+
+- **Passive Ability:** Welcome to fry town: Occasionally increases a pet's level by one
+
+- **Appearance:** The French Fry Ferret is a divine pet released in the Cooking Event, which can be hatched from the Gourmet Egg with a 1% chance.
+
+- **Date Added:** August 2, 2025
+
+
+### Pine Beetle {#pine-beetle}
+
+![Pine Beetle](media/Pine_Beetle.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Rare Gift 5% Mythical Gift 15%
+
+- **Passive Ability:** Pine Beetle Duel: Occasionally initiates a battle with another player's Beetle. If your beetle wins you get a reward! The higher level and heavier the beetle the more likely it is to win. Pine Beetles can give a beetle reward exclusive to it!
+
+- **Appearance:** The Pine Beetle is a limited legendary pet that was added during the second part of the Christmas Harvest Event.
+
+- **Date Added:** December 13, 2025
+
+
+### Stag Beetle {#stag-beetle}
+
+![Stag Beetle](media/Stag_Beetle.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season 2 Season Pass
+
+- **Passive Ability:** Every -6 minutes, initiates a battle with another player's Beetle. If your beetle wins you get a reward! The higher level and heavier the beetle the more likely it is to win.
+
+- **Appearance:** The Stag Beetle is a limited, legendary pet that was added during the Safari Harvest Event.
+
+- **Date Added:** November 1, 2025
+
+
+### Termite {#termite}
+
+![Termite](media/Termite.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 7.22%
+
+- **Obtaining Method:**
+  Smithing Event
+
+- **Passive Ability:** Level Eater: Occasionally, reduces a random pet's level by 1!
+
+- **Appearance:** The Termite is a common pet that is obtained with a 7.22% chance from digging in the Smithing Event.
+
+- **Date Added:** 15th November 2025
+
+
+### Wendigo {#wendigo}
+
+![Wendigo](media/Wendigo.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Winter Egg 0.5% Premium Winter Egg 0.5%
+
+- **Passive Ability:** Gnawing Hunger: Always loses hunger and loses more hunger per second and gains bonus effects the higher the current hunger level!
+
+- **Appearance:** The Wendigo is a limited divine pet that was added during the third part of the Christmas Harvest Event.
+
+- **Date Added:** December 20, 2025
+
+
+\pagebreak
+
+## Mutators {#mutators}
+
+### Apple Gazelle {#apple-gazelle}
+
+![Apple Gazelle](media/Apple_Gazelle.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Admin Abuse War
+
+- **Passive Ability:** Apple Harvester: Fruits that have apple in the name have a 4-7% chance to duplicate when collected; Sugar Warp: Harvesting Sugar Apple crops have a 2-4% to apply Warped mutation to a random fruit in your garden!
+
+- **Appearance:** The Apple Gazelle is a limited, mythical pet, that was given as a reward for attending the Admin Abuse War.
+
+- **Date Added:** August 23rd, 2025
+
+
+### Ash Raven {#ash-raven}
+
+![Ash Raven](media/Ash_Raven.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season 4 of the Season Pass
+
+- **Passive Ability:** Ashened Furnishing: Occasionally goes to a random fruit with Ash and/or Burnt mutation and converts it into a random Ash-themed castle cosmetic! Ignores favorited fruit.
+
+- **Appearance:** The Ash Raven is a limited legendary pet that was added in the Easter Event 2026.
+
+- **Date Added:** April 4, 2026
+
+
+### Badger {#badger}
+
+![Badger](media/Badger.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 32.5%
+
+- **Obtaining Method:**
+  Fall Egg
+
+- **Passive Ability:** Earthquake Excavator: Occasionally digs around and spreads mud, has a chance to mutate nearby fruits with Cracked.
+
+- **Appearance:** The Badger is a limited rare pet that was added in the Fall Market Event. It has 15,000 hunger.
+
+- **Date Added:** September 13, 2025
+
+
+### Bat {#bat}
+
+![Bat](media/Bat.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 45%
+
+- **Obtaining Method:**
+  Spooky Egg
+
+- **Passive Ability:** Grants Spooky plants in ~32 studs a ~0.7x variant chance bonus!
+
+- **Appearance:** The Bat is an uncommon pet that was released in the Halloween Event.
+
+- **Date Added:** October 11, 2025
+
+
+### Bear Bee {#bear-bee}
+
+![Bear Bee](media/Bear_Bee.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 5%
+
+- **Obtaining Method:**
+  Bee Egg
+
+- **Passive Ability:** Wanna-bee:Every 25 minutes applies the HoneyGlazed mutation to a random fruit
+
+- **Appearance:** The Bear Bee is a limited mythical Pet added in the Bizzy Bee Event update. It can be obtained in the Bee Egg for  30,000,000 or 129.
+
+- **Date Added:** May 31, 2025
+
+
+### Bear on Bike {#bear-on-bike}
+
+![Bear on Bike](media/Bear_on_Bike.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Carnival Egg 20%  Premium Carnival Egg 20%  Rainbow Premium Carnival Egg 17%
+
+- **Passive Ability:** One Bear Act: Occasionally goes to a random fruit in your garden and does a trick on it, applying the Whimsical mutation!
+
+- **Appearance:** The Bear on Bike is a limited legendary pet that was added on the Garden Games Event.
+
+- **Date Added:** January 3, 2026
+
+
+### Bee {#bee}
+
+![Bee](media/Bee.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 65%
+
+- **Obtaining Method:**
+  Bee Egg
+
+- **Passive Ability:** Every ~25m, flies to a nearby fruit and pollinates it, applying the Pollinated mutation.
+
+- **Appearance:** The Bee is a limited, uncommon Pet introduced in the Bizzy Bee Event update. There is a 65% chance of hatching it from the Bee Egg, which could be previously purchased for  30,000,000 or  129, until it was added in the Honey Merchant for 18. The Bee has 25,000 hunger.
+
+- **Date Added:** May 31, 2025
+
+
+### Black Spotty Dragon {#black-spotty-dragon}
+
+![Black Spotty Dragon](media/Black_Spotty_Dragon.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:**
+  - 100%
+
+- **Obtaining Method:**
+  Black Spotty Egg
+
+- **Passive Ability:** Striking Spots: Occasionally releases striking pink and blue spots on fruits mutating them with Spotty!
+
+- **Appearance:** The Black Spotty Dragon is a prismatic pet that was added in the third part of the Bizzy Bee Event 2026. The pet has 300,000 hunger.
+
+- **Date Added:** May 23, 2026
+
+
+### Blood Hedgehog {#blood-hedgehog}
+
+![Blood Hedgehog](media/Blood_Hedgehog.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  23,000,000 in Blood Moon Shop
+
+- **Passive Ability:** Sanguine Spike - Makes prickly fruits grow bigger, higher prickly fruit variant chance
+
+- **Appearance:** The Blood Hedgehog is a Legendary pet added in the Blood Moon Event update.
+
+- **Date Added:** May 17th, 2025
+
+
+### Bumblebee {#bumblebee}
+
+![Bumblebee](media/Bumble_Bee.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 65.5%
+
+- **Obtaining Method:**
+  Hive Egg
+
+- **Passive Ability:** Bumble Pollinator: Occasionally pollinates fruit.
+
+- **Appearance:** The Bumblebee is a limited uncommon pet that was added to the Bizzy Bee Event 2026. The pet has 30,000 hunger.
+
+- **Date Added:** May 9, 2026
+
+
+### Butterfly {#butterfly}
+
+![Butterfly](media/Butterfly.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 1%
+
+- **Obtaining Method:**
+  Anti Bee Egg
+  Premium Anti Bee Egg 149
+
+- **Passive Ability:** Rainbow Flutter:Every ~30m, flies to a nearby fruit with 5+ mutations, removes 5 mutations from it and turns it rainbow! Ignores favorited fruit.
+
+- **Appearance:** The Butterfly is a limited Mythical Pet introduced in the Friendship Update.
+
+- **Date Added:** June 7th, 2025
+
+
+### Calico {#calico}
+
+![Calico](media/Calico.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie at Phat
+  Mojo
+
+- **Passive Ability:** Calico Nap: Naps in a random spot in the player's farm, emitting an aura that boosts nearby fruit size and affected fruits have a chance to get Sleepy mutation!
+
+- **Appearance:** The Calico is an exclusive legendary pet. It can be obtained by redeeming a code from buying a Grow a Garden plushie at PhatMojo.
+
+- **Date Added:** 
+
+
+### Camel {#camel}
+
+![Camel](media/Camel.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Trader Troy
+
+- **Passive Ability:** Every  ~10m. gathers 5.6 Prickly type fruit, forms a caravan with all other camels to travel around the map. Drops one package per fruit along its pack. Collect packages for random rewards! Rarer fruit/better variant/more camels gives better rewards.
+
+- **Appearance:** The Camel is a mythical pet that was added in the second half of the Trader Event.
+
+- **Date Added:** November 29, 2025
+
+
+### Candy Squirrel {#candy-squirrel}
+
+![Candy Squirrel](media/Candy_Squirrel.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Easter Event Shop
+
+- **Passive Ability:** Candy Craze: Occasionally applies the Candy mutation!
+
+- **Appearance:** The Candy Squirrel is a limited mythical pet that was added to the third part of the Easter Event 2026. It can be obtained by reaching Stage 7 of the Team Rewards from the Candy Packaging.
+
+- **Date Added:** April 18, 2026
+
+
+### Cheetah {#cheetah}
+
+![Cheetah](media/Cheetah.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Crafting in the Smithing Event1x Orange Tabby2x Legendary Coal 8,500,000
+
+- **Passive Ability:** Master of Faster: Occasionally turns you into a cheetah for a duration. Harvested fruit during this time have a chance to get the Wildfast mutation!
+
+- **Appearance:** The Cheetah is a legendary pet that was added in the Smithing Event.
+
+- **Date Added:** November 15th, 2025
+
+
+### Chicken Zombie {#chicken-zombie}
+
+![Chicken Zombie](media/Chicken_Zombie.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Join the game before the 1.06.0 update, join the game during the Admin Abuse War, or Participate Double Admin Abuse, after Jhai's Admin Abuse on October 4, 2025.
+
+- **Passive Ability:** Every 29m, 20.82% chance a nearby fruit becomes Zombified!Increases egg hatch speed by 10.41%
+
+- **Appearance:** The Chicken Zombie is a limited, mythical pet that was introduced in Update 1.06.0, on May 17, 2025 or on Admin Abuse War  event on August 23, 2025. It was also given on October 4th, 2025 during a double Admin Abuse.
+
+- **Date Added:** May 17, 2025
+
+
+### Chocolate Bunny {#chocolate-bunny}
+
+![Chocolate Bunny](media/Chocolate_Bunny.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 55%
+
+- **Obtaining Method:**
+  Golden Egg
+
+- **Passive Ability:** Choc Chomper: Occasionally eats any Carrot plant with Choc mutation and spreads it to two other random fruits in your garden. Ignores favorited fruit.
+
+- **Appearance:** The Chocolate Bunny is a limited uncommon pet that was added in the Easter Event 2026.
+
+- **Date Added:** April 4, 2026
+
+
+### Christmas Gorilla {#christmas-gorilla}
+
+![Christmas Gorilla](media/Christmas_Gorilla.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 8%
+
+- **Obtaining Method:**
+  Santa's Surprise Present
+
+- **Passive Ability:** Cold Belly: Occasionally has grabs fruits with Cold type mutations to reduce cooking time of a random cooking pot!
+
+- **Appearance:** The Christmas Gorilla is Rare, Limited Pet from Christmas Harvest Event
+
+- **Date Added:** December 6th 2025
+
+
+### Christmas Spirit {#christmas-spirit}
+
+![Christmas Spirit](media/Christmas_Spirit.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  From the Chamberstick
+
+- **Passive Ability:** The Christmas Spirit: Christmas plants within range have increased variant chance, fruit size and growth speedThe Christmas Cheer: Occasionally mutates fruits in your garden with Festive mutationChristmas Rally: Christmas type pets gain bonus XP per second
+
+- **Appearance:** The Christmas Spirit is a limited, divine pet that was added in the part 3 of the Christmas Harvest Event.
+
+- **Date Added:** December 20, 2025
+
+
+### Chubby Chipmunk {#chubby-chipmunk}
+
+![Chubby Chipmunk](media/Chubby_Chipmunk.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Get from the "Free Chipmunk" stand at the event area of the Chubby Chipmunk update
+
+- **Passive Ability:** Occasionally eats a random fruit in the player's garden and gains weight(always failed after the event done) (ignores favorited or single harvest fruits). Also spawns an Acorn somewhere which upon collected grants a random reward!
+
+- **Appearance:** The Chubby Chipmunk is a rare pet released in the Chubby Chipmunk Event.
+
+- **Date Added:** October 4th 2025
+
+
+### Cockatrice {#cockatrice}
+
+![Cockatrice](media/Cockatrice.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 1%
+
+- **Obtaining Method:**
+  Enchanted Egg
+
+- **Passive Ability:** Silver Screech: Occasionally lets out a screech that has a chance to convert nearby fruit to Silver or GoldVenom Spit: Spits venom at different fruit/egg/pets which apply bonuses
+
+- **Appearance:** The Cockatrice is a divine pet that was added in the first half of the Fairy Event. It is obtained from an Enchanted Egg with a 1% chance.
+
+- **Date Added:** August 30, 2025
+
+
+### Cooked Owl {#cooked-owl}
+
+![Cooked Owl](media/Cooked_Owl.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Join the game before the 1.10.0 update
+
+- **Passive Ability:** Let Him Cook - Every 15 minutes, 15.35% chance to cook a nearby fruit. Usually Burnt, but occasionally Cooked!                                                                            King of the Grill - All active pets gain an additional 0.17 XP/s. Also Very Tasty!
+
+- **Appearance:** The Cooked Owl is a mythical pet that was obtainable in the game during the Crafting Update. It was only obtainable during Jandel handouts at 16M players. If players look closely at the model, they will find a hint to a "Golden Bee" pet.
+
+- **Date Added:** June 14, 2025
+
+
+### Corrupted Kitsune {#corrupted-kitsune}
+
+![Corrupted Kitsune](media/Corrupted_Kitsune.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:**
+  - Kitsune Chest 1%`nExotic Kitsune Chest 1%`nRainbow Sack 7%
+
+- **Obtaining Method:**
+  Kitsune Chest
+  Exotic Kitsune Chest
+
+- **Passive Ability:** Nine-Tailed Curse: Occasionally, applies Corrupted Chakra to 9 different fruit with a very rare chance for Corrupted Foxfire Chakra instead!
+
+- **Appearance:** The Corrupted Kitsune is a prismatic pet, obtained from the Kitsune Chest or from the Exotic Kitsune Chest.
+
+- **Date Added:** July 26, 2025
+
+
+### Corrupted Kodama {#corrupted-kodama}
+
+![Corrupted Kodama](media/Corrupted_Kodama.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 4.35%
+
+- **Obtaining Method:**
+  Corrupt Zen Quests
+
+- **Passive Ability:** Tree Spirit: 4.22% chance Zen type fruit gets Corrupt mutation after collecting!
+
+- **Appearance:** The Corrupted Kodama is a legendary pet added in the Corrupted Zen Event, obtained from the Corrupt Zen Quests with a 4.35% chance.
+
+- **Date Added:** July 26,2025
+
+
+### Dark Spriggan {#dark-spriggan}
+
+![Dark Spriggan](media/Dark_Spriggan.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Creepy Critters Shop
+
+- **Passive Ability:** Dark Overgrowth: Occasionally spreads its roots and all nearby fruit have a chance to get the Blight mutation!
+
+- **Appearance:** The Dark Spriggan is a mythical pet added in the second part of the Halloween Event.
+
+- **Date Added:** October 18th, 2025
+
+
+### Diamond Panther {#diamond-panther}
+
+![Diamond Panther](media/Diamond_Panther.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 0.5%
+
+- **Obtaining Method:**
+  Gem Egg
+
+- **Passive Ability:** 12 Carats: Harvesting a fruit with 12 mutations has a chance to age a pet up by 1!
+
+- **Appearance:** The Diamond Panther is a divine pet that is obtained with a 0.5% chance from the Gem Egg.
+
+- **Date Added:** November 15, 2025
+
+
+### Disco Bee {#disco-bee}
+
+![Disco Bee](media/Disco_Bee.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 0.25%
+
+- **Obtaining Method:**
+  Anti Bee Egg
+  Premium Anti Bee Egg
+
+- **Passive Ability:** Disco Disco: Occasionally has a chance to turn a nearby fruit into Disco
+
+- **Appearance:** The Disco Bee is a limited Divine Pet added inside the Bizzy Bee Update.
+
+- **Date Added:** June 7, 2025
+
+
+### Dragonfly {#dragonfly}
+
+![Dragonfly](media/Dragonfly.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Bug Egg 1%Exotic Bug Egg 1%
+
+- **Passive Ability:** Transmutation: Occasionally, turns a random fruit gold
+
+- **Appearance:** The Dragonfly is a completely golden version of a real dragonfly, but its eyes, leg tips, wing tips, and tail are neon. The Dragonfly flaps its wings every client frame. It uses the same texture as the Gold mutation.
+
+- **Date Added:** May 3, 2025
+
+
+### Eggnog Chick {#eggnog-chick}
+
+![Eggnog Chick](media/Eggnog_Chick.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Mythical Gift 2.5% Gold Gift 10%
+
+- **Passive Ability:** Eggcelerator: Decreases the time needed to hatch other eggsEggnoginator: Occasionally has a chance to mutate fruit with Eggnog mutation! Chance increases the more Eggs you have in your garden.
+
+- **Appearance:** The Eggnog Chick is a limited mythical pet that was added during the second part of the Christmas Harvest Event.
+
+- **Date Added:** December 13, 2025
+
+
+### Elemental Bee {#elemental-bee}
+
+![Elemental Bee](media/Elemental_Bee.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 4%
+
+- **Obtaining Method:**
+  Hive Egg
+
+- **Passive Ability:** Beelemental: Occasionally mutates a random fruit in your garden with 1 of 4 elemental mutations!
+
+- **Appearance:** The Elemental Bee is a limited mythical pet that was added to the Bizzy Bee Event 2026. The pet has 25,000 hunger.
+
+- **Date Added:** May 9, 2026
+
+
+### Emerald Snake {#emerald-snake}
+
+![Emerald Snake](media/Emerald_Snake.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 14%
+
+- **Obtaining Method:**
+  Gem Egg
+
+- **Passive Ability:** Gem Carver: Occasionally goes to a random fruit in your garden and converts it into a random Gem-themed cosmetic!
+
+- **Appearance:** The Emerald Snake is a limited legendary pet that was obtainable during the Smithing Event.
+
+- **Date Added:** November 15, 2025
+
+
+### Fennec Fox {#fennec-fox}
+
+![Fennec Fox](media/Fennec_Fox.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 0.5%
+
+- **Obtaining Method:**
+  Oasis Egg
+  Premium Oasis Egg
+
+- **Passive Ability:** Sly: Occasionally goes to another player's random fruit, has a chance to copy a mutation from it and applies it to a random fruit you own.
+
+- **Appearance:** The Fennec Fox is a limited divine pet released in the Mega Harvest Update. It could be hatched with a 0.5% chance from the Premium Oasis Egg or the Oasis Egg.
+
+- **Date Added:** June 28, 2025
+
+
+### Firefly {#firefly}
+
+![Firefly](media/Firefly.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Every ~8:59m, ~10% chance nearby fruit becomes Shocked.
+
+- **Appearance:** The Firefly is a Mythical pet that was added in the Seed Stages Event, along with the Season Pass.
+
+- **Date Added:** Unknown | Made obtainable September 26, 2025
+
+
+### Flame Bee {#flame-bee}
+
+![Flame Bee](media/Flame_Bee.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie from Phat
+  Mojo
+
+- **Passive Ability:** Beeter Pollinator: Occasionally pollinates fruit  Hot Honey: Occasionally has a chance to mutate fruit with Burnt or Flaming
+
+- **Appearance:** The Flame Bee is an exclusive rare pet. It can be obtained by redeeming a code from buying a Grow a Garden plushie at PhatMojo.
+
+- **Date Added:** 
+
+
+### Fortune Squirrel {#fortune-squirrel}
+
+![Fortune Squirrel](media/Fortune_Squirrel.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Reaching 46.43 kg on the Chubby Chipmunk in the rewards
+
+- **Passive Ability:** CHA-CHING: Occasionally has a chance to apply the Jackpot mutation.
+
+- **Appearance:** The Fortune Squirrel was added during the Chubby Chipmunk Event. It could have been obtained if a player got their Chubby Chipmunk's weight to over 46.43kg.
+
+- **Date Added:** 
+
+
+### Frost Dragon {#frost-dragon}
+
+![Frost Dragon](media/Frost_Dragon.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Completing level 47 in Season 3 of the Season Pass
+
+- **Passive Ability:** Glacial Dragon: Occasionally converts all nearby Frozen mutations within 30 studs to Glacial mutation. For every mutation converted: XP is granted to all other pets in the player's garden!Frost Diety: When selling fruits with Glacial mutation: There is a chance a random mutation from that fruit will be applied to a fruit in the player's garden!
+
+- **Appearance:** The Frost Dragon is a limited divine pet obtainable in the Season Pass
+
+- **Date Added:** December 6, 2025
+
+
+### Frost Squirrel {#frost-squirrel}
+
+![Frost Squirrel](media/Frost_Squirrel.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Winter Egg 8.5%Premium Winter Egg 8.5%
+
+- **Passive Ability:** FREEZE!: Occasionally has a chance to mutate a random nearby fruit with Subzero mutation!
+
+- **Appearance:** The Frost Squirrel is a limited mythical pet that was added during the third part of the Christmas Harvest Event.
+
+- **Date Added:** December 20, 2025
+
+
+### Gardener Bee {#gardener-bee}
+
+![Gardener Bee](media/Gardener_Bee.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 8%
+
+- **Obtaining Method:**
+  Hive Egg
+
+- **Passive Ability:** Beetanist: Occasionally transfers a Pollinated mutation from a fruit (Ignores favorited) to other random fruits! The plants that have these fruits advance growth!
+
+- **Appearance:** The Gardener Bee is a limited legendary pet that was added to the Bizzy Bee Event 2026. The pet has 25,000 hunger.
+
+- **Date Added:** May 9, 2026
+
+
+### Gecko {#gecko}
+
+![Gecko](media/Gecko.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Purchased from the Safari Shop after the 130B Safari Points milestone is reached for 50M.
+
+- **Passive Ability:** Nearby Safari type plants have 1.6x increased variant chance!
+
+- **Appearance:** The Gecko is a Common pet added in the Safari Harvest Event.
+
+- **Date Added:** November 8th 2025
+
+
+### Ghost Bear {#ghost-bear}
+
+![Ghost Bear](media/Ghost_Bear.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Creepy Critters Shop
+
+- **Passive Ability:** Occasionally scares fruit and applies the Spooky Mutation!
+
+- **Appearance:** The Ghost Bear is a limited rare pet that was added in the Halloween Event.
+
+- **Date Added:** October 11, 2025
+
+
+### Giant Scorpion {#giant-scorpion}
+
+![Giant Scorpion](media/Giant_Scorpion.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie from Phat
+  Mojo
+
+- **Passive Ability:** Scorpion Sting: Occasionally stings a pet with the highest cooldown and refreshes its ability! There is a small chance for the stung pet to get the Venom Pet Mutation!
+
+- **Appearance:** The Giant Scorpion is an exclusive prismatic pet. It can be obtained by redeeming a code from buying a Grow a Garden plushie at PhatMojo.
+
+- **Date Added:** 
+
+
+### Glimmering Sprite {#glimmering-sprite}
+
+![Glimmering Sprite](media/Glimmering_Sprite.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 5%
+
+- **Obtaining Method:**
+  Enchanted Egg
+
+- **Passive Ability:** Every ~3:38 minutes, flies to a nearby fruit and enchants it, applying Glimmering mutation!
+
+- **Appearance:** The Glimmering Sprite is a limited, mythical pet that can be obtained from the Enchanted Egg at a chance of 5%(1/20). It was added in the Fairy Event.
+
+- **Date Added:** August 30th, 2025
+
+
+### Gnome {#gnome}
+
+![Gnome](media/Gnome.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Gnome Merchant
+
+- **Passive Ability:** Gnome Collector: Has a chance to mutate a random fruit with the Gnomed mutation. Gains additional chance for every Gnome cosmetic in your garden
+
+- **Appearance:** The Gnome is a legendary pet added in the second half of the Beanstalk Event.
+
+- **Date Added:** August 23rd, 2025
+
+
+### Gold Finch {#gold-finch}
+
+![Gold Finch](media/Gold_Finch.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Bird Egg 5%  Premium Bird Egg 5%  Rainbow Premium Bird Egg 10.5%
+
+- **Passive Ability:** Sparkle Squack: Occasionally applies the Goldsparkle mutation
+
+- **Appearance:** The Gold Finch is a limited prismatic pet that was added in the Hungry Birds Event.
+
+- **Date Added:** January 17, 2026
+
+
+### Golden Bee {#golden-bee}
+
+![Golden Bee](media/Golden_Bee.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - Unknown
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Pollinator: Occasionally pollinates fruitGolden Harvest: Harvested fruit has a chance to turn to gold
+
+- **Appearance:** The Golden Bee is a scrapped Mythical pet.
+
+- **Date Added:** 
+
+
+### Golden Goose {#golden-goose}
+
+![Golden Goose](media/Golden_Goose.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 1%
+
+- **Obtaining Method:**
+  Sprout Egg
+
+- **Passive Ability:** Golden Laying: Occasionally lays a Golden Egg plant that starts with the Fortune mutation. Selling the Golden Egg has chance to apply Fortune mutation to a random fruit in your garden
+
+- **Appearance:** The Golden Goose is a limited divine pet that was released in the Beanstalk Event.
+
+- **Date Added:** August 16, 2025
+
+
+### Golem {#golem}
+
+![Golem](media/Golem.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 6%
+
+- **Obtaining Method:**
+  Sprout Egg
+
+- **Passive Ability:** Tech Savvy: Every 5 minutes, goes to the mutation machine and tinkers with it and advances its time by 61 seconds!
+
+- **Appearance:** The Golem is an unobtainable, mythical pet, that was released in the Beanstalk Event Update.
+
+- **Date Added:** August 16th, 2025
+
+
+### Griffin {#griffin}
+
+![Griffin](media/Griffin.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 1%
+
+- **Obtaining Method:**
+  Skyroot Chest 1%Exotic Skyroot Chest 1%Rainbow Sack 7%
+
+- **Passive Ability:** Glorious Wings: Flaunts its wings releasing a cyclone in a random directions. Pets struck have cooldown advanced and fruits struck get Cyclonic mutation
+
+- **Appearance:** The Griffin is a limited divine pet obtainable from the Skyroot Chest with a 1% chance upon opening. It was released during the second half of the Beanstalk Event.
+
+- **Date Added:** August 23, 2025
+
+
+### Gummy Bear {#gummy-bear}
+
+![Gummy Bear](media/Gummy_Bear.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Easter Event Shop
+
+- **Passive Ability:** Gummy Express: Occasionally applies the Gummy mutation!
+
+- **Appearance:** The Gummy Bear is a limited legendary pet that was added in the Easter Event 2026.
+
+- **Date Added:** April 4, 2026
+
+
+### Hazehound {#hazehound}
+
+![Hazehound](media/Hazehound.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Hound of Ash: Occasionally applies Ash mutation to a random fruit  Hound of Haze: Occasionally applies Haze mutation to a random fruit.
+
+- **Appearance:** The Hazehound is a limited mythical pet that was added in the Easter Event 2026.
+
+- **Date Added:** April 4, 2026
+
+
+### Headless Horseman {#headless-horseman}
+
+![Headless Horseman](media/Headless_Horseman.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:**
+  - 0.5%
+
+- **Obtaining Method:**
+  Spooky Egg
+
+- **Passive Ability:** The Reins of Ruin: Occasionally haunts pets with one of four chaotic mutations!
+
+- **Appearance:** The Headless Horseman is a limited prismatic pet that was added in the Halloween Event.
+
+- **Date Added:** October 11, 2025
+
+
+### Hippo {#hippo}
+
+![Hippo](media/Hippo.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - N/A
+
+- **Obtaining Method:**
+  Purchased from the Safari Merchant
+
+- **Passive Ability:** Watermelon Chomber: Occasionally eats a Watermelon for bonus sheckles with chance to get the seed back.Monsoon Beast: Occasionally applies Monsoon mutation!
+
+- **Appearance:** The Hippo is a legendary pet that was added in the second part of the Safari Harvest Event. It can be obtained from purchasing in the Safari Merchant for  400,000,000,  539 or  539.
+
+- **Date Added:** November 8th 2025
+
+
+### Honey Bee {#honey-bee}
+
+![Honey Bee](media/Honey_Bee.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 25%
+
+- **Obtaining Method:**
+  Bee Egg
+
+- **Passive Ability:** Beeter Pollinator: Occasionally pollinates fruit
+
+- **Appearance:** The Honey Bee is a rare Pet introduced in the Bizzy Bee Event update.
+
+- **Date Added:** May 31, 2025
+
+
+### Hyacinth Macaw {#hyacinth-macaw}
+
+![Hyacinth Macaw](media/Hyacinth_Macaw.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Oasis Egg
+  Premium Oasis Egg
+
+- **Passive Ability:** Cloudtouched Bird: Every 8:06-0:15m, 15% or more chance to mutate a nearby fruit, applying the Cloudtouched mutation!
+
+- **Appearance:** The Hyacinth Macaw is a limited mythical pet added in the second part of the Summer Harvest Event.
+
+- **Date Added:** {June 28, 2025}
+
+
+### Hydra {#hydra}
+
+![Hydra](media/Hydra.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Three-Headed: Ages itself up by 1 then fully hatches an egg then mutates a random fruit with Terran. Cannot be mimicked or refreshed.Earth Diety: When selling fruits with Terran mutation, there is chance a random mutation from that fruit will be applied to a fruit in the player's garden!
+
+- **Appearance:** The Hydra is a divine pet that was added in the Safari Harvest Event.
+
+- **Date Added:** 1st November 2025
+
+
+### Hyrax {#hyrax}
+
+![Hyrax](media/Hyrax.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Chubby Chipmunk Rewards
+
+- **Passive Ability:** Occasionally eats a random fruit in your garden and spits out a Fissure Berry seed!
+
+- **Appearance:** The Hyrax is a limited uncommon pet that was added in the Chubby Chipmunk Event.
+
+- **Date Added:** October 4, 2025
+
+
+### Ice Golem {#ice-golem}
+
+![Ice Golem](media/Ice_Golem.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:**
+  - 0.5%
+
+- **Obtaining Method:**
+  Christmas Egg 0.5%  Premium Christmas Egg 0.5%  Festive Premium Christmas Egg 4.5%
+
+- **Passive Ability:** Cold Gears: Grants a chance for every pet mutation from the pet mutation to be 1 of 4 Ice Golem exclusive Pet Mutations!
+
+- **Appearance:** The Ice Golem is a limited prismatic Pet obtainable during the Christmas Harvest Event.
+
+- **Date Added:** December 13, 2025
+
+
+### Iguana {#iguana}
+
+![Iguana](media/Iguana.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 24%
+
+- **Obtaining Method:**
+  Jungle Egg
+
+- **Passive Ability:** Every 1m, goes to a random crop with Frozen mutation and melts it back to Chilled or Wet. Ignores favorited crops.
+
+- **Appearance:** The Iguana is a legendary pet that was added in the Seed Stages Event. It can be obtained from the Jungle Egg with a chance of 24%.
+
+- **Date Added:** September 27, 2025
+
+
+### Jackalope {#jackalope}
+
+![Jackalope](media/Jackalope.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 31%
+
+- **Obtaining Method:**
+  Sprout Egg
+
+- **Passive Ability:** Every 100 seconds, thumps its feet and has a ~15% chance to mutate a nearby fruit, applying the Sandy mutation!
+
+- **Appearance:** The Jackalope is a limited uncommon pet that was added in the Beanstalk Event Update.
+
+- **Date Added:** August 16th, 2025
+
+
+### Junkbot {#junkbot}
+
+![Junkbot](media/Junkbot.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Participating in the update with Albert and the chubby chipmunk update admin abuse
+
+- **Passive Ability:** OIL OR BOIL: Occasionally has a chance to oil nearby fruit applying the Oil mutation
+
+- **Appearance:** The Junkbot is a limited pet that was given as a reward for participating in Albert Admin Abuse.
+
+- **Date Added:** August 9, 2025
+
+
+### Kappa {#kappa}
+
+![Kappa](media/Kappa.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 3.5%
+
+- **Obtaining Method:**
+  Zen Egg
+
+- **Passive Ability:** Water Spirit: Occasionally sprays water on all nearby fruits, mutating them to wet, and has a chance to convert Wet mutations already on fruit to Bloodlit
+
+- **Appearance:** The Kappa is a mythical pet obtainable from the Zen Egg with a 3.5% chance.
+
+- **Date Added:** July 19th, 2025
+
+
+### King Bee {#king-bee}
+
+![King Bee](media/King_Bee.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Royal Jelly Shop
+
+- **Passive Ability:** King Pollinator: Occasionally mutates a number of random fruits in your garden with Pollinated!For the King: Occasionally, all Pollinated fruits in your garden have a chance to also get the Honeygem mutation. For every fruit mutated grants bonus XP and advances growth of 8 random plants!
+
+- **Appearance:** The King Bee is a limited divine pet that was added to the second part of the Bizzy Bee Event 2026.
+
+- **Date Added:** May 16, 2026
+
+
+### Kitsune (Pet) {#kitsune-pet}
+
+![Kitsune (Pet)](media/Kitsune_Pet.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:**
+  - 0.08%
+
+- **Obtaining Method:**
+  Zen Egg
+
+- **Passive Ability:** Nine-Tailed Myth: Occasionally goes to other player's fruit, mutates it with Chakra or Foxfire Chakra and steals (duplicates) then hands it to the player.
+
+- **Appearance:** The Kitsune is a prismatic pet that was added in the Zen Event. It can be obtained from the Zen Egg with chance of 0.08% (1/1250). The Zen Egg is available in the Forever Pack.
+
+- **Date Added:** July 19, 2025
+
+
+### Kodama {#kodama}
+
+![Kodama](media/Kodama.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - N/A
+
+- **Obtaining Method:**
+  Kitsune Chest 14.5%Exotic Kitsune Chest 14.5%Rainbow Sack 15%
+
+- **Passive Ability:** Tree Spirit: ~5% Zen type Fruit gets tranquil mutation after collecting!
+
+- **Appearance:** The Kodama is a legendary pet added in the Corrupted Zen Event, obtained from the Kitsune Chest with a 14.5% chance.
+
+- **Date Added:** July 26, 2025
+
+
+### Lemon Lion {#lemon-lion}
+
+![Lemon Lion](media/Lemon_Lion.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Admin Abuse War
+
+- **Passive Ability:** Brain-Roar: Roars and mutates a random fruit with brainrot mutation (100x)Citrus Roar: Occasionally grants bonus experience to a random pet
+
+- **Appearance:** The Lemon Lion was given as a reward for participating in the Admin Abuse War.
+
+- **Date Added:** August 23, 2025
+
+
+### Lich {#lich}
+
+![Lich](media/Lich.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  From the Lich Crystal
+
+- **Passive Ability:** Spooky Lich: Spooky type plants have increased variant chance, growth speed and size bonusDread Lord: All Halloween type pets gain bonus XP per second!
+
+- **Appearance:** The Lich is a limited, divine pet that was added in the third part of the Halloween Event.
+
+- **Date Added:** October 18th, 2025
+
+
+### Lion {#lion}
+
+![Lion](media/Lion.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Safari Shop
+
+- **Passive Ability:** Lion Call: Occasionally roars and shares advanced cooldown across all pets and calls them to the LionKing of the Safari: Occasionally roars and mutates a number of fruit up to the number of different types of safari type pets in your garden with a random Safari mutation!
+
+- **Appearance:** The Lion is a non-exclusive, divine pet that was added in the second part of the Safari Harvest Event.
+
+- **Date Added:** November 8th, 2025
+
+
+### Lioness {#lioness}
+
+![Lioness](media/Lioness.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie from Phat
+  Mojo
+
+- **Passive Ability:** Lion Call: Occasionally roars and shares advanced cooldown across all pets and calls them to the Lion  Queen of the Safari: Occasionally roars and mutates fruit up to the no. of different types of Safari type pets with a random Safari mutation!
+
+- **Appearance:** The Lioness is an exclusive divine pet. It can be obtained by redeeming a code from buying a Grow a Garden plushie at PhatMojo.
+
+- **Date Added:** 
+
+
+### Lobster Thermidor {#lobster-thermidor}
+
+![Lobster Thermidor](media/Lobster_Thermidor.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 1%
+
+- **Obtaining Method:**
+  Culinarian Chest 1%Exotic Culinarian Chest 1%
+
+- **Passive Ability:** Boiling Point: Chance a nearby fruit becomes Molten! Chance a nearby fruit becomes Meteoric!
+
+- **Appearance:** The Lobster Thermidor is a divine pet that was added in the Kitchen Storm Event. It can be obtained through the Culinarian Chest, which is obtained from Rat Connoisseur. It can also be obtained through the Exotic Culinarian Chest.
+
+- **Date Added:** August 9, 2025
+
+
+### Luminous Sprite {#luminous-sprite}
+
+![Luminous Sprite](media/Luminous_Sprite.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Purchasing from Fairy Fares
+
+- **Passive Ability:** Illuminate: Occasionally flies to a random fruit and applies the Luminous mutation
+
+- **Appearance:** The Luminous Sprite is a limited divine pet which was added in the second half of the Fairy Event.
+
+- **Date Added:** September 6th, 2025
+
+
+### Mandrake (Pet) {#mandrake-pet}
+
+![Mandrake (Pet)](media/Mandrake_Pet.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Skyroot Chest 14.5%Exotic Skyroot Chest 14.5%Rainbow Sack 15%
+
+- **Passive Ability:** Harvesting Mandrake crops have a 3% chance to apply Rot mutation to a random fruit in your garden!
+
+- **Appearance:** The Mandrake is a Legendary pet, that was released in the second part of the Beanstalk Event. It is found within the Skyroot Chest  and/or the Exotic Skyroot Chest.
+
+- **Date Added:** August 23rd, 2025
+
+
+### Messenger Pigeon {#messenger-pigeon}
+
+![Messenger Pigeon](media/Messenger_Pigeon.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Trader
+
+- **Passive Ability:** Mutation Messenger: Occasionally grabs a mutation from a random fruit in your garden and transfers it to another player's random fruit!
+
+- **Appearance:** The messenger pigeon look like a grey head and black eyes and orange beak, and neck look like a green and black part and a white, black, and grey wings, and a body look like a grey body and feet look like orange and a Pack Backpack
+
+- **Date Added:** November 29th, 2025
+
+
+### Mistletoad {#mistletoad}
+
+![Mistletoad](media/Mistletoad.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 2.5%
+
+- **Obtaining Method:**
+  Santa's Surprise Present
+
+- **Passive Ability:** Jolly Croak: Occasionally croaks at a random nearby plant, advancing growth for each Christmas type pet and applies Chilled mutation to all fruits of that plant!
+
+- **Appearance:** The Mistletoad is a limited mythical pet that was added in the Christmas Harvest Event. It can be obtained from the Santa's Surprise Present at a 2.5% chance.
+
+- **Date Added:** December 6th, 2025
+
+
+### Mizuchi {#mizuchi}
+
+![Mizuchi](media/Mizuchi.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Reaching Level 47 in the Season 1 of the Season Pass
+
+- **Passive Ability:** Water Diety: When selling fruits with Azure mutation, there is chance a random mutation from that fruit will be applied to a fruit in your garden!Azure Surge: Occasionally roars on a random nearby fruit, with a small chance of applying Azure mutation!
+
+- **Appearance:** The Mizuchi is a limited divine pet that can be obtained by reaching Level 47 in the Season 1 of the Season Pass.
+
+- **Date Added:** September 27, 2025
+
+
+### Monitor Lizard {#monitor-lizard}
+
+![Monitor Lizard](media/Monitor_Lizard.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Solitary Monitor: If there's only 1 Monitor Lizard in your garden: Occasionally eats a mutated fruit. Each mutation boosts pet cooldowns every second and plant growth every second!
+
+- **Appearance:** The Monitor Lizard is a limited mythical pet that was added to the third part of the Bizzy Bee Event 2026.
+
+- **Date Added:** May 23, 2026
+
+
+### Moose {#moose}
+
+![Moose](media/Moose.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Winter Egg 15% Premium Winter Egg 15%
+
+- **Passive Ability:** Christmas Support: When Christmas type pets finish their abilities, they start their cooldown with less!Moose Call: Occasionally eats a fruit with a Cold type mutation, does a call and all nearby plants advance growth.
+
+- **Appearance:** The Moose is a limited mythical pet that was added during the third part of the Christmas Harvest Event.
+
+- **Date Added:** December 20, 2025
+
+
+### Moss Wyvern {#moss-wyvern}
+
+![Moss Wyvern](media/Moss_Wyvern.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Conversion of Nature: Occasionally converts all nearby Verdant or Resplendent mutations within range to Sylvan mutation. For every mutation converted: XP is granted to all other pets in your garden!Nature Deity: When selling fruits with Sylvan mutation: There is a chance a random mutation from that fruit will be applied to a fruit in your garden!
+
+- **Appearance:** The Moss Wyvern is a limited divine pet that was added to the third part of the Bizzy Bee Event 2026. The pet has 300,000 hunger.
+
+- **Date Added:** May 23, 2026
+
+
+### New Year's Dragon {#new-years-dragon}
+
+![New Year's Dragon](media/New_Years_Dragon.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  New Year's Egg (0.25%)Premium New Year's Egg (0.25%)
+
+- **Passive Ability:** Breath of Fireworks: Occasionally breathes fireworks on 20 - 26 different fruits in the player's garden with Fireworks mutation  Resolution: Occasionally consumes fruit with Firework mutation to give the player the Dragon's Firework.
+
+- **Appearance:** The New Year's Dragon is a limited prismatic pet that was added in the New Year's Event. It can be hatched from the New Year's Egg and the Premium New Year's Egg, both with a 0.25% chance to hatch.
+
+- **Date Added:** December 27th, 2025
+
+
+### Nyala {#nyala}
+
+![Nyala](media/Nyala.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 9.5%
+
+- **Obtaining Method:**
+  Springtide Egg
+
+- **Passive Ability:** Spring Grazer: Occasionally eats fruit with atleast 3 mutations. Fruits within range have a chance to get the Lush mutation and pets have a chance to gain XP!
+
+- **Appearance:** The Nyala is a limited mythical pet that was added in the third part of the Easter Event 2026.
+
+- **Date Added:** April 18, 2026
+
+
+### Orchid Mantis {#orchid-mantis}
+
+![Orchid Mantis](media/Orchid_Mantis.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Evil Bunny Rewards
+
+- **Passive Ability:** Orchid Zone: Occasionally prays for a duration & each second a fruit within range has a chance to gain the Floral mutation. Fruit with Floral turn Gold, and Gold fruit with Floral convert to Rainbow!
+
+- **Appearance:** The Orchid Mantis is a limited divine pet that was added to the second part of the Easter Event 2026. It can be obtained from the Evil Bunny Rewards with a 0.5% chance of obtaining.
+
+- **Date Added:** April 11, 2026
+
+
+### Pack Bee {#pack-bee}
+
+![Pack Bee](media/Pack_Bee.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Crafted by adding an Anti Bee Egg, Legacy Sunflower, Purple Dahlia, and  250
+
+- **Passive Ability:** Increases backpack size by ~25 and pollinates a plant every ~25 minutes
+
+- **Appearance:** The Pack Bee is a limited mythical pet, which can be purchased for 799 or crafted with Anti Bee Egg, Legacy Sunflower, Purple Dahlia, and  250 in the crafting station.
+
+- **Date Added:** June 14 2025
+
+
+### Partridge {#partridge}
+
+![Partridge](media/Partridge.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Winter Egg 50% Premium Winter Egg 49%
+
+- **Passive Ability:** Christmas Partridge: All Christmas type plants within range have increased variant chance!
+
+- **Appearance:** The Partridge is a limited rare pet that was added during the third part of the Christmas Harvest Event.
+
+- **Date Added:** December 20, 2025
+
+
+### Peach Wasp {#peach-wasp}
+
+![Peach Wasp](media/Peach_Wasp.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Admin Abuse War
+
+- **Passive Ability:** Peach Pollinator: Every 1500-200s, flies to a nearby fruit and Plasmafies it, applying Plasma mutation! Peach Stinger: Every 602-300s, stings a random pet and advances its ability cooldown by 60-120s!
+
+- **Appearance:** The Peach Wasp is a mythical pet that could be obtained by joining the game during the Admin Abuse War.
+
+- **Date Added:** August 23rd, 2025
+
+
+### Penguin {#penguin}
+
+![Penguin](media/Penguin.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Christmas Harvest Event
+
+- **Passive Ability:** Belly Slide: Every 12m, turns player into a belly sliding penguin for a duration! The penguin also belly slides from fruit to fruit in player garden and applies the Arctic mutation!
+
+- **Appearance:** The Penguin is a limited mythical pet that is obtained from the Santa's Stash. It was added in the Christmas Harvest Event.
+
+- **Date Added:** December 6, 2025
+
+
+### Peryton {#peryton}
+
+![Peryton](media/Peryton.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:**
+  - 0.5%
+
+- **Obtaining Method:**
+  Springtide Egg
+
+- **Passive Ability:** Everchanting Spring: Every blesses a random pet in your garden, granting huge XP! There is a chance for the blessed pet to get the Everchanted Pet Mutation!
+
+- **Appearance:** The Peryton is a limited prismatic pet that was added in the third part of the Easter Event 2026.
+
+- **Date Added:** April 18, 2026
+
+
+### Petal Bee {#petal-bee}
+
+![Petal Bee](media/Petal_Bee.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 4%
+
+- **Obtaining Method:**
+  Bee Egg
+
+- **Passive Ability:** Every ~25 minutes, it flies to a nearby fruit and pollinates it, applying Pollinated mutation. ~1% chance Flower type fruit stays after harvest.
+
+- **Appearance:** The Petal Bee is a limited, legendary Pet added in the Bizzy Bee Event update.
+
+- **Date Added:** May 31, 2025
+
+
+### Phoenix {#phoenix}
+
+![Phoenix](media/Phoenix.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Enchanted Chest 1%Exotic Enchanted Chest 1%Rainbow Sack 7%
+
+- **Passive Ability:** Bird of Rebirth: Pets taken from the mutation machine have a bonus to their ageIcarus: Goes to random fruits to apply flaming mutation, fruits passed along the way have a chance to get the Flaming mutation
+
+- **Appearance:** The Phoenix is a divine pet that was added in the second half of the Fairy Event. It can be obtained from the Enchanted Chest or the Exotic Enchanted Chest with a 1% chance.
+
+- **Date Added:** September 6th, 2025
+
+
+### Pig {#pig}
+
+![Pig](media/Pig.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 16.67%
+
+- **Obtaining Method:**
+  Rare Egg
+
+- **Passive Ability:** Every 118 seconds, the pig emits a 15 second aura that grants a 2x chance for plants within 15 studs to grow variant fruits.
+
+- **Appearance:** The Pig is a Rare pet added in the Animal Update. It can be obtained by hatching the Rare Egg with a chance of 16.67%.
+
+- **Date Added:** May 3, 2025
+
+
+### Pink Panda {#pink-panda}
+
+![Pink Panda](media/Pink_Panda.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Reaching  2,000 in the Valentine's Event Prizes
+
+- **Passive Ability:** Loveboo: Waddles to Bamboo, and gives it the Heartstruck mutation!
+
+- **Appearance:** The Pink Panda is a limited legendary pet obtainable during the Valentine's Event. It can be obtained by reaching  2,000 in the Valentine's Event Prizes.
+
+- **Date Added:** February 14, 2026
+
+
+### Polar Bear {#polar-bear}
+
+![Polar Bear](media/Polar_Bear.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 2.13%
+
+- **Obtaining Method:**
+  Legendary Egg
+
+- **Passive Ability:** Every ~90s, ~10% chance to turn a nearby crop chilled or frozen.
+
+- **Appearance:** The Polar Bear is a Legendary pet added in the Animal Update. It can be obtained by hatching a Legendary Egg with a 2.13% chance.
+
+- **Date Added:** May 3rd, 2025
+
+
+### Praying Mantis {#praying-mantis}
+
+![Praying Mantis](media/Praying_Mantis.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Bug Egg 4%Exotic Bug Egg 4%
+
+- **Passive Ability:** Zen zone:Every 80s, prays for 10.30s granting a 1.51x variant chance (Rainbow, Gold or Silver)  to crops within 10.30 studs.
+
+- **Appearance:** The Praying Mantis is a mythical pet added in the Animal Update. It can be obtained by hatching the Bug Egg with a 4% chance and has a hunger bar of 55,000.
+
+- **Date Added:** May 3, 2025
+
+
+### Prince Wasp {#prince-wasp}
+
+![Prince Wasp](media/Prince_Wasp.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Wasp Pollinator: Occasionally pollinates fruitPrince Stinger: Occasionally stings pet with highest cooldown advancing cooldown and has a chance to sting again each time
+
+- **Appearance:** The Prince Wasp is a limited mythical pet that was added to the third part of the Bizzy Bee Event 2026.
+
+- **Date Added:** May 23, 2026
+
+
+### Pterodactyl {#pterodactyl}
+
+![Pterodactyl](media/Pterodactyl.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 3%
+
+- **Obtaining Method:**
+  Dinosaur Egg 3%
+
+- **Passive Ability:** Sky Reptile: Occasionally applies Windstruck mutation to ~4 nearby fruits with a chance of >19.06% for Twisted! Air Time: Grants additional >14.39% increase to player jump height!
+
+- **Appearance:** The Pterodactyl is a Mythical pet that was obtainable from the Dinosaur Egg or from the DNA Converter. However, the Dinosaur Egg and the Pterodactyl, along with the other pets that comes within the egg can no longer be obtained from the DNA Converter.
+
+- **Date Added:** July 5th, 2025
+
+
+### Queen Bee (Pet) {#queen-bee-pet}
+
+![Queen Bee (Pet)](media/Queen_Bee_Pet.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 1%
+
+- **Obtaining Method:**
+  Bee Egg
+
+- **Passive Ability:** Queen Pollinator: Occasionally pollinates fruit instantlyFor the Queen: Occasionally refreshes the pet with the highest cooldown ability
+
+- **Appearance:** The Queen Bee is a limited, divine pet added in the Bizzy Bee Event update. It can be obtained in the Bee Egg, which can be purchased for, 18,or  129 with a 1% chance. It has 65,000 hunger.
+
+- **Date Added:** May 31, 2025
+
+
+### Quetzal {#quetzal}
+
+![Quetzal](media/Quetzal.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Resplendent Bird: Occasionally has a chance to mutate a nearby fruit, applying the Resplendent mutation!
+
+- **Appearance:** The Quetzal is a limited legendary pet that was added to the third part of the Bizzy Bee Event 2026. The pet has 25,000 hunger.
+
+- **Date Added:** May 23, 2026
+
+
+### Raiju {#raiju}
+
+![Raiju](media/Raiju.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Tranquil Treasures Shop
+
+- **Passive Ability:** Lightning Beast: Occasionally devours a fruit with Shocked for bonus value, spits a chain lightning that mutates fruit with Static or Shocked if its a Thunderstorm
+
+- **Appearance:** The Raiju is a Divine pet that can be purchased from the Tranquil Treasures Shop for either  350 or  759. It had around 0.83% chance to be in stock every hour.
+
+- **Date Added:** July 26th, 2025
+
+
+### Raptor {#raptor}
+
+![Raptor](media/Raptor.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Dinosaur Egg 35%DNA Converter ???%
+
+- **Passive Ability:** Clever Claws: 2% - 2.5% chance fruit gets Amber mutation after collecting! Rarer plants have a lesser chance to mutate.Raptor Dance: Grants additional 14% - 14.5% increase to player movement speed!
+
+- **Appearance:** The Raptor is a legendary pet added in the Prehistoric Event and was obtainable from the Dinosaur Egg with a 35% chance, or from the DNA Converter.
+
+- **Date Added:** July 5th, 2025
+
+
+### Red Dragon {#red-dragon}
+
+![Red Dragon](media/Red_Dragon.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Scorched Soil: Occasionally sets a random nearby fruit ablaze, turning it into Burnt.
+
+- **Appearance:** The Red Dragon is a scrapped common pet
+
+- **Date Added:** 
+
+
+### Red Rose Fox {#red-rose-fox}
+
+![Red Rose Fox](media/Red_Rose_Fox.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Reaching  10,000 in the Valentine's Event Prizes.
+
+- **Passive Ability:** Tough Love: Occasionally goes to another player's crop, mutates it with Cute then steals and gives it to the player! Very rare chance to mutate with Heartbound mutation instead!
+
+- **Appearance:** The Red Rose Fox is a limited divine pet obtainable during the Valentine's Event. It can be obtained by reaching  10,000 in the Valentine's Event Prizes.
+
+- **Date Added:** February 14, 2026
+
+
+### Red-Nosed Reindeer {#red-nosed-reindeer}
+
+![Red-Nosed Reindeer](media/Red-Nosed_Reindeer.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Merging 8 level 100 Reindeer with the Sleigh.
+
+- **Passive Ability:** Red-Nosed Reindeer: Occasionally grants XP to a random non-Reindeer Pet in your garden for every Reindeer in your garden!Shiny Nose: Occasionally mutates fruit up to the number of Reindeer in your garden with Ornamented mutation!
+
+- **Appearance:** The Red-Nosed Reindeer is a limited divine pet that was added in the second part of the Christmas Harvest Event.
+
+- **Date Added:** December 14th, 2025
+
+
+### Reindeer {#reindeer}
+
+![Reindeer](media/Reindeer.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Christmas Egg 30% Premium Christmas Egg 30%
+
+- **Passive Ability:** Sleigh Synergy: Gains additional XP/s for every Reindeer in your garden! & Beast of Snow: Occasionally has a chance to mutate nearby fruits with Snowy!
+
+- **Appearance:** The Reindeer is a limited legendary pet that was added during the second part of the Christmas Harvest Event.
+
+- **Date Added:** December 13, 2025
+
+
+### Rhino {#rhino}
+
+![Rhino](media/Rhino.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Safari Egg  8.5%
+
+- **Passive Ability:** Rhino Ram: Every ~14 mins, charges into a random egg or random fruit in the player's garden: Rammed eggs get hatch time halved, and rammed plants gets the Mirage mutation!
+
+- **Appearance:** The Rhino is a mythical pet that was added in the Safari Harvest Event.
+
+- **Date Added:** November 1st, 2025
+
+
+### Sapphire Macaw {#sapphire-macaw}
+
+![Sapphire Macaw](media/Sapphire_Macaw.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 8.46%
+
+- **Obtaining Method:**
+  Gem Egg
+
+- **Passive Ability:** Crystalized Bird: Every 8:06-0:14m, >15% chance to mutate a nearby fruit, applying the Crystalized mutation!
+
+- **Appearance:** The Sapphire Macaw is a mythical pet that is obtained with a 8.46% chance from the Gem Egg.
+
+- **Date Added:** November 15, 2025
+
+
+### Scarlet Macaw {#scarlet-macaw}
+
+![Scarlet Macaw](media/Scarlet_Macaw.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 8%
+
+- **Obtaining Method:**
+  Paradise Egg
+
+- **Passive Ability:** Verdant Bird: Every 8:00m, 16% chance to mutate a nearby fruit, applying the Verdant mutation.
+
+- **Appearance:** The Scarlet Macaw is an obtainable Legendary pet from the Summer Update.
+
+- **Date Added:** June 21, 2025
+
+
+### Sea Turtle {#sea-turtle}
+
+![Sea Turtle](media/Sea_Turtle.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 20%
+
+- **Obtaining Method:**
+  Rare Summer Egg
+
+- **Passive Ability:** Every  ~11minutes, shares its wisdom with a random pet, granting 1k bonus experience!  Every 150seconds, splashes water at a nearby fruit and it has some chance to get Wet mutation!
+
+- **Appearance:** The Sea Turtle is an obtainable, rare pet released in the Summer Update
+
+- **Date Added:** June 21, 2025
+
+
+### Seedling {#seedling}
+
+![Seedling](media/Seedling.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 12%
+
+- **Obtaining Method:**
+  Sprout Egg
+
+- **Passive Ability:** Every 10 minutes, swaps mutations between two different random fruits! Ignores favorited fruits.
+
+- **Appearance:** The Seedling is a limited, legendary pet released in the Beanstalk Event.
+
+- **Date Added:** August 16th, 2025
+
+
+### Sheckling {#sheckling}
+
+![Sheckling](media/Sheckling.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Obtained from Trader Troy at a 2.98% chance (chance increases at higher trade streaks)
+
+- **Passive Ability:** Shecklenator: Grants Sheckles per second!Coinfruit Lover: goes to a Coinfruit plant and mutates all fruits on the Coinfruit with 'Coin' mutation!
+
+- **Appearance:** The Sheckling is a common pet from the Trader Event.
+
+- **Date Added:** November 22, 2025
+
+
+### Silver Dragonfly {#silver-dragonfly}
+
+![Silver Dragonfly](media/Silver_Dragonfly.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Silver Transmutation: Every ~8:00 turns one random fruit silver!
+
+- **Appearance:** The Silver Dragonfly is a legendary pet that was added during the Seed Stages Event that can be obtained from the Season Pass.
+
+- **Date Added:** 
+
+
+### Snowman Builder {#snowman-builder}
+
+![Snowman Builder](media/Snowman_Builder.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass 3 Level 25
+
+- **Passive Ability:** Icy Fortifications: Occasionally consumes crops with any coldtype mutations and grants a Snow-Fort based cosmetic reward!
+
+- **Appearance:** The Snowman Builder is Legendary, Limited Pet from Christmas Harvest Event
+
+- **Date Added:** December 6th 2025
+
+
+### Space Squirrel {#space-squirrel}
+
+![Space Squirrel](media/Space_Squirrel.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Fall Pet Shop, or Fall Merchant
+
+- **Passive Ability:** A Space Odd-Nut-sy: Occasionally, has chance to apply the Voidtouched mutation!
+
+- **Appearance:** The Space Squirrel is a limited divine pet which was added in the Fall Market Event.
+
+- **Date Added:** September 13, 2025
+
+
+### Spaghetti Sloth {#spaghetti-sloth}
+
+![Spaghetti Sloth](media/Spaghetti_Sloth.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 4%
+
+- **Obtaining Method:**
+  Gourmet Egg
+
+- **Passive Ability:** Al dente: Every 3:20-14:00m, goes to a nearby fruit and does-a-cooking! Applying Pasta, Sauce or Meatball mutation!
+
+- **Appearance:** The Spaghetti Sloth is a mythical, limited pet released in the Cooking Update, obtained from the Gourmet Egg.
+
+- **Date Added:** August 2nd, 2025
+
+
+### Specter {#specter}
+
+![Specter](media/Specter.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Halloween Merchant with a price of  31,300,000
+
+- **Passive Ability:** Haunt: Every 13~ minutes, haunts a random fruit and has a 25%~ chance to mutate it with Vamp, or rare chance for Spooky or even rarer chance for Ghostly instead.
+
+- **Appearance:** The Specter is a legendary pet that is obtainable via the Halloween Market. This pet was added alongside the Halloween Merchant, being able to be purchased from the shop.
+
+- **Date Added:** October 31th, 2025
+
+
+### Spinosaurus {#spinosaurus}
+
+![Spinosaurus](media/Spinosaurus.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 0.5%
+
+- **Obtaining Method:**
+  Primal Egg
+
+- **Passive Ability:** Food Chain: Occasionally, devours a random mutation from random fruits in your garden each, roars and applies it to 1 other random fruit in your garden!
+
+- **Appearance:** The Spinosaurus is a limited divine pet added in the Pet Mutations update.
+
+- **Date Added:** July 12, 2025
+
+
+### Spriggan {#spriggan}
+
+![Spriggan](media/Spriggan.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Beanstalk Event
+  Goliath's Goods
+
+- **Passive Ability:** Overgrowth: Occasionally spreads its roots and all nearby fruits in 30 studs have a 15-16% chance to get the Bloom mutation!
+
+- **Appearance:** The Spriggan is a limited mythical pet that was added in the Beanstalk Event Update.
+
+- **Date Added:** August 16, 2025
+
+
+### Spring Bee {#spring-bee}
+
+![Spring Bee](media/Spring_Bee.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 55%
+
+- **Obtaining Method:**
+  Springtide Egg
+
+- **Passive Ability:** Beeter Pollinator: Occasionally pollinates fruit!Bloom Bee: Occasionally has a chance to apply the Bloom mutation!
+
+- **Appearance:** The Spring Bee is a limited rare pet that was added in the third part of the Easter Event 2026.
+
+- **Date Added:** April 18, 2026
+
+
+### Star Wolf {#star-wolf}
+
+![Star Wolf](media/Star_Wolf.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  New Year's Egg (8.75%)  Premium New Year's Egg (8.75%)
+
+- **Passive Ability:** Celestial Howl: Occasionally consumes random Moonlit mutations from crops, howls, and calls down shooting stars on the player's garden that mutate fruits into Celestial!
+
+- **Appearance:** The Star Wolf is a limited divine pet that was added on the New Year's Event. It can be hatched from the New Year's Egg and from the Premium New Year's Egg, both with an 8.75% chance to hatch.
+
+- **Date Added:** December 27th, 2025
+
+
+### Stork {#stork}
+
+![Stork](media/Stork.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Evil Bunny Rewards
+
+- **Passive Ability:** Stork Delivery: Occasionally grabs a random fruit in your garden and delivers it to another player's pet: to give XP, or a Small Passive Boost!
+
+- **Appearance:** The Stork is a limited legendary pet that was added to the second part of the Easter Event 2026. It can be obtained from the Evil Bunny Rewards with a 5% chance of obtaining.
+
+- **Date Added:** April 11, 2026
+
+
+### Sugar Glider {#sugar-glider}
+
+![Sugar Glider](media/Sugar_Glider.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Fall Pet Shop
+
+- **Passive Ability:** Sugar Gliding: Every 18-20 minutes glides from 3 random different fruits. Copies 1 mutation from each fruit and applies it to the next.
+
+- **Appearance:** The Sugar Glider is an obtainable, mythical pet added in the Fall Market Event.
+
+- **Date Added:** September 13, 2025
+
+
+### Summer Kiwi {#summer-kiwi}
+
+![Summer Kiwi](media/Summer_Kiwi.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Santa's Stash
+
+- **Passive Ability:** Yellow Christmas: Occasionally mutates fruit with Sandy with a rare chance for Snowy  Summer Cradle: Occasionally reduces the egg hatch time  Better Eggcelerator: Boosts egg hatch speed
+
+- **Appearance:** The Summer Kiwi is a limited mythical pet that was added during the third part of the Christmas Harvest Event.
+
+- **Date Added:** December 20th, 2025
+
+
+### Sushi Bear {#sushi-bear}
+
+![Sushi Bear](media/Sushi_Bear.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Gourmet Egg
+
+- **Passive Ability:** Sushi Express: Every 10-80s, >15% chance a nearby fruit becomes Chilled or FrozenSushi Time: Every 100-670s, flings a sushi towards a random pet and feeds it for 1-50% of its hunger
+
+- **Appearance:** The Sushi Bear is a limited, legendary pet released in the Cooking Event.
+
+- **Date Added:** August 2, 2025
+
+
+### Swan {#swan}
+
+![Swan](media/Swan.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 1%
+
+- **Obtaining Method:**
+  Fall Egg
+
+- **Passive Ability:** Swan Song: Occasionally goes to another player's pet and befriends it and performs its abilityBird of Grace: Occasionally applies Graceful mutation
+
+- **Appearance:** The Swan is a divine pet added in the Fall Market Event.
+
+- **Date Added:** September 13, 2025
+
+
+### T-Rex {#t-rex}
+
+![T-Rex](media/T-Rex.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 0.5%
+
+- **Obtaining Method:**
+  Dinosaur Egg
+
+- **Passive Ability:** Apex Predator: Occasionally eats a random mutation from a fruit in your garden then roars and applies that mutation to other fruits in your garden.
+
+- **Appearance:** The T-Rex is a divine pet that could only be obtained from the Dinosaur Egg in the Prehistoric Event.
+
+- **Date Added:** July 5th, 2025
+
+
+### Tanchozuru {#tanchozuru}
+
+![Tanchozuru](media/Tanchozuru.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 4.6%
+
+- **Obtaining Method:**
+  Zen Egg
+
+- **Passive Ability:** Balance and Harmony: Occasionally channels tranquility and has a chance to mutate nearby fruits into Tranquil.
+
+- **Appearance:** The Tanchozuru is a Legendary pet, obtainable from the Zen Egg with a 4.6% chance.
+
+- **Date Added:** July 19th, 2025
+
+
+### Tarantula Hawk {#tarantula-hawk}
+
+![Tarantula Hawk](media/Tarantula_Hawk.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 30.5%
+
+- **Obtaining Method:**
+  Anti Bee Egg
+  Premium Anti Bee Egg 149
+
+- **Passive Ability:** Wasp Pollinator - Every 25m, the Tarantula Hawk flies to a nearby fruit and pollinates it, applying the Pollinated mutation.Tarantula Stinger - Every 5m, the Tarantula Hawk stings a random pet and advances its ability cooldown by ~ 80s.
+
+- **Appearance:** The Tarantula Hawk is a limited legendary Pet introduced in the Friendship Update.
+
+- **Date Added:** June 7th, 2025
+
+
+### Tiger {#tiger}
+
+![Tiger](media/Tiger.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 1%
+
+- **Obtaining Method:**
+  Jungle Egg
+
+- **Passive Ability:** King of the Jungle: Roars and 3 random mutations from the garden will be replaced with another mutation. Ignores favorited fruit. Tiger Call: Calls all pets in the garden to him and giving 5000-10000 XP (max 800 XP per pet).
+
+- **Appearance:** The Tiger is a divine pet obtained from the Jungle Egg at a chance of 1%. It was added in the Seed Stages Event.
+
+- **Date Added:** September 27th, 2025
+
+
+### Toucan {#toucan}
+
+![Toucan](media/Toucan.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 25%
+
+- **Obtaining Method:**
+  Rare Summer Egg
+
+- **Passive Ability:** Tropical Lover: Grants all tropical plants within ~25 studs a ~1.2x size bonus and a ~1.18x variant chance bonus!
+
+- **Appearance:** The Toucan is a rare pet released in the Summer Update.
+
+- **Date Added:** June 21, 2025
+
+
+### Trapdoor Spider {#trapdoor-spider}
+
+![Trapdoor Spider](media/Trapdoor_Spider.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 2.06%
+
+- **Obtaining Method:**
+  Smithing Event
+
+- **Passive Ability:** Web Supply: Occasionally eats a random fruit in your garden and all fruits within close range have a chance to mutate with the Webbed Mutation!
+
+- **Appearance:** The Trapdoor Spider is a legendary pet that is obtained with a 2.06% chance from digging at the Smithing Event.
+
+- **Date Added:** November 15, 2025
+
+
+### Turtle Dove {#turtle-dove}
+
+![Turtle Dove](media/Turtle_Dove.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Christmas Egg 50% Premium Christmas Egg 49%
+
+- **Passive Ability:** Christmas Dove: Nearby Christmas type plants within range have increased variant chance!
+
+- **Appearance:** The Turtle Dove is a limited rare pet that was added during the second part of the Christmas Harvest Event.
+
+- **Date Added:** December 13, 2025
+
+
+### Wasp {#wasp}
+
+![Wasp](media/Wasp.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 55%
+
+- **Obtaining Method:**
+  Anti Bee Egg
+  Premium Anti Bee Egg
+
+- **Passive Ability:** Wasp Pollinator: Occasionally pollinates fruit.Stinger: Occasionally stings pet with highest cooldown advancing cooldown.
+
+- **Appearance:** The Wasp is a limited rare pet.
+
+- **Date Added:** June 7, 2025
+
+
+### White Tiger {#white-tiger}
+
+![White Tiger](media/White_Tiger.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie from Phat
+  Mojo
+
+- **Passive Ability:** Tiger Call: Occasionally roars and shares XP to all pets and calls them to the Tiger  King of the Jungle: Roars and 3 random mutations from the player's garden will be replaced with another mutation. Ignores favorited fruit.
+
+- **Appearance:** The White Tiger is an exclusive divine pet. It can be obtained by redeeming a code from buying a Grow a Garden plushie at PhatMojo.
+
+- **Date Added:** 
+
+
+### Wind Wyvern {#wind-wyvern}
+
+![Wind Wyvern](media/Wind_Wyvern.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie from Phat
+  Mojo
+
+- **Passive Ability:** Gale Wyvern: Occasionally converts all nearby Windstruck mutations within 30 studs to Gale mutation. For every mutation converted: Cooldown advancement is granted to all other pets in the player's garden!  Wind Deity: When selling fruits with Gale mutation: There is a chance a random mutation from that fruit will be applied to a fruit in the player's garden!
+
+- **Appearance:** The Wind Wyvern is an exclusive divine pet. It can be obtained from redeeming a code from buying a Grow a Garden plushie from PhatMojo
+
+- **Date Added:** 
+
+
+### Wolf {#wolf}
+
+![Wolf](media/Wolf.png){width=80px}
+
+- **Tier:** 111?cb=20250926081544
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Creepy Critters Shop
+
+- **Passive Ability:** Occasionally howls, mutating some nearby fruit into moonlit and turns the player into a Werewolf for a short duration, granting bonus movement speed and jump height!
+
+- **Appearance:** The Wolf is a limited legendary pet that was added in the Halloween Event.
+
+- **Date Added:** October 11, 2025
+
+
+### Woody {#woody}
+
+![Woody](media/Woody.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Participating in the Glass Animals Event
+
+- **Passive Ability:** Vampire Doggy: Every 10:00-2:20m, goes to nearby fruit and dances, applying Leeched mutation!
+
+- **Appearance:** Woody is a legendary pet that was added in the third part of the Halloween Event during Glass Animals Admin Abuse as a reward for participating.
+
+- **Date Added:** October 25th 2025
+
+
+### Yeti {#yeti}
+
+![Yeti](media/Yeti.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Christmas Egg 1% Premium Christmas Egg 1%
+
+- **Passive Ability:** Yeti Night: Occasionally devours a fruit with atleast 16 mutations to summon the Yeti Night weather! Ignores favorited fruit!
+
+- **Appearance:** The Yeti is a limited divine pet that was added during the second part of the Christmas Harvest Event.
+
+- **Date Added:** December 13, 2025
+
+
+\pagebreak
+
+## Pet Helpers {#pet-helpers}
+
+### Albino Peacock {#albino-peacock}
+
+![Albino Peacock](media/Albino_Peacock.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie from Phat
+  Mojo
+
+- **Passive Ability:** Pure Beauty: Occasionally fans its feathers and all active pets nearby will advance ability cooldowns and get XP to half the amount
+
+- **Appearance:** The Albino Peacock is an exclusive mythical pet. It can be obtained by redeeming a code from buying a Grow a Garden plushie from PhatMojo
+
+- **Date Added:** 
+
+
+### Barn Owl {#barn-owl}
+
+![Barn Owl](media/Barn_Owl.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 1.5%
+
+- **Obtaining Method:**
+  Fall Egg
+
+- **Passive Ability:** Wise Shopper: Pets bought from shops directly have a chance to get an extra base weightPrince of Fall: All Fall type pets gain bonus XP per second
+
+- **Appearance:** The Barn Owl is a limited mythical pet that was added in the Fall Market Event.
+
+- **Date Added:** September 13, 2025
+
+
+### Blood Owl {#blood-owl}
+
+![Blood Owl](media/Blood_Owl.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  60,000,000 in Blood Moon Shop
+
+- **Passive Ability:** Monarch of Midnight: Grants bonus experience per second gain to all active pets
+
+- **Appearance:** The Blood Owl is a divine pet added in the Blood Moon Event update. The Blood Owl is one of the nine pets added in the update, also known as Update 1.06.0.
+
+- **Date Added:** May 17, 2025
+
+
+### Brown Mouse {#brown-mouse}
+
+![Brown Mouse](media/Brown_Mouse.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 26.79%
+
+- **Obtaining Method:**
+  Mythical Egg
+
+- **Passive Ability:** Gains 750 bonus experience every 8 minutes. Increases the player's jump height by 12%.
+
+- **Appearance:** The Brown Mouse is a recolor of the Grey Mouse with brown fur.
+
+- **Date Added:** May 17th, 2025
+
+
+### Brown Owl {#brown-owl}
+
+![Brown Owl](media/Brown_Owl.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Bird Egg 20%  Premium Bird Egg 20%  Rainbow Premium Bird Egg 17%
+
+- **Passive Ability:** Big Eyes: Grants bonus experience per second gain to all active pets.
+
+- **Appearance:** The Brown Owl is a limited mythical pet that was added in the Hungry Birds Event.
+
+- **Date Added:** January 17, 2026
+
+
+### Capybara {#capybara}
+
+![Capybara](media/Capybara.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 21%
+
+- **Obtaining Method:**
+  Paradise Egg
+
+- **Passive Ability:** Chill Zone: All pets within 15.48 studs won`t lose hunger and will gain 3.48xp every second.
+
+- **Appearance:** The Capybara is an semi-obtainable legendary pet released in the Summer Update.
+
+- **Date Added:** June 21, 2025
+
+
+### Carnival Elephant {#carnival-elephant}
+
+![Carnival Elephant](media/Carnival_Elephant.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Carnival Egg 0.5%  Premium Carnival Egg 0.5%  Rainbow Premium Carnival Egg 4.5%
+
+- **Passive Ability:** The Show Must Go On: When a pet finishes their ability: There is a small chance the ability is activated again. You cannot have two pets of the same type for this passive to activate. (Except Carnival Elephants)
+
+- **Appearance:** The Carnival Elephant is a limited divine pet that was added on the Garden Games Event.
+
+- **Date Added:** January 3, 2026
+
+
+### Chinchilla {#chinchilla}
+
+![Chinchilla](media/Chinchilla.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Nutty Chest 1%Exotic Nutty Chest 1%Rainbow Sack 7%
+
+- **Passive Ability:** Dust Bath: Occasionally goes to another pet, rolls around in dust and makes that pet perform its ability multiple times in a row!
+
+- **Appearance:** The Chinchilla is a divine pet that was added in the Chubby Chipmunk Event.
+
+- **Date Added:** October 4, 2025
+
+
+### Crocodile {#crocodile}
+
+![Crocodile](media/Crocodile.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Safari Shop
+
+- **Passive Ability:** Croc Roll: Occasionally bites a random plant or pet for a duration. Plants get high bonus growth s/s and Pets get high bonus XP/s
+
+- **Appearance:** The Crocodile is a mythical pet that was added in the Mega Safari Harvest Event.
+
+- **Date Added:** November 8th 2025
+
+
+### Dilophosaurus {#dilophosaurus}
+
+![Dilophosaurus](media/Dilophosaurus.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 3%
+
+- **Obtaining Method:**
+  Primal Egg 3%Premium Primal Egg 3%
+
+- **Passive Ability:** Frilled Reptile - Every ~13 minutes opens its frills and spits out venom! The venom produced spreads to ~3 (capped at 5) other random pets, advancing cooldown by 40.82 OR granting 370.42 Xp.
+
+- **Appearance:** The Dilophosaurus is a Mythical pet which could be obtained from the Primal Egg in the Prehistoric Event
+
+- **Date Added:** July 12th, 2025
+
+
+### Elephant {#elephant}
+
+![Elephant](media/Elephant.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 0.5%
+
+- **Obtaining Method:**
+  Safari Egg
+
+- **Passive Ability:** Jumbo Blessing: Occasionally resets a pet's age back to 1 but increases its base weight by 0.1KG if its base weight is less than a certain value!
+
+- **Appearance:** The Elephant is a divine pet that was added in the Safari Harvest Event.
+
+- **Date Added:** November 1st, 2025
+
+
+### Empress Bee {#empress-bee}
+
+![Empress Bee](media/Empress_Bee.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 0.5%
+
+- **Obtaining Method:**
+  Hive Egg
+
+- **Passive Ability:** For the Empress: Occasionally refreshes the ability cooldowns for other random pets!
+
+- **Appearance:** The Empress Bee is a limited divine pet that was added to the Bizzy Bee Event 2026. The pet has 250,000 hunger.
+
+- **Date Added:** May 9, 2026
+
+
+### Firemite {#firemite}
+
+![Firemite](media/Firemite.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Light Up: Occasionally ignites another random pet in your garden, advancing cooldown for that pet. Extra cooldown advanced for every other Firemite in your garden.
+
+- **Appearance:** The Firemite is a limited rare pet that was added in the Easter Event 2026.
+
+- **Date Added:** April 4, 2026
+
+
+### Golden Piggy {#golden-piggy}
+
+![Golden Piggy](media/Golden_Piggy.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Crafting
+
+- **Passive Ability:** Gold Hoarder: For every Gold Ingot Cosmetic you have in your garden, nearby pets in a radius gain additional XP!
+
+- **Appearance:** The Golden Piggy is a mythical pet, which was added in the first part of the Trader Event. It can be obtained by Crafting.
+
+- **Date Added:** November 22, 2025
+
+
+### Grey Mouse {#grey-mouse}
+
+![Grey Mouse](media/Grey_Mouse.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 35.71%
+
+- **Obtaining Method:**
+  Mythical Egg
+
+- **Passive Ability:** Whisker Wisdom - Gains 500 bonus experience every 10 minutes. Increases the player's movement speed by 10% (Slightly increases as the player's pet(s) get(s) older).
+
+- **Appearance:** The Grey Mouse has gray fur, pink inner ears, and black facial features.
+
+- **Date Added:** May 17th, 2025
+
+
+### Honey Badger {#honey-badger}
+
+![Honey Badger](media/Honey_Badger.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Honey Coin Shop
+
+- **Passive Ability:** Honey Lover: Occasionally consumes a fruit with HoneyGlazed or Pollinated then either spreads it to other plants or restores hunger to another pet in your garden.
+
+- **Appearance:** The Honey Badger is a limited legendary pet that was added to the second part of the Bizzy Bee Event 2026.
+
+- **Date Added:** May 16, 2026
+
+
+### Hootsie Roll {#hootsie-roll}
+
+![Hootsie Roll](media/Hootsie_Roll.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Easter Event Shop
+
+- **Passive Ability:** Hootsie Experience: Grants bonus XP/s to all Easter type pets!  Hootsie Effect: Grants bonus XP/s to all pets in your garden!
+
+- **Appearance:** The Hootsie Roll is a limited mythical pet that was added in the Easter Event 2026.
+
+- **Date Added:** April 4, 2026
+
+
+### Hotdog Daschund {#hotdog-daschund}
+
+![Hotdog Daschund](media/Hotdog_Daschund.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Culinarian Chest 14.5%Exotic Culinarian Chest 14.5%Rainbow Sack 15%
+
+- **Passive Ability:** Loaded Dog: Every 80s to 240s, drops an 8 to 16 stud mustard or ketchup puddle that lasts 30 to 45 seconds. Pets on mustard have their cooldowns tick 0.25 to 0.50 faster, and pets on ketchup gain 20% to 40% more experience!
+
+- **Appearance:** The Hotdog Daschund is a limited legendary pet that was added in the Kitchen Storm Event.
+
+- **Date Added:** August 9th, 2025
+
+
+### Hyena {#hyena}
+
+![Hyena](media/Hyena.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Safari Harvest Event Shop
+
+- **Passive Ability:** Pack Hunting: Gains additional XP/s for every Hyena in the player's garden! Requires another non-Hyena pet equipped to activate this effect.
+
+- **Appearance:** The Hyena is an uncommon pet that was added in the second part of the Safari Harvest Event as the milestone for 165B Global Points.
+
+- **Date Added:** November 8th, 2025
+
+
+### Idol Chipmunk {#idol-chipmunk}
+
+![Idol Chipmunk](media/Idol_Chipmunk.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - N/A
+
+- **Obtaining Method:**
+  Nutty Chest 14.5%Exotic Nutty Chest 14.5%Rainbow Sack 15%
+
+- **Passive Ability:** Every 11:55m, performs a song for 8.48s and all other pets in the garden restore 1.48% hunger per second!
+
+- **Appearance:** The Idol Chipmunk is a legendary pet that was added in the Chubby Chipmunk Event.
+
+- **Date Added:** October 4, 2025
+
+
+### Iguanodon {#iguanodon}
+
+![Iguanodon](media/Iguanodon.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 32.5%
+
+- **Obtaining Method:**
+  Primal Egg
+
+- **Passive Ability:** Dino Herd: Grants bonus experience per second gain to all active Dinosaur-type pets.
+
+- **Appearance:** The Iguanodon is a legendary pet that was obtainable from the Primal Egg. It had a 32.5% chance of being hatched and was added during the Pet Mutations update.
+
+- **Date Added:** July 12th, 2025
+
+
+### Jerboa {#jerboa}
+
+![Jerboa](media/Jerboa.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 35%
+
+- **Obtaining Method:**
+  Springtide Egg
+
+- **Passive Ability:** Hop Streak: Occasionally hops in place, gaining xp and advances the growth for a random plants in your garden! The Jerboa has a small chance to hop again each time.
+
+- **Appearance:** The Jerboa is a limited legendary pet that was added in the third part of the Easter Event 2026.
+
+- **Date Added:** April 18, 2026
+
+
+### Marshmallow Lamb {#marshmallow-lamb}
+
+![Marshmallow Lamb](media/Marshmallow_Lamb.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 9%
+
+- **Obtaining Method:**
+  Golden Egg
+
+- **Passive Ability:** The Smore You Know: Occasionally grants another pet in your garden either XP OR advances its ability cooldown! Marshmallow Lamb gains whichever bonus was not given.
+
+- **Appearance:** The Marshmallow Lamb is a limited legendary pet that was added in the Easter Event 2026.
+
+- **Date Added:** April 4, 2026
+
+
+### Meerkat {#meerkat}
+
+![Meerkat](media/Meerkat.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 45%
+
+- **Obtaining Method:**
+  Oasis Egg
+  Premium Oasis Egg
+
+- **Passive Ability:** Every 7:14m goes to another pet and does a lookout. That pet advanced cooldown by 21.06s! Has a 15.53% chance to do it again after each lookout.
+
+- **Appearance:** The Meerkat is an limited legendary pet released in the Mega Harvest Update. It could be acquired through hatching an Oasis Egg or  Premium Oasis Egg with a 45% hatch chance.
+
+- **Date Added:** June 28, 2025
+
+
+### Mimic Octopus {#mimic-octopus}
+
+![Mimic Octopus](media/Mimic_Octopus.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 1%
+
+- **Obtaining Method:**
+  Paradise Egg
+
+- **Passive Ability:** Mimicry: Mimics and copies an ability from another pet and performs its ability
+
+- **Appearance:** The Mimic Octopus is a mythical pet added during the Summer Harvest Event, which can be obtained from the Paradise Egg.
+
+- **Date Added:** June 21st, 2025
+
+
+### Mochi Mouse {#mochi-mouse}
+
+![Mochi Mouse](media/Mochi_Mouse.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Cooking Event Rewards
+
+- **Passive Ability:** Mochi Marathon: Grants bonus experience per second gain to all Food type petsWhisker Wisdom: Occasionally gains bonus experience
+
+- **Appearance:** The Mochi Mouse is a limited, Mythical, pet released in the Cooking Event update.
+
+- **Date Added:** August 2nd, 2025
+
+
+### Moth {#moth}
+
+![Moth](media/Moth.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 13.75%
+
+- **Obtaining Method:**
+  Anti Bee Egg
+  Premium Anti Bee Egg 149
+
+- **Passive Ability:** Silksong:Every ~13 minutes, restores 100% hunger of a random pet by singing to it.
+
+- **Appearance:** The Moth is a limited legendary Pet introduced in the Friendship Update.
+
+- **Date Added:** June 7th, 2025
+
+
+### Mummy {#mummy}
+
+![Mummy](media/Mummy.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Spooky Chest 1%Exotic Spooky Chest 1%Special Exotic Spooky Chest 7%
+
+- **Passive Ability:** King's Sarcophagus: As long as players have a Sarcophagus in their Garden: Pets players get from Chests have a chance to get extra base weight.
+
+- **Appearance:** The Mummy is a divine pet that was added in the third part of the Halloween Event.
+
+- **Date Added:** October 25th, 2025
+
+
+### Night Owl {#night-owl}
+
+![Night Owl](media/Night_Owl.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Night Egg 3.53%Premium Night Egg 4%
+
+- **Passive Ability:** All active pets gain an additional >0.30 XP per second.
+
+- **Appearance:** The Night Owl is a mythical pet added in the Lunar Glow Event. It can be obtained by hatching the Night Egg with a 4% chance.
+
+- **Date Added:** May 10th, 2025
+
+
+### Nurse Bee {#nurse-bee}
+
+![Nurse Bee](media/Nurse_Bee.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 22%
+
+- **Obtaining Method:**
+  Hive Egg
+
+- **Passive Ability:** Beeler Healer: Occasionally, grabs a Pollinated fruit (Ignores favorited) and gives it to another Pet. The pet gets either XP or restores hunger!
+
+- **Appearance:** The Nurse Bee is a limited rare pet that was added to the Bizzy Bee Event 2026. The pet has 25,000 hunger.
+
+- **Date Added:** May 9, 2026
+
+
+### Owl {#owl}
+
+![Owl](media/Owl.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  530
+
+- **Passive Ability:** Boosts all the active pets will gain around 0.20 XP each second!
+
+- **Appearance:** The Owl is a limited mythical Pet added in the Lunar Glow Event 2025. It could have been obtained by getting 530 lunar points for the Wise Old Owl.
+
+- **Date Added:** May 10, 2025
+
+
+### Oxpecker {#oxpecker}
+
+![Oxpecker](media/Oxpecker.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Safari Egg
+
+- **Passive Ability:** Safari Support: When Safari type pets finish their abilities, they will start their next cooldown with less!
+
+- **Appearance:** The Oxpecker is a limited pet in the Safari Harvest Event.
+
+- **Date Added:** November 1, 2025
+
+
+### Peacock {#peacock}
+
+![Peacock](media/Peacock.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 30%
+
+- **Obtaining Method:**
+  Paradise Egg
+
+- **Passive Ability:** Utter Beauty: Occasionally fans its feathers and all nearby pets will advance ability cooldowns
+
+- **Appearance:** The Peacock is a legendary pet released in the Summer Update. It can be obtained with a 30% chance by hatching a Paradise Egg.
+
+- **Date Added:** June 21, 2025
+
+
+### Performer Seal {#performer-seal}
+
+![Performer Seal](media/Performer_Seal.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Carnival Egg 29.5%  Premium Carnival Egg 29.5%  Rainbow Premium Carnival Egg 23%
+
+- **Passive Ability:** Play Ball: Occasionally plays ball with the player. Every time the player successfully receive the ball a random plant in the player's garden advances growth or a random pet gets bonus XP!
+
+- **Appearance:** The Performer Seal is a limited rare pet that was added on the Garden Games Event.
+
+- **Date Added:** January 3rd, 2026
+
+
+### Professor Bee {#professor-bee}
+
+![Professor Bee](media/Professor_Bee.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Honey Coin Shop
+
+- **Passive Ability:** Bee-raniac: Bee type pets gain bonus XP per second
+
+- **Appearance:** The Professor Bee is a limited legendary pet that was added to the Bizzy Bee Event 2026. The pet has 25,000 hunger.
+
+- **Date Added:** May 9, 2026
+
+
+### Reaper {#reaper}
+
+![Reaper](media/Reaper.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Creepy Critters Shop
+
+- **Passive Ability:** Reap What You Sow: Occasionally sacrifices random 4 fruits in your garden to apply a Medium Passive Boost or Medium XP Boost to a random pet in your garden!
+
+- **Appearance:** The Reaper is a limited divine pet that was added in the Halloween Event.
+
+- **Date Added:** October 11, 2025
+
+
+### Red Squirrel {#red-squirrel}
+
+![Red Squirrel](media/Red_Squirrel.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Fall Pet Shop
+
+- **Passive Ability:** Squirrel Support: When Fall type pets finish their abilities, they will start next cooldown with less.
+
+- **Appearance:** The Red Squirrel is a limited rare pet added in the Fall Market Event.
+
+- **Date Added:** September 13, 2025.
+
+
+### Ruby Squid {#ruby-squid}
+
+![Ruby Squid](media/Ruby_Squid.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 0.5%
+
+- **Obtaining Method:**
+  Gem Egg
+
+- **Passive Ability:** Ruby Ink: Continuously copies a random pet's passive (non cooldown based).
+
+- **Appearance:** The Ruby Squid is a divine pet that is obtained with a 0.5% chance from the Gem Egg.
+
+- **Date Added:** 15th November 2025
+
+
+### Salmon {#salmon}
+
+![Salmon](media/Salmon.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Salmon School: Gets bonus experience for every other Salmon in the players garden!
+
+- **Appearance:** The Salmon is a limited uncommon pet that was added in the second half of the Fall Market Event.
+
+- **Date Added:** September 20th, 2025
+
+
+### Snow Bunny {#snow-bunny}
+
+![Snow Bunny](media/Snow_Bunny.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 24.23%
+
+- **Obtaining Method:**
+  Santa's Surprise Present
+
+- **Passive Ability:** Christmas Carrot: Eats Carrots for more Sheckle value and all other Bunnies and Rabbits gain bonus experience!
+
+- **Appearance:** The Snow Bunny is a limited common pet that was added in the Christmas Harvest Event. It can be obtained from the Santa's Surprise Present with a 24.23% chance of obtainment.
+
+- **Date Added:** December 6th, 2025
+
+
+### Spider {#spider}
+
+![Spider](media/Spider.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 18%
+
+- **Obtaining Method:**
+  Spooky Egg
+
+- **Passive Ability:** Every ~8m, weaves a ~18 stud web! Pets on the web advance cooldown an extra ~1s every second & plants grow an additional ~15s every second!
+
+- **Appearance:** The Spider is a legendary pet that was added in the Halloween Event.
+
+- **Date Added:** October 11, 2025
+
+
+### Squirrel {#squirrel}
+
+![Squirrel](media/Squirrel.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 26.79%
+
+- **Obtaining Method:**
+  Mythical Egg
+
+- **Passive Ability:** Seed Stash: Small chance to not consume a use when using the Reclaimer. Gains additional XP per second.
+
+- **Appearance:** The Squirrel has brown fur, a beige underside, short ears, black eyes, and a black nose, closely resembling a real-life squirrel.
+
+- **Date Added:** May 17th, 2025
+
+
+### Starfish {#starfish}
+
+![Starfish](media/Starfish.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 50%
+
+- **Obtaining Method:**
+  Common Summer Egg
+
+- **Passive Ability:** You're a Star: Gains additional XP per second
+
+- **Appearance:** The Starfish is a common pet released in the Summer Update. It has a 50% chance to be obtained from the Common Summer Egg. It has 1,500 Hunger.
+
+- **Date Added:** June 21, 2025
+
+
+### Wisp {#wisp}
+
+![Wisp](media/Wisp.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Fairy Fares Shop
+
+- **Passive Ability:** Will-o’-the-Wisp: As long as the player has a Wisp Well in their garden: Pets gain 0.75 extra experience per second
+
+- **Appearance:** The Wisp is a legendary pet that was released in the second half of the Fairy Event.
+
+- **Date Added:** September 6, 2025
+
+
+\pagebreak
+
+## Plant Growth {#plant-growth}
+
+### Bacon Pig {#bacon-pig}
+
+![Bacon Pig](media/Bacon_Pig.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Culinarian Chest 34.5%Exotic Culinarian Chest 34%Rainbow Sack 28%
+
+- **Passive Ability:** Bacon Frenzy: Every 5s to 120s, emits an aura for >15s granting >2x chance for new fruit to grow as variants within >15 studs!
+
+- **Appearance:** The Bacon Pig is a limited uncommon pet that was added in the Kitchen Storm Event.
+
+- **Date Added:** August 2, 2025
+
+
+### Blue Jay {#blue-jay}
+
+![Blue Jay](media/Blue_Jay.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Berry Friend: All Berry type plants grow faster!
+
+- **Appearance:** The Blue Jay is an uncommon Pet that was added in the Seed Stages Event. It could be obtained by reaching level 2 in the Season 1 Season Pass.
+
+- **Date Added:** September 27, 2025
+
+
+### Cardinal {#cardinal}
+
+![Cardinal](media/Cardinal.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Enchanted Chest 34.5%Exotic Enchanted Chest 34%Rainbow Sack 28%
+
+- **Passive Ability:** All Magical type plants grow ~1.6x faster
+
+- **Appearance:** The Cardinal is a limited common pet that was added in the second half of the Fairy Event.
+
+- **Date Added:** September 6, 2025
+
+
+### Cat {#cat}
+
+![Cat](media/Cat.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 25%
+
+- **Obtaining Method:**
+  Uncommon Egg
+
+- **Passive Ability:** Every ~80 seconds, the Cat will nap for ~10 seconds. New fruit within ~10 studs will be ~1.25x larger.
+
+- **Appearance:** The Cat is an Uncommon pet added in the Animal Update. It has a 25% chance of hatching from an Uncommon Egg.
+
+- **Date Added:** May 3rd, 2025
+
+
+### Caterpillar {#caterpillar}
+
+![Caterpillar](media/Caterpillar.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 40%
+
+- **Obtaining Method:**
+  Bug Egg 40%Exotic Bug Egg 25%
+
+- **Passive Ability:** Leaf lover passive : Leafy Plants grow 1.5x-2.5x faster.
+
+- **Appearance:** The Caterpillar is a legendary pet added in the Animal Update. It can be obtained by hatching the Bug Egg with a chance of 40%.
+
+- **Date Added:** May 3, 2025
+
+
+### Cow {#cow}
+
+![Cow](media/Cow.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 42.55%
+
+- **Obtaining Method:**
+  Legendary Egg
+
+- **Passive Ability:** Causes all plants within 8 studs to grow 1.12x faster.
+
+- **Appearance:** The Cow is white with orange horns and black eyes. It has black hooves, a pink muzzle, and a patch of orange hair on its left eye.
+
+- **Date Added:** May 3rd, 2025
+
+
+### Crow {#crow}
+
+![Crow](media/Crow.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Grave Digging
+
+- **Passive Ability:** Spooky Crow: Nearby Spooky type plants have increased growth speed!
+
+- **Appearance:** The Crow is a common pet that was added in the second part of the Halloween Event.
+
+- **Date Added:** October 18th, 2025
+
+
+### Echo Frog {#echo-frog}
+
+![Echo Frog](media/Echo_Frog.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Night Egg 8.23%Premium Night Egg 10%
+
+- **Passive Ability:** Echo Croak: Every <5 minutes, croaks and causes a random nearby plant to advance growth by 24 hours.
+
+- **Appearance:** The Echo Frog is a recolor of the Frog. It features a blue body, dark blue facial features, and black eyes. Its ventral side is a lighter shade of blue and is adorned with neon blue spots around its body, similar to the Poison Dart Frog.
+
+- **Date Added:** May, 10, 2025
+
+
+### Farmer Chipmunk {#farmer-chipmunk}
+
+![Farmer Chipmunk](media/Farmer_Chipmunk.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Nutty Chest 34.5%Exotic Nutty Chest 34%Rainbow Sack 28%
+
+- **Passive Ability:** All Nutty type plants grow 1.56x faster!
+
+- **Appearance:** The Farmer Chipmunk is an uncommon pet that was added in the Chubby Chipmunk Event.
+
+- **Date Added:** October 4, 2025
+
+
+### Flamingo {#flamingo}
+
+![Flamingo](media/Flamingo.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 30%
+
+- **Obtaining Method:**
+  Rare Summer Egg
+
+- **Passive Ability:** Flamboyance: Every ~4 minutes, stands on one leg for ~15 seconds. All crops and produces within ~13 studs grow ~15x faster.
+
+- **Appearance:** The Flamingo is an obtainable, rare pet released in the Summer Update and is obtainable in the Rare Summer Egg with a 17% of being in the egg shop.
+
+- **Date Added:** June 21, 2025
+
+
+### French Hen {#french-hen}
+
+![French Hen](media/French_Hen.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 15%
+
+- **Obtaining Method:**
+  Santa's Surprise Present
+
+- **Passive Ability:** Christmas Hen: Christmas type plants within the pet's range have increased size multiplier!
+
+- **Appearance:** The French Hen is a limited uncommon pet that was added during the Christmas Harvest Event. It can be obtained from the Santa's Surprise Present with a 15% chance of obtainment.
+
+- **Date Added:** December 6, 2025
+
+
+### Frog {#frog}
+
+![Frog](media/Frog.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Night Egg 17.63%Premium Night Egg 14%
+
+- **Passive Ability:** Every >10 minutes, croaks and a random nearby plant will advance growth by 24 hours.
+
+- **Appearance:** The Frog has a lime green and dark green body. The nose and the mouth are dark green, and the eyes are black. It shares the same model with the Echo Frog.
+
+- **Date Added:** May, 10th, 2025
+
+
+### Giraffe {#giraffe}
+
+![Giraffe](media/Giraffe.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Safari Egg
+
+- **Passive Ability:** Great Grazer: Occasionally, Eats fruit from high sources for more sell value. The plant it ate from advances growth!
+
+- **Appearance:** The Giraffe is a limited legendary pet that was added in the Safari Harvest Event.
+
+- **Date Added:** November 1, 2025
+
+
+### Green Bean {#green-bean}
+
+![Green Bean](media/Green_Bean.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Admin Abuse War
+
+- **Passive Ability:** Bean for the Bean God: Occasionally sacrifices a random Beanstalk fruit in your garden to instantly grow a random plant in your garden with a fruit size bonus
+
+- **Appearance:** The Green Bean is a divine pet that was rewarded during the Admin Abuse War Event.
+
+- **Date Added:** August 23, 2025
+
+
+### Grizzly Bear {#grizzly-bear}
+
+![Grizzly Bear](media/Grizzly_Bear.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 10%
+
+- **Obtaining Method:**
+  Fall Egg
+
+- **Passive Ability:** Fall Express: Chance to apply the Fall mutationMighty Bear: Grants increased player size
+
+- **Appearance:** The Grizzly Bear is a limited legendary pet that was added in the Fall Market Event. It has 55,000 hunger.
+
+- **Date Added:** September 13, 2025
+
+
+### Hedgehog {#hedgehog}
+
+![Hedgehog](media/Hedgehog.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Night Egg 47%Premium Night Egg 49% 10
+
+- **Passive Ability:** Grants prickly fruit in a 30 studs radius a <1.50x size bonus!
+
+- **Appearance:** The Hedgehog is a Rare pet added in the Animal Update. It is obtainable during the Lunar Glow Event by giving the Wise Old Owl Moonlit fruit in exchange for 10 (or more) Lunar Points and unlocking the first milestone on the reward track, which will give a player the Hedgehog pet.
+
+- **Date Added:** May, 10th, 2025
+
+
+### Ladybug {#ladybug}
+
+![Ladybug](media/Ladybug.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 50%
+
+- **Obtaining Method:**
+  Enchanted Egg
+
+- **Passive Ability:** All flower type plants grow ~1.6x faster!
+
+- **Appearance:** The Ladybug is a common pet added in the Fairy Event.
+
+- **Date Added:** August 30th, 2025
+
+
+### Leaf Insect {#leaf-insect}
+
+![Leaf Insect](media/Leaf_Insect.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Blend In: Leafy type plants within range have increased growth size!
+
+- **Appearance:** The Leaf Insect is a limited rare pet that was added to the third part of the Bizzy Bee Event 2026. The pet has 11,000 hunger.
+
+- **Date Added:** May 23, 2026
+
+
+### Orange Tabby {#orange-tabby}
+
+![Orange Tabby](media/Orange_Tabby.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 33.33%
+
+- **Obtaining Method:**
+  Rare Egg
+
+- **Passive Ability:** Every 90 seconds, naps for 15 seconds and causes new fruit within 15 studs to grow 1.5x larger.
+
+- **Appearance:** The Orange Tabby is a Rare pet added in the Animal Update. It can be obtained from hatching the Rare Egg with a chance of 33.33%. The Orange Tabby has 1,500 hunger.
+
+- **Date Added:** May 3, 2025
+
+
+### Pixie {#pixie}
+
+![Pixie](media/Pixie.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 29%
+
+- **Obtaining Method:**
+  Enchanted Egg
+
+- **Passive Ability:** Every 222-100s, spreads pixie dust for 15-30s. All plants within 15-30 studs will advance growth an extra 30 seconds every second! Also makes nearby players levitate!
+
+- **Appearance:** The Pixie is a limited, rare pet obtained from the Enchanted Egg at a chance of 29%. It was added in the Fairy Event.
+
+- **Date Added:** August 30th, 2025
+
+
+### Robin {#robin}
+
+![Robin](media/Robin.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 55%
+
+- **Obtaining Method:**
+  Fall Egg
+
+- **Passive Ability:** Tiny Bird: Grants 10-20% decreased player size!
+
+- **Appearance:** The Robin is a limited common pet that was added in the Fall Market Event. It has 1,500 Hunger.
+
+- **Date Added:** September 13, 2025
+
+
+### Scarab {#scarab}
+
+![Scarab](media/Scarab.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Spooky Chest 34.5%Exotic Spooky Chest 34.5%Special Exotic Spooky Chest TBA%
+
+- **Passive Ability:** Spooky Scarab: Spooky type plants within 32-60 studs have 0.32-0.64x increased growth size!
+
+- **Appearance:** The Scarab is a limited, uncommon pet that was added in the third part of the Halloween Event.
+
+- **Date Added:** October 25, 2025
+
+
+### Shroomie {#shroomie}
+
+![Shroomie](media/Shroomie.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Enchanted Chest 14.5%Exotic Enchanted Chest 14.5%Rainbow Sack 15%
+
+- **Passive Ability:** All nearby plants within ~15 studs will have increased 0.005x size bonus for every Fungus type plant in the player's garden! (Max 300)
+
+- **Appearance:** The Shroomie is a limited legendary pet that was added in the second half of the Fairy Event.
+
+- **Date Added:** September 6th, 2025
+
+
+### Tree Frog {#tree-frog}
+
+![Tree Frog](media/Tree_Frog.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 40%
+
+- **Obtaining Method:**
+  Jungle Egg
+
+- **Passive Ability:** Every ~3 minutes, advances the growth of a random plant by 15 minutes.
+
+- **Appearance:** The Tree Frog is a rare pet obtained from the Jungle Egg at a chance of 40%. It was added in the Seed Stages Event.
+
+- **Date Added:** September 27th, 2025
+
+
+### Triceratops {#triceratops}
+
+![Triceratops](media/Triceratops.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Dinosaur Egg 32,5%DNA Converter
+
+- **Passive Ability:** Tri-Horn: Every 3:33m, rams into 3 random plants and advances their growth by 33:33m. Has a 15.18% chance to do it again each time.
+
+- **Appearance:** The Triceratops is a Legendary pet that was obtainable from the Dinosaur Egg with a 32.5% chance or through the DNA Converter during the Prehistoric Event. It is known for its powerful passive ability that speeds up plant growth, making it ideal for passive farming strategies.
+
+- **Date Added:** July 5th, 2025
+
+
+\pagebreak
+
+## Player Interactive {#player-interactive}
+
+### Ankylosaurus {#ankylosaurus}
+
+![Ankylosaurus](media/Ankylosaurus.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 1%
+
+- **Obtaining Method:**
+  Primal Egg
+  Premium Primal Egg
+
+- **Passive Ability:** Armored Defender: When a player steals a fruit from the player, grants a chance that the player stolen from, gets the stolen fruit as well
+
+- **Appearance:** The Ankylosaurus is a limited mythical pet obtainable during the Prehistoric Event.
+
+- **Date Added:** July 12, 2025
+
+
+### Armadillo {#armadillo}
+
+![Armadillo](media/Armadillo.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass Level 2
+
+- **Passive Ability:** Armadillo Roll: Every 7:55m, rolls into a ball and transforms the player into a armadillo ball for 30.37s
+
+- **Appearance:** The Armadillo is a rare pet added in the Safari Harvest Event.
+
+- **Date Added:** November 1, 2025
+
+
+### Chimpanzee {#chimpanzee}
+
+![Chimpanzee](media/Chimpanzee.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 5%
+
+- **Obtaining Method:**
+  Jungle Egg
+
+- **Passive Ability:** Every 5m, grabs a random crop from the player's garden and goes to the sell stall and sells it for them. There is a 2.38% chance the crop does not get collected.
+
+- **Appearance:** The Chimpanzee is a mythical pet that was added in the Seed Stages Event. It can be obtained from the Jungle Egg with a chance of 5%.
+
+- **Date Added:** September 27, 2025
+
+
+### Crab {#crab}
+
+![Crab](media/Crab.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 25%
+
+- **Obtaining Method:**
+  Common Summer Egg
+
+- **Passive Ability:** Pinch Pocket: Occasionally goes to another player and pinches them and grants the owner a small amount of sheckles.
+
+- **Appearance:** The Crab is a common pet released in the Summer Update. It can be obtained from the Common Summer Egg. It has 3,000 Hunger.
+
+- **Date Added:** June 21, 2025
+
+
+### Firework Sprite {#firework-sprite}
+
+![Firework Sprite](media/Firework_Sprite.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  New Year's Egg (25%)Premium New Year's Egg (25%)
+
+- **Passive Ability:** Firework Fairy: Occasionally gives the player some fireworks!
+
+- **Appearance:** The Firework Sprite is a rare pet that added on the New Year's Event. It can hatch from the New Year's Egg with a 25% chance to hatch and from the Premium New Year's Egg with a 25% chance to hatch as well.
+
+- **Date Added:** December 27th, 2025
+
+
+### Goat {#goat}
+
+![Goat](media/Goat.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Creepy Critters Shop
+
+- **Passive Ability:** Ram: Occasionally goes to a random player and rams them, knocking and launching them away!
+
+- **Appearance:** The Goat is a limited uncommon pet that was added in the second part of the Halloween Event.
+
+- **Date Added:** October 18, 2025
+
+
+### Goblin {#goblin}
+
+![Goblin](media/Goblin.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Reward from Digging
+
+- **Passive Ability:** Looter: Occasionally goes to another random player and carries them and brings them to players who use! Player can jump to be released!
+
+- **Appearance:** The Goblin is a limited rare pet that was added in the second part of the Halloween Event.
+
+- **Date Added:** October 18, 2025
+
+
+### Krampus {#krampus}
+
+![Krampus](media/Krampus.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 0.05%
+
+- **Obtaining Method:**
+  Santa's Surprise Present
+
+- **Passive Ability:** Coal Sack: Occasionally consumes a percentage of the player's  Sheckles to punish another random player. Greater punishments are rarer and consumes more  Sheckles.
+
+- **Appearance:** The Krampus is a limited divine pet that was added in the first week of the Christmas Harvest Event.
+
+- **Date Added:** December 6, 2025
+
+
+### New Year's Chimp {#new-years-chimp}
+
+![New Year's Chimp](media/New_Years_Chimp.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  New Year's Egg (15%)Premium New Year's Egg (15%)
+
+- **Passive Ability:** Primate Productivity: Occasionally grabs a fruit from the player's garden and delivers it to one of four different things for a random bonus effects!
+
+- **Appearance:** The New Year's Chimp is a limited mythical pet obtainable during the New Year's Event. It can be hatched from the New Year's Egg and the Premium New Year's Egg, both with 15% chance of obtainment.
+
+- **Date Added:** December 27th, 2025
+
+
+### Nihonzaru {#nihonzaru}
+
+![Nihonzaru](media/Nihonzaru.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 31%
+
+- **Obtaining Method:**
+  Zen Egg from the new Forever Pack
+
+- **Passive Ability:** Bathe Time: As long as the player have a Hot Spring In their garden: The pet bathes In It to relax.
+
+- **Appearance:** The Nihonzaru is a rare pet, obtainable from the Zen Egg with a 31% chance.
+
+- **Date Added:** July 19, 2025
+
+
+### Raccoon {#raccoon}
+
+![Raccoon](media/Raccoon.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - Night Egg 0.1%`nPremium Night Egg 1%
+
+- **Obtaining Method:**
+  Night Egg/Premium Night Egg
+
+- **Passive Ability:** Rascal: Occasionally steals (duplicates) fruit from other player's plot and hands it to the Raccoon's owner.
+
+- **Appearance:** The Raccoon is a divine pet added in the Lunar Glow update.
+
+- **Date Added:** May 10, 2025
+
+
+### Tanuki (Pet) {#tanuki-pet}
+
+![Tanuki (Pet)](media/Tanuki_Pet.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 20.82%
+
+- **Obtaining Method:**
+  Zen Egg
+
+- **Passive Ability:** Mischief: Occasionally causes mischief doing random actions in the player's garden.
+
+- **Appearance:** The Tanuki is a non-exclusive legendary pet obtainable from the Zen Egg with a 20.82% chance of obtainment.
+
+- **Date Added:** July 19, 2025
+
+
+### Unicycle Monkey {#unicycle-monkey}
+
+![Unicycle Monkey](media/Unicycle_Monkey.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Carnival Egg 40%  Premium Carnival Egg 39%  Rainbow Premium Carnival Egg 45%
+
+- **Passive Ability:** Unicycling: Grants ~25% increased movement speed!
+
+- **Appearance:** The Unicycle Monkey is a limited uncommon pet that was added on the Garden Games Event.
+
+- **Date Added:** December 27th, 2025
+
+
+\pagebreak
+
+## Special {#special}
+
+### Bagel Bunny {#bagel-bunny}
+
+![Bagel Bunny](media/Bagel_Bunny.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Gourmet Egg
+
+- **Passive Ability:** Bagels and Carrots: Every 5-45s, eats a carrot for >5x value bonus!
+
+- **Appearance:** The Bagel Bunny is a common pet released in the Cooking Event, hatched from the Gourmet Egg with a 50% chance.
+
+- **Date Added:** August 2nd, 2025
+
+
+### Black Bunny {#black-bunny}
+
+![Black Bunny](media/Black_Bunny.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 25%
+
+- **Obtaining Method:**
+  Uncommon Egg
+
+- **Passive Ability:** Every ~40 seconds, the Black Bunny searches for a Carrot on the garden and eats it, automatically selling it at a marked up price of ~1.5x value.
+
+- **Appearance:** The Black Bunny is a recolor of the Bunny, having a black body, pink inner ears, and a pink nose.
+
+- **Date Added:** May 3, 2025
+
+
+### Blue Whale {#blue-whale}
+
+![Blue Whale](media/Blue_Whale.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie from Phat
+  Mojo
+
+- **Passive Ability:** Whale Waters: Occasionally eats heavy fruit and summons the Whale Waters weather!
+
+- **Appearance:** The Blue Whale is an exclusive prismatic pet. It can be obtained by redeeming a code from buying a Grow a Garden plushie from PhatMojo.
+
+- **Date Added:** 
+
+
+### Bunny {#bunny}
+
+![Bunny](media/Bunny.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 33.33%
+
+- **Obtaining Method:**
+  Common Egg
+
+- **Passive Ability:** Carrot Chomper: Runs to carrots, eats them, and grants bonus sheckles. (more than normal value)
+
+- **Appearance:** The Bunny is a common pet that was added in the Animal Update. It can be obtained by hatching the Common Egg with a 33.33% chance. The Bunny has 1,100 hunger.
+
+- **Date Added:** May 3, 2025
+
+
+### Chimera {#chimera}
+
+![Chimera](media/Chimera.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Chimera Stone
+
+- **Passive Ability:** Chimera Powers: Combined abilities of Lion, Goat and Emerald Snake with bonuses!
+
+- **Appearance:** The Chimera is a divine pet that was added during the Trader Event.
+
+- **Date Added:** November 22, 2025
+
+
+### Clam {#clam}
+
+![Clam](media/Clam.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 34%
+
+- **Obtaining Method:**
+  Gem Chest - 34%
+
+- **Passive Ability:** When using watering cans, there is a 6.00% chance it is not consumed!
+
+- **Appearance:** The Clam is a limited, uncommon pet that was added during in the part two of the Trader Event.
+
+- **Date Added:** 22nd November, 2025
+
+
+### Drake {#drake}
+
+![Drake](media/Drake.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Fairy Fare shop
+
+- **Passive Ability:** Flambe: Goes to a Cooking Kit and breathes fire on it, helping the cooking process and boosting cooking speed by ~11%.
+
+- **Appearance:** The Drake is an unobtainable, released, mythical pet, which was added in the second half of the Fairy Event.
+
+- **Date Added:** September 6th, 2025
+
+
+### Geode Turtle {#geode-turtle}
+
+![Geode Turtle](media/Geode_Turtle.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 5.15%
+
+- **Obtaining Method:**
+  Smithing Event digging and Trader rewards
+
+- **Passive Ability:** Geode Sprinkler: Occasionally converts an Advanced sprinkler into a Geode Sprinkler!
+
+- **Appearance:** The Geode Turtle is a rare pet that was obtained with a 5.15% chance from digging at the Smithing Event and is currently obtainable in the Trader Event.
+
+- **Date Added:** 15th November 2025
+
+
+### Goblin Miner {#goblin-miner}
+
+![Goblin Miner](media/Goblin_Miner.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 0.54% from the digging island.
+
+- **Obtaining Method:**
+  Smithing Event
+
+- **Passive Ability:** Miner: Every 5 minutes on the clock has a 2% chance to grant a dig!
+
+- **Appearance:** The Goblin Miner is a mythical pet that is obtained with a 0.54% chance from digging at the Smithing Event.
+
+- **Date Added:** 15th November 2025
+
+
+### Gorilla Chef {#gorilla-chef}
+
+![Gorilla Chef](media/Gorilla_Chef.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Rat Connoisseur
+
+- **Passive Ability:** King Cook: When cooking, has a chance for food cooked to double!
+
+- **Appearance:** The Gorilla Chef is a legendary pet, added in the second part of the Cooking Event.
+
+- **Date Added:** August 9, 2025
+
+
+### Mantis Shrimp {#mantis-shrimp}
+
+![Mantis Shrimp](media/Mantis_Shrimp.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Shrimpunch!!!: Occasionally punches different things in your garden for different effects!
+
+- **Appearance:** The Mantis Shrimp is a limited mythical pet that was added in the Safari Harvest Event.
+
+- **Date Added:** November 1, 2025
+
+
+### New Year's Bird {#new-years-bird}
+
+![New Year's Bird](media/New_Years_Bird.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  New Year's Egg 31%  Premium New Year's Egg 30%  Rainbow Premium New Year's Egg 27%
+
+- **Passive Ability:** New Year's Bird: Occasionally flies around and launches fireworks everywhere to celebrate the new year!
+
+- **Appearance:** The New Year's Bird is a limited uncommon pet that was added on the New Year's Event. It can be hatched from the New Year's Egg with a 31% chance and the Premium New Year's Egg with a 30% chance.
+
+- **Date Added:** December 27th, 2025
+
+
+### Panda {#panda}
+
+![Panda](media/Panda.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Claim the panda in the first hour of the Animal Update
+
+- **Passive Ability:** Every ~3 minutes, the Panda will eat bamboo off the players plot and sell it for ~1.5x value boost.
+
+- **Appearance:** The Panda is a Legendary pet added in the Animal Update. It could be obtained by claiming it within the first hour of the update.
+
+- **Date Added:** May 3, 2025
+
+
+### Pink Bunny {#pink-bunny}
+
+![Pink Bunny](media/Pink_Bunny.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Buttercup Chest 15%  Exotic Buttercup Chest 25%
+
+- **Passive Ability:** Buttercup Muncher: Runs to a Buttercup, eats it, and drops two Buttercup seeds!
+
+- **Appearance:** The Pink Bunny is a limited uncommon pet obtainable during the Buttercup Quest Event. It can be obtained from the Buttercup Chest and Exotic Buttercup Chest.
+
+- **Date Added:** January 24, 2026
+
+
+### Sea Otter {#sea-otter}
+
+![Sea Otter](media/Sea_Otter.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 10.64%
+
+- **Obtaining Method:**
+  Legendary Egg
+
+- **Passive Ability:** Every 5-30 seconds, sprays water on a nearby plant!
+
+- **Appearance:** The Sea Otter is a legendary pet added in the Animal Update.
+
+- **Date Added:** May 3, 2025
+
+
+### Smithing Dog {#smithing-dog}
+
+![Smithing Dog](media/Smithing_Dog.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Crafting in the Smithing Event1x Dog2x Rare Coal 3,000,000
+
+- **Passive Ability:** Smithing Digging: Occasionally digs up a coal!
+
+- **Appearance:** The Smithing Dog is a rare pet that was added in the Smithing Event.
+
+- **Date Added:** November 15th, 2025
+
+
+### Snowman Soldier {#snowman-soldier}
+
+![Snowman Soldier](media/Snowman_Soldier.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass 3 Level 2
+
+- **Passive Ability:** Snow-munition: Occasionally grants Snowballs.
+
+- **Appearance:** The Snowman Soldier is Rare, Limited Pet released in the Christmas Harvest Event. It can be obtained from Season 3 of the Season Pass.
+
+- **Date Added:** December 6th, 2025
+
+
+### Turtle {#turtle}
+
+![Turtle](media/Turtle.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 2.13%
+
+- **Obtaining Method:**
+  Legendary Egg
+
+- **Passive Ability:** All sprinklers last ~20% longer.
+
+- **Appearance:** The Turtle is a Legendary pet added in the Animal Update. It can be obtained by hatching the Legendary Egg with a chance of 2.13%. It has 10 000 hunger.
+
+- **Date Added:** May 3rd, 2025
+
+
+\pagebreak
+
+## Pet Index (by Passive Ability Category)
+
+### Cosmetics {#cosmetics-index}
+- [Ash Raven](#ash-raven)
+- [Beaver](#beaver)
+- [Black Cat](#black-cat)
+- [Carpenter Bee](#carpenter-bee)
+- [Celebration Puppy](#celebration-puppy)
+- [Cocoa Cat](#cocoa-cat)
+- [Emerald Snake](#emerald-snake)
+- [Gift Rat](#gift-rat)
+- [Gnome](#gnome)
+- [Golden Piggy](#golden-piggy)
+- [Hex Serpent](#hex-serpent)
+- [Parasaurolophus](#parasaurolophus)
+- [Pumpkin Rat](#pumpkin-rat)
+- [Silver Piggy](#silver-piggy)
+- [Snowman Builder](#snowman-builder)
+- [Tomb Marmot](#tomb-marmot)
+- [Wind-Up Rat](#wind-up-rat)
+
+### Crafting {#crafting-index}
+- [Hamster](#hamster)
+- [Orangutan](#orangutan)
+- [Pachycephalosaurus](#pachycephalosaurus)
+- [Pack Mule](#pack-mule)
+
+### Egg Helpers {#egg-helpers-index}
+- [Bald Eagle](#bald-eagle)
+- [Bearded Dragon](#bearded-dragon)
+- [Birb](#birb)
+- [Black Bird](#black-bird)
+- [Blood Kiwi](#blood-kiwi)
+- [Brontosaurus](#brontosaurus)
+- [Chicken](#chicken)
+- [Chicken Zombie](#chicken-zombie)
+- [Cockatrice](#cockatrice)
+- [Easter Bunny](#easter-bunny)
+- [Easter Egg Chick](#easter-egg-chick)
+- [Eggnog Chick](#eggnog-chick)
+- [Golden Goose](#golden-goose)
+- [Hydra](#hydra)
+- [Kiwi (Pet)](#kiwi-pet)
+- [Koi](#koi)
+- [Mummy](#mummy)
+- [Ostrich](#ostrich)
+- [Red Panda](#red-panda)
+- [Rhino](#rhino)
+- [Rooster](#rooster)
+- [Seal](#seal)
+- [Show Pony](#show-pony)
+- [Summer Kiwi](#summer-kiwi)
+- [Sunny-Side Chicken](#sunny-side-chicken)
+
+### Gear {#gear-index}
+- [Amethyst Beetle](#amethyst-beetle)
+- [Angora Goat](#angora-goat)
+- [Arctic Fox](#arctic-fox)
+- [Bearded Dragon](#bearded-dragon)
+- [Champion Beetle](#champion-beetle)
+- [Chubby Chipmunk](#chubby-chipmunk)
+- [Dog](#dog)
+- [Easter Bunny](#easter-bunny)
+- [Football](#football)
+- [Goblin Gardener](#goblin-gardener)
+- [Golden Lab](#golden-lab)
+- [Imp](#imp)
+- [Magpie](#magpie)
+- [Mallard](#mallard)
+- [Maneki-neko](#maneki-neko)
+- [Marmot](#marmot)
+- [Mole](#mole)
+- [Monkey](#monkey)
+- [Nutcracker](#nutcracker)
+- [Pancake Mole](#pancake-mole)
+- [Pine Beetle](#pine-beetle)
+- [Red Panda](#red-panda)
+- [Sand Snake](#sand-snake)
+- [Santa Bear](#santa-bear)
+- [Show Pony](#show-pony)
+- [Silver Monkey](#silver-monkey)
+- [Snowman Builder](#snowman-builder)
+- [Stag Beetle](#stag-beetle)
+- [Zebra](#zebra)
+
+### Harvest or Seed Helpers {#harvest-or-seed-helpers-index}
+- [Angora Goat](#angora-goat)
+- [Arctic Fox](#arctic-fox)
+- [Axolotl](#axolotl)
+- [Bone Dog](#bone-dog)
+- [Cape Buffalo](#cape-buffalo)
+- [Cheetah](#cheetah)
+- [Chipmunk](#chipmunk)
+- [Chubby Chipmunk](#chubby-chipmunk)
+- [Corrupted Kodama](#corrupted-kodama)
+- [Cuckoo](#cuckoo)
+- [Dairy Cow](#dairy-cow)
+- [Deer](#deer)
+- [Dog](#dog)
+- [Elk](#elk)
+- [Football](#football)
+- [German Shepherd](#german-shepherd)
+- [Giant Ant](#giant-ant)
+- [Golden Bee](#golden-bee)
+- [Golden Lab](#golden-lab)
+- [Hex Serpent](#hex-serpent)
+- [Hippo](#hippo)
+- [Hummingbird](#hummingbird)
+- [Hyrax](#hyrax)
+- [Kodama](#kodama)
+- [Lyrebird](#lyrebird)
+- [Moon Cat](#moon-cat)
+- [Petal Bee](#petal-bee)
+- [Raptor](#raptor)
+- [Red Fox](#red-fox)
+- [Red Giant Ant](#red-giant-ant)
+- [Red Panda](#red-panda)
+- [Sand Snake](#sand-snake)
+- [Seagull](#seagull)
+- [Shiba Inu](#shiba-inu)
+- [Show Pony](#show-pony)
+- [Snail](#snail)
+- [Spotted Deer](#spotted-deer)
+- [Squirrel](#squirrel)
+- [Stegosaurus](#stegosaurus)
+- [Topaz Snail](#topaz-snail)
+- [Tsuchinoko](#tsuchinoko)
+- [Woodpecker](#woodpecker)
+- [Zebra](#zebra)
+
+### Levellers {#levellers-index}
+- [Amethyst Beetle](#amethyst-beetle)
+- [Cerberus](#cerberus)
+- [Champion Beetle](#champion-beetle)
+- [French Fry Ferret](#french-fry-ferret)
+- [Pine Beetle](#pine-beetle)
+- [Stag Beetle](#stag-beetle)
+- [Termite](#termite)
+- [Wendigo](#wendigo)
+
+### Mutators {#mutators-index}
+- [Apple Gazelle](#apple-gazelle)
+- [Ash Raven](#ash-raven)
+- [Badger](#badger)
+- [Bat](#bat)
+- [Bear Bee](#bear-bee)
+- [Bear on Bike](#bear-on-bike)
+- [Bee](#bee)
+- [Black Spotty Dragon](#black-spotty-dragon)
+- [Blood Hedgehog](#blood-hedgehog)
+- [Bumblebee](#bumblebee)
+- [Butterfly](#butterfly)
+- [Calico](#calico)
+- [Camel](#camel)
+- [Candy Squirrel](#candy-squirrel)
+- [Cerberus](#cerberus)
+- [Cheetah](#cheetah)
+- [Chicken Zombie](#chicken-zombie)
+- [Chocolate Bunny](#chocolate-bunny)
+- [Christmas Gorilla](#christmas-gorilla)
+- [Christmas Spirit](#christmas-spirit)
+- [Chubby Chipmunk](#chubby-chipmunk)
+- [Cockatrice](#cockatrice)
+- [Cooked Owl](#cooked-owl)
+- [Corrupted Kitsune](#corrupted-kitsune)
+- [Corrupted Kodama](#corrupted-kodama)
+- [Dark Spriggan](#dark-spriggan)
+- [Diamond Panther](#diamond-panther)
+- [Disco Bee](#disco-bee)
+- [Dragonfly](#dragonfly)
+- [Eggnog Chick](#eggnog-chick)
+- [Elemental Bee](#elemental-bee)
+- [Emerald Snake](#emerald-snake)
+- [Fennec Fox](#fennec-fox)
+- [Firefly](#firefly)
+- [Flame Bee](#flame-bee)
+- [Fortune Squirrel](#fortune-squirrel)
+- [Frost Dragon](#frost-dragon)
+- [Frost Squirrel](#frost-squirrel)
+- [Gardener Bee](#gardener-bee)
+- [Gecko](#gecko)
+- [Ghost Bear](#ghost-bear)
+- [Giant Scorpion](#giant-scorpion)
+- [Glimmering Sprite](#glimmering-sprite)
+- [Gnome](#gnome)
+- [Gold Finch](#gold-finch)
+- [Golden Bee](#golden-bee)
+- [Golden Goose](#golden-goose)
+- [Golem](#golem)
+- [Griffin](#griffin)
+- [Gummy Bear](#gummy-bear)
+- [Hazehound](#hazehound)
+- [Headless Horseman](#headless-horseman)
+- [Hippo](#hippo)
+- [Honey Bee](#honey-bee)
+- [Hyacinth Macaw](#hyacinth-macaw)
+- [Hydra](#hydra)
+- [Hyrax](#hyrax)
+- [Ice Golem](#ice-golem)
+- [Iguana](#iguana)
+- [Jackalope](#jackalope)
+- [Junkbot](#junkbot)
+- [Kappa](#kappa)
+- [King Bee](#king-bee)
+- [Kitsune (Pet)](#kitsune-pet)
+- [Kodama](#kodama)
+- [Lemon Lion](#lemon-lion)
+- [Lich](#lich)
+- [Lion](#lion)
+- [Lioness](#lioness)
+- [Lobster Thermidor](#lobster-thermidor)
+- [Luminous Sprite](#luminous-sprite)
+- [Mandrake (Pet)](#mandrake-pet)
+- [Messenger Pigeon](#messenger-pigeon)
+- [Mistletoad](#mistletoad)
+- [Mizuchi](#mizuchi)
+- [Monitor Lizard](#monitor-lizard)
+- [Moose](#moose)
+- [Moss Wyvern](#moss-wyvern)
+- [New Year's Dragon](#new-years-dragon)
+- [Nyala](#nyala)
+- [Orchid Mantis](#orchid-mantis)
+- [Pack Bee](#pack-bee)
+- [Partridge](#partridge)
+- [Peach Wasp](#peach-wasp)
+- [Penguin](#penguin)
+- [Peryton](#peryton)
+- [Petal Bee](#petal-bee)
+- [Phoenix](#phoenix)
+- [Pig](#pig)
+- [Pink Panda](#pink-panda)
+- [Polar Bear](#polar-bear)
+- [Praying Mantis](#praying-mantis)
+- [Prince Wasp](#prince-wasp)
+- [Pterodactyl](#pterodactyl)
+- [Queen Bee (Pet)](#queen-bee-pet)
+- [Quetzal](#quetzal)
+- [Raiju](#raiju)
+- [Raptor](#raptor)
+- [Red Dragon](#red-dragon)
+- [Red Rose Fox](#red-rose-fox)
+- [Red-Nosed Reindeer](#red-nosed-reindeer)
+- [Reindeer](#reindeer)
+- [Rhino](#rhino)
+- [Sapphire Macaw](#sapphire-macaw)
+- [Scarlet Macaw](#scarlet-macaw)
+- [Sea Turtle](#sea-turtle)
+- [Seedling](#seedling)
+- [Sheckling](#sheckling)
+- [Silver Dragonfly](#silver-dragonfly)
+- [Snowman Builder](#snowman-builder)
+- [Space Squirrel](#space-squirrel)
+- [Spaghetti Sloth](#spaghetti-sloth)
+- [Specter](#specter)
+- [Spinosaurus](#spinosaurus)
+- [Spriggan](#spriggan)
+- [Spring Bee](#spring-bee)
+- [Star Wolf](#star-wolf)
+- [Stork](#stork)
+- [Sugar Glider](#sugar-glider)
+- [Summer Kiwi](#summer-kiwi)
+- [Sushi Bear](#sushi-bear)
+- [Swan](#swan)
+- [T-Rex](#t-rex)
+- [Tanchozuru](#tanchozuru)
+- [Tarantula Hawk](#tarantula-hawk)
+- [Tiger](#tiger)
+- [Toucan](#toucan)
+- [Trapdoor Spider](#trapdoor-spider)
+- [Turtle Dove](#turtle-dove)
+- [Wasp](#wasp)
+- [White Tiger](#white-tiger)
+- [Wind Wyvern](#wind-wyvern)
+- [Wolf](#wolf)
+- [Woody](#woody)
+- [Yeti](#yeti)
+
+### Pet Helpers {#pet-helpers-index}
+- [Albino Peacock](#albino-peacock)
+- [Barn Owl](#barn-owl)
+- [Blood Owl](#blood-owl)
+- [Brown Mouse](#brown-mouse)
+- [Brown Owl](#brown-owl)
+- [Capybara](#capybara)
+- [Carnival Elephant](#carnival-elephant)
+- [Chinchilla](#chinchilla)
+- [Christmas Spirit](#christmas-spirit)
+- [Cooked Owl](#cooked-owl)
+- [Crocodile](#crocodile)
+- [Dilophosaurus](#dilophosaurus)
+- [Elephant](#elephant)
+- [Empress Bee](#empress-bee)
+- [Firemite](#firemite)
+- [Frost Dragon](#frost-dragon)
+- [Giant Scorpion](#giant-scorpion)
+- [Golden Piggy](#golden-piggy)
+- [Grey Mouse](#grey-mouse)
+- [Griffin](#griffin)
+- [Honey Badger](#honey-badger)
+- [Hootsie Roll](#hootsie-roll)
+- [Hotdog Daschund](#hotdog-daschund)
+- [Hyena](#hyena)
+- [Idol Chipmunk](#idol-chipmunk)
+- [Iguanodon](#iguanodon)
+- [Jerboa](#jerboa)
+- [King Bee](#king-bee)
+- [Lemon Lion](#lemon-lion)
+- [Lich](#lich)
+- [Lion](#lion)
+- [Lioness](#lioness)
+- [Marshmallow Lamb](#marshmallow-lamb)
+- [Meerkat](#meerkat)
+- [Mimic Octopus](#mimic-octopus)
+- [Mochi Mouse](#mochi-mouse)
+- [Moose](#moose)
+- [Moss Wyvern](#moss-wyvern)
+- [Moth](#moth)
+- [Mummy](#mummy)
+- [Night Owl](#night-owl)
+- [Nurse Bee](#nurse-bee)
+- [Nyala](#nyala)
+- [Owl](#owl)
+- [Oxpecker](#oxpecker)
+- [Pack Mule](#pack-mule)
+- [Peach Wasp](#peach-wasp)
+- [Peacock](#peacock)
+- [Performer Seal](#performer-seal)
+- [Peryton](#peryton)
+- [Prince Wasp](#prince-wasp)
+- [Professor Bee](#professor-bee)
+- [Queen Bee (Pet)](#queen-bee-pet)
+- [Reaper](#reaper)
+- [Red Squirrel](#red-squirrel)
+- [Red-Nosed Reindeer](#red-nosed-reindeer)
+- [Reindeer](#reindeer)
+- [Ruby Squid](#ruby-squid)
+- [Salmon](#salmon)
+- [Sea Turtle](#sea-turtle)
+- [Snow Bunny](#snow-bunny)
+- [Spider](#spider)
+- [Squirrel](#squirrel)
+- [Starfish](#starfish)
+- [Stork](#stork)
+- [Sugar Glider](#sugar-glider)
+- [Sushi Bear](#sushi-bear)
+- [Tarantula Hawk](#tarantula-hawk)
+- [Tiger](#tiger)
+- [Wasp](#wasp)
+- [Wendigo](#wendigo)
+- [White Tiger](#white-tiger)
+- [Wind Wyvern](#wind-wyvern)
+- [Wisp](#wisp)
+
+### Plant Growth {#plant-growth-index}
+- [Bacon Pig](#bacon-pig)
+- [Black Cat](#black-cat)
+- [Blood Hedgehog](#blood-hedgehog)
+- [Blue Jay](#blue-jay)
+- [Brontosaurus](#brontosaurus)
+- [Calico](#calico)
+- [Cardinal](#cardinal)
+- [Cat](#cat)
+- [Caterpillar](#caterpillar)
+- [Christmas Spirit](#christmas-spirit)
+- [Cocoa Cat](#cocoa-cat)
+- [Cow](#cow)
+- [Crocodile](#crocodile)
+- [Crow](#crow)
+- [Dairy Cow](#dairy-cow)
+- [Echo Frog](#echo-frog)
+- [Farmer Chipmunk](#farmer-chipmunk)
+- [Flamingo](#flamingo)
+- [French Hen](#french-hen)
+- [Frog](#frog)
+- [Gardener Bee](#gardener-bee)
+- [Giraffe](#giraffe)
+- [Green Bean](#green-bean)
+- [Grizzly Bear](#grizzly-bear)
+- [Hedgehog](#hedgehog)
+- [Jerboa](#jerboa)
+- [King Bee](#king-bee)
+- [Ladybug](#ladybug)
+- [Leaf Insect](#leaf-insect)
+- [Lich](#lich)
+- [Mistletoad](#mistletoad)
+- [Monitor Lizard](#monitor-lizard)
+- [Moose](#moose)
+- [Orange Tabby](#orange-tabby)
+- [Pack Bee](#pack-bee)
+- [Performer Seal](#performer-seal)
+- [Pig](#pig)
+- [Pixie](#pixie)
+- [Robin](#robin)
+- [Scarab](#scarab)
+- [Shroomie](#shroomie)
+- [Silver Piggy](#silver-piggy)
+- [Spider](#spider)
+- [Toucan](#toucan)
+- [Tree Frog](#tree-frog)
+- [Triceratops](#triceratops)
+
+### Player Interactive {#player-interactive-index}
+- [Ankylosaurus](#ankylosaurus)
+- [Armadillo](#armadillo)
+- [Chimpanzee](#chimpanzee)
+- [Crab](#crab)
+- [Firework Sprite](#firework-sprite)
+- [Goat](#goat)
+- [Goblin](#goblin)
+- [Krampus](#krampus)
+- [New Year's Chimp](#new-years-chimp)
+- [Nihonzaru](#nihonzaru)
+- [Raccoon](#raccoon)
+- [Tanuki (Pet)](#tanuki-pet)
+- [Unicycle Monkey](#unicycle-monkey)
+
+### Special {#special-index}
+- [Bagel Bunny](#bagel-bunny)
+- [Black Bunny](#black-bunny)
+- [Blue Whale](#blue-whale)
+- [Bunny](#bunny)
+- [Chimera](#chimera)
+- [Clam](#clam)
+- [Drake](#drake)
+- [Geode Turtle](#geode-turtle)
+- [Goblin Miner](#goblin-miner)
+- [Gorilla Chef](#gorilla-chef)
+- [Mantis Shrimp](#mantis-shrimp)
+- [New Year's Bird](#new-years-bird)
+- [Panda](#panda)
+- [Pink Bunny](#pink-bunny)
+- [Sea Otter](#sea-otter)
+- [Smithing Dog](#smithing-dog)
+- [Snowman Soldier](#snowman-soldier)
+- [Turtle](#turtle)
+
+
