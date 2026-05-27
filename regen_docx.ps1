@@ -151,13 +151,34 @@ foreach ($t in $tierOrder) {
 $sbRight.AppendLine('') | Out-Null
 $sbRight.AppendLine('## Pet Index') | Out-Null
 $sbRight.AppendLine('') | Out-Null
-foreach ($t in $desiredOrder) {
+$half = [math]::Ceiling($desiredOrder.Count / 2)
+$leftTiers = $desiredOrder[0..($half - 1)]
+$rightTiers = if ($half -lt $desiredOrder.Count) { $desiredOrder[$half..($desiredOrder.Count - 1)] } else { @() }
+$sbRight.AppendLine('<table><tr><td style="vertical-align:top; width:50%">') | Out-Null
+foreach ($t in $leftTiers) {
     $tierSlug = & $makeSlug $t
-    $sbRight.AppendLine("### $t {#$tierSlug-index}") | Out-Null
+    $sbRight.AppendLine("<h3 id='$tierSlug-index'>$t</h3>") | Out-Null
+    $sbRight.AppendLine('<ul>') | Out-Null
     $ps = $pets | Where-Object { $_.Tier -eq $t } | Sort-Object Title
-    foreach ($pp in $ps) { $sbRight.AppendLine("- [" + $pp.Title + "](#" + (& $makeSlug $pp.Title) + ")" ) | Out-Null }
-    $sbRight.AppendLine('') | Out-Null
+    foreach ($pp in $ps) {
+        $petSlug = & $makeSlug $pp.Title
+        $sbRight.AppendLine("  <li><a href='#$petSlug'>$($pp.Title)</a></li>") | Out-Null
+    }
+    $sbRight.AppendLine('</ul>') | Out-Null
 }
+$sbRight.AppendLine('</td><td style="vertical-align:top; width:50%">') | Out-Null
+foreach ($t in $rightTiers) {
+    $tierSlug = & $makeSlug $t
+    $sbRight.AppendLine("<h3 id='$tierSlug-index'>$t</h3>") | Out-Null
+    $sbRight.AppendLine('<ul>') | Out-Null
+    $ps = $pets | Where-Object { $_.Tier -eq $t } | Sort-Object Title
+    foreach ($pp in $ps) {
+        $petSlug = & $makeSlug $pp.Title
+        $sbRight.AppendLine("  <li><a href='#$petSlug'>$($pp.Title)</a></li>") | Out-Null
+    }
+    $sbRight.AppendLine('</ul>') | Out-Null
+}
+$sbRight.AppendLine('</td></tr></table>') | Out-Null
 
 # Save markdown
 Set-Content -Path $outMd -Value ($sbContent.ToString() + "`n" + $sbRight.ToString()) -Encoding UTF8

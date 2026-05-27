@@ -2,13 +2,12 @@
 
 Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 
-<div align='center'>[Cosmetics](#cosmetics) | [Crafting](#crafting) | [Egg Helpers](#egg-helpers) | [Gear](#gear)</div>
+<div style='text-align:center'>[Cosmetics](#cosmetics) | [Crafting](#crafting) | [Egg Helpers](#egg-helpers) | [Gear](#gear)</div>
 
-<div align='center'>[Harvest or Seed Helpers](#harvest-or-seed-helpers) | [Levellers](#levellers) | [Mutators](#mutators) | [Pet Helpers](#pet-helpers)</div>
+<div style='text-align:center'>[Harvest or Seed Helpers](#harvest-or-seed-helpers) | [Levellers](#levellers) | [Mutators](#mutators) | [Pet Helpers](#pet-helpers)</div>
 
-<div align='center'>[Plant Growth](#plant-growth) | [Player Interactive](#player-interactive) | [Special](#special)</div>
+<div style='text-align:center'>[Plant Growth](#plant-growth) | [Player Interactive](#player-interactive) | [Special](#special)</div>
 
-\pagebreak
 
 ## Cosmetics {#cosmetics}
 
@@ -122,6 +121,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** December 6, 2025
 
 
+### Hex Serpent {#hex-serpent}
+
+![Hex Serpent](media/Hex_Serpent.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Getting it from the Grave Digger's Treasures with a 2.33% chance
+
+- **Passive Ability:** Witchcraft: Plant single-harvest plants in a Hex Circle cosmetic and occasionally: The Hex Serpent will perform a ritual, consuming the plants, granting random rewards! The rarer plants and better variants grants better effects!
+
+- **Appearance:** The Hex Serpent is a divine pet that was added in the second part of the Halloween Event.
+
+- **Date Added:** October 18th, 2025
+
+
 ### Parasaurolophus {#parasaurolophus}
 
 ![Parasaurolophus](media/Parasaurolophus.png){width=80px}
@@ -214,7 +231,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** 
 
 
-\pagebreak
+<div style="page-break-before: always;"></div>
 
 ## Crafting {#crafting}
 
@@ -292,7 +309,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** November 22, 2025
 
 
-\pagebreak
+<div style="page-break-before: always;"></div>
 
 ## Egg Helpers {#egg-helpers}
 
@@ -312,6 +329,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Bald Eagle is a limited Legendary pet obtained by purchasing from the 4th July Event 2025.
 
 - **Date Added:** July 4th, 2025
+
+
+### Bearded Dragon {#bearded-dragon}
+
+![Bearded Dragon](media/Bearded_Dragon.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - Gem Chest 1%`nExotic Gem Chest 1%`nRainbow Sack 7%
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Egg Stash: Occasionally eats all fruit on a Divine and higher rarity plant and grants a random egg from the egg shop!
+
+- **Appearance:** The Bearded Dragon is a divine pet that was added in the Trader Event. It can be obtained from the Gem Chest or the Exotic Gem Chest at a 1% chance. The Gem Chest is available in the Forever Pack.
+
+- **Date Added:** November 22, 2025
 
 
 ### Birb {#birb}
@@ -405,6 +440,25 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Chicken is an Uncommon pet added in the Animal Update. It can be obtained from hatching the Uncommon Egg with a chance of 25%. Its maximum hunger is 3,400.
 
 - **Date Added:** May 3rd, 2025
+
+
+### Easter Bunny {#easter-bunny}
+
+![Easter Bunny](media/Easter_Bunny.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 0.5%, but 1% to get in Glided-Choc via the Glided Choc Golden Egg
+
+- **Obtaining Method:**
+  Golden Egg
+
+- **Passive Ability:** Egg Hunt: Occasionally hides an Easter Egg reward in a random spot. Finding the Easter Egg grants rewards/positive effects!
+
+- **Appearance:** The Easter Bunny is a limited divine pet that was added in the Easter Event 2026.
+
+- **Date Added:** April 4, 2026
 
 
 ### Easter Egg Chick {#easter-egg-chick}
@@ -537,120 +591,9 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** August 9th, 2025
 
 
-\pagebreak
+<div style="page-break-before: always;"></div>
 
 ## Gear {#gear}
-
-### Angora Goat {#angora-goat}
-
-![Angora Goat](media/Angora_Goat.png){width=80px}
-
-- **Tier:** Uncommon
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Redeeming a code from buying a Grow a Garden plushie from Phat
-  Mojo.
-
-- **Passive Ability:** Angora Ram: Occasionally goes to a random player and rams them, knocking and launching them away! Rammed players have a chance to get a single harvest seed from the seed shop. Rarer seeds have rarer chance
-
-- **Appearance:** The Angora Goat is an exclusive uncommon pet. It can be obtained from redeeming a code from buying a Grow a Garden plushie from PhatMojo.
-
-- **Date Added:** 
-
-
-### Arctic Fox {#arctic-fox}
-
-![Arctic Fox](media/Arctic_Fox.png){width=80px}
-
-- **Tier:** Mythical
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Season Pass
-
-- **Passive Ability:** Arctic Scoundrel: Occasionally steals ~24 random unique fruit from the players garden and refreshes the seed shop! Ignores favorited fruit. Cannot be mimicked or refreshed.
-
-- **Appearance:** The Arctic Fox is a mythical pet that was added during the Christmas Harvest Event. It can be obtained from the Season Pass by reaching level 40.
-
-- **Date Added:** December 6, 2025
-
-
-### Bearded Dragon {#bearded-dragon}
-
-![Bearded Dragon](media/Bearded_Dragon.png){width=80px}
-
-- **Tier:** Divine
-
-- **Hatch Chance:**
-  - Gem Chest 1%`nExotic Gem Chest 1%`nRainbow Sack 7%
-
-- **Obtaining Method:** N/A
-
-- **Passive Ability:** Egg Stash: Occasionally eats all fruit on a Divine and higher rarity plant and grants a random egg from the egg shop!
-
-- **Appearance:** The Bearded Dragon is a divine pet that was added in the Trader Event. It can be obtained from the Gem Chest or the Exotic Gem Chest at a 1% chance. The Gem Chest is available in the Forever Pack.
-
-- **Date Added:** November 22, 2025
-
-
-### Dog {#dog}
-
-![Dog](media/Dog.png){width=80px}
-
-- **Tier:** Common
-
-- **Hatch Chance:**
-  - 33.33%
-
-- **Obtaining Method:**
-  Common Egg
-
-- **Passive Ability:** Every 60s, 5% chance to dig up a random Seed Shop seed.
-
-- **Appearance:** The Dog is one of the 23 pets added in the Grow a Garden Update 1.04.0. It can be obtained by hatching a Common Egg with a 33.33% chance. The Dog has 1,000 hunger. Its ability is identical to the Golden Lab but with a ~5% chance instead of a ~10% chance.
-
-- **Date Added:** May 3rd, 2025
-
-
-### Easter Bunny {#easter-bunny}
-
-![Easter Bunny](media/Easter_Bunny.png){width=80px}
-
-- **Tier:** Divine
-
-- **Hatch Chance:**
-  - 0.5%, but 1% to get in Glided-Choc via the Glided Choc Golden Egg
-
-- **Obtaining Method:**
-  Golden Egg
-
-- **Passive Ability:** Egg Hunt: Occasionally hides an Easter Egg reward in a random spot. Finding the Easter Egg grants rewards/positive effects!
-
-- **Appearance:** The Easter Bunny is a limited divine pet that was added in the Easter Event 2026.
-
-- **Date Added:** April 4, 2026
-
-
-### Football {#football}
-
-![Football](media/Football.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Participating the Celebrity Guest Event
-
-- **Passive Ability:** Touchdown: Occasionally runs to the Gear Shop or Seed Shop (whichever is farther) and does a touchdown which awards the player with 870 sheckles or 20.4% getting a Watering Can instead
-
-- **Appearance:** The Football is a pet that was given as a reward for attending the Celebrity Guest Event.
-
-- **Date Added:** July 26th, 2025
-
 
 ### Goblin Gardener {#goblin-gardener}
 
@@ -669,25 +612,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Goblin Gardener is an exclusive mythical pet. It can be obtained from redeeming a code from buying a Grow a Garden plushie from PhatMojo.
 
 - **Date Added:** 
-
-
-### Golden Lab {#golden-lab}
-
-![Golden Lab](media/Golden_Lab.png){width=80px}
-
-- **Tier:** Common
-
-- **Hatch Chance:**
-  - 33.33%
-
-- **Obtaining Method:**
-  Common Egg
-
-- **Passive Ability:** Digging friend: ~10% chance to dig up a random Seed Shop seed every minute.
-
-- **Appearance:** The Golden Lab is a recolor of the Dog, having brown ears and a beige body, and lacks spots on its body & face. It also has a stud-like texture on its entire body.
-
-- **Date Added:** May 3, 2025
 
 
 ### Imp {#imp}
@@ -855,44 +779,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** August 2nd, 2025
 
 
-### Red Panda {#red-panda}
-
-![Red Panda](media/Red_Panda.png){width=80px}
-
-- **Tier:** Divine
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Fall Pet Shop
-
-- **Passive Ability:** Adorable Haggler: Occasionally, goes to the Gear or Seed Shop or Pet Egg Shop and restocks a random stock. Rarer items have rarer chance to stock.
-
-- **Appearance:** The Red Panda is a pet that was added in the second half of the Fall Market Event and can be obtained from the Fall Merchant.
-
-- **Date Added:** September 20th, 2025
-
-
-### Sand Snake {#sand-snake}
-
-![Sand Snake](media/Sand_Snake.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:**
-  - 34.5%
-
-- **Obtaining Method:**
-  Oasis Egg
-  Premium Oasis Egg
-
-- **Passive Ability:** Has a 1.31% - 6% to duplicate an item or seed when purchasing from the gear or seed shop.
-
-- **Appearance:** The Sand Snake is a legendary pet added during the second part of the Summer Harvest Event. It can be obtained from the Oasis Egg. The player could have bought it in the Harvest Shop.
-
-- **Date Added:** June 28, 2025
-
-
 ### Santa Bear {#santa-bear}
 
 ![Santa Bear](media/Santa_Bear.png){width=80px}
@@ -909,24 +795,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Santa Bear is a limited legendary pet that was added during the third part of the Christmas Harvest Event.
 
 - **Date Added:** December 20, 2025
-
-
-### Show Pony {#show-pony}
-
-![Show Pony](media/Show_Pony.png){width=80px}
-
-- **Tier:** Mythical
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Carnival Egg 10%  Premium Carnival Egg 10%  Rainbow Premium Carnival Egg 10.5%
-
-- **Passive Ability:** Pony Parade: Every 30m on the clock, All your Ponies form a line and Parade towards the Gear Shop, Egg Shop or Seed Shop and has a chance to restock 1 random item. Each Pony in the parade grants extra restock luck.
-
-- **Appearance:** The Show Pony is a limited mythical pet that was added on the Garden Games Event.
-
-- **Date Added:** January 3rd, 2026
 
 
 ### Silver Monkey {#silver-monkey}
@@ -948,27 +816,46 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May 3, 2025
 
 
-### Zebra {#zebra}
+<div style="page-break-before: always;"></div>
 
-![Zebra](media/Zebra.png){width=80px}
+## Harvest or Seed Helpers {#harvest-or-seed-helpers}
 
-- **Tier:** Rare
+### Angora Goat {#angora-goat}
+
+![Angora Goat](media/Angora_Goat.png){width=80px}
+
+- **Tier:** Uncommon
 
 - **Hatch Chance:** N/A
 
 - **Obtaining Method:**
-  Safari Egg
+  Redeeming a code from buying a Grow a Garden plushie from Phat
+  Mojo.
 
-- **Passive Ability:** Zebra Stampede: Every 30 minutes on the clock: All zebras run back and forth from the Seed Shop to Gear Shop or vice-versa. Grants you a random Safari related reward! Has a chance to trigger again on each run!
+- **Passive Ability:** Angora Ram: Occasionally goes to a random player and rams them, knocking and launching them away! Rammed players have a chance to get a single harvest seed from the seed shop. Rarer seeds have rarer chance
 
-- **Appearance:** The Zebra is a limited rare pet that was added in the Safari Harvest Event.
+- **Appearance:** The Angora Goat is an exclusive uncommon pet. It can be obtained from redeeming a code from buying a Grow a Garden plushie from PhatMojo.
 
-- **Date Added:** November 1st, 2025
+- **Date Added:** 
 
 
-\pagebreak
+### Arctic Fox {#arctic-fox}
 
-## Harvest or Seed Helpers {#harvest-or-seed-helpers}
+![Arctic Fox](media/Arctic_Fox.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Arctic Scoundrel: Occasionally steals ~24 random unique fruit from the players garden and refreshes the seed shop! Ignores favorited fruit. Cannot be mimicked or refreshed.
+
+- **Appearance:** The Arctic Fox is a mythical pet that was added during the Christmas Harvest Event. It can be obtained from the Season Pass by reaching level 40.
+
+- **Date Added:** December 6, 2025
+
 
 ### Axolotl {#axolotl}
 
@@ -1100,6 +987,25 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May 3rd, 2025
 
 
+### Dog {#dog}
+
+![Dog](media/Dog.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 33.33%
+
+- **Obtaining Method:**
+  Common Egg
+
+- **Passive Ability:** Every 60s, 5% chance to dig up a random Seed Shop seed.
+
+- **Appearance:** The Dog is one of the 23 pets added in the Grow a Garden Update 1.04.0. It can be obtained by hatching a Common Egg with a 33.33% chance. The Dog has 1,000 hunger. Its ability is identical to the Golden Lab but with a ~5% chance instead of a ~10% chance.
+
+- **Date Added:** May 3rd, 2025
+
+
 ### Elk {#elk}
 
 ![Elk](media/Elk.png){width=80px}
@@ -1116,6 +1022,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Elk is a limited uncommon pet that was added in the second part of the Beanstalk Event.
 
 - **Date Added:** August 23rd, 2025
+
+
+### Football {#football}
+
+![Football](media/Football.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Participating the Celebrity Guest Event
+
+- **Passive Ability:** Touchdown: Occasionally runs to the Gear Shop or Seed Shop (whichever is farther) and does a touchdown which awards the player with 870 sheckles or 20.4% getting a Watering Can instead
+
+- **Appearance:** The Football is a pet that was given as a reward for attending the Celebrity Guest Event.
+
+- **Date Added:** July 26th, 2025
 
 
 ### German Shepherd {#german-shepherd}
@@ -1155,22 +1079,23 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May 3, 2025
 
 
-### Hex Serpent {#hex-serpent}
+### Golden Lab {#golden-lab}
 
-![Hex Serpent](media/Hex_Serpent.png){width=80px}
+![Golden Lab](media/Golden_Lab.png){width=80px}
 
-- **Tier:** Divine
+- **Tier:** Common
 
-- **Hatch Chance:** N/A
+- **Hatch Chance:**
+  - 33.33%
 
 - **Obtaining Method:**
-  Getting it from the Grave Digger's Treasures with a 2.33% chance
+  Common Egg
 
-- **Passive Ability:** Witchcraft: Plant single-harvest plants in a Hex Circle cosmetic and occasionally: The Hex Serpent will perform a ritual, consuming the plants, granting random rewards! The rarer plants and better variants grants better effects!
+- **Passive Ability:** Digging friend: ~10% chance to dig up a random Seed Shop seed every minute.
 
-- **Appearance:** The Hex Serpent is a divine pet that was added in the second part of the Halloween Event.
+- **Appearance:** The Golden Lab is a recolor of the Dog, having brown ears and a beige body, and lacks spots on its body & face. It also has a stud-like texture on its entire body.
 
-- **Date Added:** October 18th, 2025
+- **Date Added:** May 3, 2025
 
 
 ### Hummingbird {#hummingbird}
@@ -1266,6 +1191,44 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May 17th, 2025
 
 
+### Red Panda {#red-panda}
+
+![Red Panda](media/Red_Panda.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Fall Pet Shop
+
+- **Passive Ability:** Adorable Haggler: Occasionally, goes to the Gear or Seed Shop or Pet Egg Shop and restocks a random stock. Rarer items have rarer chance to stock.
+
+- **Appearance:** The Red Panda is a pet that was added in the second half of the Fall Market Event and can be obtained from the Fall Merchant.
+
+- **Date Added:** September 20th, 2025
+
+
+### Sand Snake {#sand-snake}
+
+![Sand Snake](media/Sand_Snake.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 34.5%
+
+- **Obtaining Method:**
+  Oasis Egg
+  Premium Oasis Egg
+
+- **Passive Ability:** Has a 1.31% - 6% to duplicate an item or seed when purchasing from the gear or seed shop.
+
+- **Appearance:** The Sand Snake is a legendary pet added during the second part of the Summer Harvest Event. It can be obtained from the Oasis Egg. The player could have bought it in the Harvest Shop.
+
+- **Date Added:** June 28, 2025
+
+
 ### Seagull {#seagull}
 
 ![Seagull](media/Seagull.png){width=80px}
@@ -1302,6 +1265,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Shiba Inu was an uncommon, pet, obtainable from the Zen Egg with a 40% chance.
 
 - **Date Added:** July 19th, 2025
+
+
+### Show Pony {#show-pony}
+
+![Show Pony](media/Show_Pony.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Carnival Egg 10%  Premium Carnival Egg 10%  Rainbow Premium Carnival Egg 10.5%
+
+- **Passive Ability:** Pony Parade: Every 30m on the clock, All your Ponies form a line and Parade towards the Gear Shop, Egg Shop or Seed Shop and has a chance to restock 1 random item. Each Pony in the parade grants extra restock luck.
+
+- **Appearance:** The Show Pony is a limited mythical pet that was added on the Garden Games Event.
+
+- **Date Added:** January 3rd, 2026
 
 
 ### Snail {#snail}
@@ -1414,7 +1395,25 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** September 20th, 2025
 
 
-\pagebreak
+### Zebra {#zebra}
+
+![Zebra](media/Zebra.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Safari Egg
+
+- **Passive Ability:** Zebra Stampede: Every 30 minutes on the clock: All zebras run back and forth from the Seed Shop to Gear Shop or vice-versa. Grants you a random Safari related reward! Has a chance to trigger again on each run!
+
+- **Appearance:** The Zebra is a limited rare pet that was added in the Safari Harvest Event.
+
+- **Date Added:** November 1st, 2025
+
+
+<div style="page-break-before: always;"></div>
 
 ## Levellers {#levellers}
 
@@ -1435,24 +1434,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Amethyst Beetle is a legendary pet that is obtained with a 32% chance from the Gem Egg.
 
 - **Date Added:** November 15, 2025
-
-
-### Cerberus {#cerberus}
-
-![Cerberus](media/Cerberus.png){width=80px}
-
-- **Tier:** Divine
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Season Pass
-
-- **Passive Ability:** Trial by Fire: Occasionally devours a fruit with Ash, Haze, Burnt & Flaming mutations and then spits out Smoldering mutation at another fruit, also has a chance to increase the level of a random pet in your garden!  Flame Diety: When selling fruits with Smoledring mutation: There is a chance a random mutation from that fruit will be applied to a fruit in your garden!
-
-- **Appearance:** The Cerberus is a limited divine pet that was added in the Easter Event 2026.
-
-- **Date Added:** April 4, 2026
 
 
 ### Champion Beetle {#champion-beetle}
@@ -1548,25 +1529,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** 15th November 2025
 
 
-### Wendigo {#wendigo}
-
-![Wendigo](media/Wendigo.png){width=80px}
-
-- **Tier:** Divine
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Winter Egg 0.5% Premium Winter Egg 0.5%
-
-- **Passive Ability:** Gnawing Hunger: Always loses hunger and loses more hunger per second and gains bonus effects the higher the current hunger level!
-
-- **Appearance:** The Wendigo is a limited divine pet that was added during the third part of the Christmas Harvest Event.
-
-- **Date Added:** December 20, 2025
-
-
-\pagebreak
+<div style="page-break-before: always;"></div>
 
 ## Mutators {#mutators}
 
@@ -1829,6 +1792,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Candy Squirrel is a limited mythical pet that was added to the third part of the Easter Event 2026. It can be obtained by reaching Stage 7 of the Team Rewards from the Candy Packaging.
 
 - **Date Added:** April 18, 2026
+
+
+### Cerberus {#cerberus}
+
+![Cerberus](media/Cerberus.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Trial by Fire: Occasionally devours a fruit with Ash, Haze, Burnt & Flaming mutations and then spits out Smoldering mutation at another fruit, also has a chance to increase the level of a random pet in your garden!  Flame Diety: When selling fruits with Smoledring mutation: There is a chance a random mutation from that fruit will be applied to a fruit in your garden!
+
+- **Appearance:** The Cerberus is a limited divine pet that was added in the Easter Event 2026.
+
+- **Date Added:** April 4, 2026
 
 
 ### Cheetah {#cheetah}
@@ -3957,6 +3938,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** June 7, 2025
 
 
+### Water Buffalo {#water-buffalo}
+
+![Water Buffalo](media/Water_Buffalo.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  From purchasing a Robux Pack from the Roblox VN Shop, there is a chance to be awarded.
+
+- **Passive Ability:** Honest Labor: Occasionally harvests a random fruit and gives it to the player! Has a chance for the fruit to stay.
+
+- **Appearance:** The Water Buffalo is an exclusive divine pet that can be obtained by purchasing a Robux Pack from the Roblox Vietnamese Shop from December 17th, 2026, to December 25th, 2026. Redeeming the Robux Pack has a chance of redeeming this pet.
+
+- **Date Added:** December 17, 2026
+
+
 ### White Tiger {#white-tiger}
 
 ![White Tiger](media/White_Tiger.png){width=80px}
@@ -4049,7 +4048,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** December 13, 2025
 
 
-\pagebreak
+<div style="page-break-before: always;"></div>
 
 ## Pet Helpers {#pet-helpers}
 
@@ -4850,6 +4849,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** June 21, 2025
 
 
+### Wendigo {#wendigo}
+
+![Wendigo](media/Wendigo.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Winter Egg 0.5% Premium Winter Egg 0.5%
+
+- **Passive Ability:** Gnawing Hunger: Always loses hunger and loses more hunger per second and gains bonus effects the higher the current hunger level!
+
+- **Appearance:** The Wendigo is a limited divine pet that was added during the third part of the Christmas Harvest Event.
+
+- **Date Added:** December 20, 2025
+
+
 ### Wisp {#wisp}
 
 ![Wisp](media/Wisp.png){width=80px}
@@ -4868,7 +4885,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** September 6, 2025
 
 
-\pagebreak
+<div style="page-break-before: always;"></div>
 
 ## Plant Growth {#plant-growth}
 
@@ -5333,7 +5350,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** July 5th, 2025
 
 
-\pagebreak
+<div style="page-break-before: always;"></div>
 
 ## Player Interactive {#player-interactive}
 
@@ -5579,7 +5596,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** December 27th, 2025
 
 
-\pagebreak
+<div style="page-break-before: always;"></div>
 
 ## Special {#special}
 
@@ -5915,7 +5932,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May 3rd, 2025
 
 
-\pagebreak
+<div style="page-break-before: always;"></div>
 
 ## Pet Index (by Passive Ability Category)
 
@@ -6044,6 +6061,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Stegosaurus](#stegosaurus)
 - [Topaz Snail](#topaz-snail)
 - [Tsuchinoko](#tsuchinoko)
+- [Water Buffalo](#water-buffalo)
 - [Woodpecker](#woodpecker)
 - [Zebra](#zebra)
 
@@ -6188,6 +6206,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Trapdoor Spider](#trapdoor-spider)
 - [Turtle Dove](#turtle-dove)
 - [Wasp](#wasp)
+- [Water Buffalo](#water-buffalo)
 - [White Tiger](#white-tiger)
 - [Wind Wyvern](#wind-wyvern)
 - [Wolf](#wolf)
@@ -6352,5 +6371,339 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Smithing Dog](#smithing-dog)
 - [Snowman Soldier](#snowman-soldier)
 - [Turtle](#turtle)
+
+
+## Pet Index (by Tier)
+### Common {#tier-common}
+- [Bagel Bunny](#bagel-bunny)
+- [Black Bird](#black-bird)
+- [Bunny](#bunny)
+- [Chipmunk](#chipmunk)
+- [Crab](#crab)
+- [Crow](#crow)
+- [Dairy Cow](#dairy-cow)
+- [Dog](#dog)
+- [Gecko](#gecko)
+- [Golden Lab](#golden-lab)
+- [Ladybug](#ladybug)
+- [Oxpecker](#oxpecker)
+- [Pumpkin Rat](#pumpkin-rat)
+- [Red Dragon](#red-dragon)
+- [Robin](#robin)
+- [Seagull](#seagull)
+- [Sheckling](#sheckling)
+- [Snow Bunny](#snow-bunny)
+- [Starfish](#starfish)
+- [Termite](#termite)
+- [Wolf](#wolf)
+
+### Uncommon {#tier-uncommon}
+- [Angora Goat](#angora-goat)
+- [Bacon Pig](#bacon-pig)
+- [Bat](#bat)
+- [Bee](#bee)
+- [Black Bunny](#black-bunny)
+- [Blue Jay](#blue-jay)
+- [Bumblebee](#bumblebee)
+- [Cardinal](#cardinal)
+- [Cat](#cat)
+- [Chicken](#chicken)
+- [Chocolate Bunny](#chocolate-bunny)
+- [Clam](#clam)
+- [Deer](#deer)
+- [Elk](#elk)
+- [Farmer Chipmunk](#farmer-chipmunk)
+- [French Hen](#french-hen)
+- [Goat](#goat)
+- [Hyena](#hyena)
+- [Hyrax](#hyrax)
+- [Jackalope](#jackalope)
+- [Maneki-neko](#maneki-neko)
+- [New Year's Bird](#new-years-bird)
+- [Pink Bunny](#pink-bunny)
+- [Salmon](#salmon)
+- [Scarab](#scarab)
+- [Shiba Inu](#shiba-inu)
+- [Sunny-Side Chicken](#sunny-side-chicken)
+- [Tsuchinoko](#tsuchinoko)
+- [Unicycle Monkey](#unicycle-monkey)
+- [Wasp](#wasp)
+
+### Rare {#tier-rare}
+- [Armadillo](#armadillo)
+- [Badger](#badger)
+- [Beaver](#beaver)
+- [Bone Dog](#bone-dog)
+- [Cape Buffalo](#cape-buffalo)
+- [Carpenter Bee](#carpenter-bee)
+- [Chubby Chipmunk](#chubby-chipmunk)
+- [Easter Egg Chick](#easter-egg-chick)
+- [Firemite](#firemite)
+- [Firework Sprite](#firework-sprite)
+- [Flame Bee](#flame-bee)
+- [Flamingo](#flamingo)
+- [Geode Turtle](#geode-turtle)
+- [Ghost Bear](#ghost-bear)
+- [Gift Rat](#gift-rat)
+- [Goblin](#goblin)
+- [Hedgehog](#hedgehog)
+- [Honey Bee](#honey-bee)
+- [Hummingbird](#hummingbird)
+- [Kiwi (Pet)](#kiwi-pet)
+- [Leaf Insect](#leaf-insect)
+- [Messenger Pigeon](#messenger-pigeon)
+- [Monkey](#monkey)
+- [Nihonzaru](#nihonzaru)
+- [Nurse Bee](#nurse-bee)
+- [Orange Tabby](#orange-tabby)
+- [Orangutan](#orangutan)
+- [Pancake Mole](#pancake-mole)
+- [Partridge](#partridge)
+- [Performer Seal](#performer-seal)
+- [Pig](#pig)
+- [Pixie](#pixie)
+- [Red Squirrel](#red-squirrel)
+- [Rooster](#rooster)
+- [Sea Turtle](#sea-turtle)
+- [Seal](#seal)
+- [Smithing Dog](#smithing-dog)
+- [Snowman Soldier](#snowman-soldier)
+- [Spotted Deer](#spotted-deer)
+- [Spring Bee](#spring-bee)
+- [Tarantula Hawk](#tarantula-hawk)
+- [Topaz Snail](#topaz-snail)
+- [Toucan](#toucan)
+- [Tree Frog](#tree-frog)
+- [Turtle Dove](#turtle-dove)
+- [Wind-Up Rat](#wind-up-rat)
+- [Woodpecker](#woodpecker)
+- [Zebra](#zebra)
+
+### Legendary {#tier-legendary}
+- [Amethyst Beetle](#amethyst-beetle)
+- [Ash Raven](#ash-raven)
+- [Bald Eagle](#bald-eagle)
+- [Bear on Bike](#bear-on-bike)
+- [Blood Hedgehog](#blood-hedgehog)
+- [Blood Kiwi](#blood-kiwi)
+- [Brown Mouse](#brown-mouse)
+- [Calico](#calico)
+- [Capybara](#capybara)
+- [Caterpillar](#caterpillar)
+- [Celebration Puppy](#celebration-puppy)
+- [Champion Beetle](#champion-beetle)
+- [Cheetah](#cheetah)
+- [Christmas Gorilla](#christmas-gorilla)
+- [Corrupted Kodama](#corrupted-kodama)
+- [Cow](#cow)
+- [Cuckoo](#cuckoo)
+- [Emerald Snake](#emerald-snake)
+- [Football](#football)
+- [Fortune Squirrel](#fortune-squirrel)
+- [Frog](#frog)
+- [Gardener Bee](#gardener-bee)
+- [German Shepherd](#german-shepherd)
+- [Giraffe](#giraffe)
+- [Gnome](#gnome)
+- [Gorilla Chef](#gorilla-chef)
+- [Grey Mouse](#grey-mouse)
+- [Grizzly Bear](#grizzly-bear)
+- [Gummy Bear](#gummy-bear)
+- [Hippo](#hippo)
+- [Honey Badger](#honey-badger)
+- [Hotdog Daschund](#hotdog-daschund)
+- [Idol Chipmunk](#idol-chipmunk)
+- [Iguana](#iguana)
+- [Iguanodon](#iguanodon)
+- [Imp](#imp)
+- [Jerboa](#jerboa)
+- [Kodama](#kodama)
+- [Magpie](#magpie)
+- [Mallard](#mallard)
+- [Mandrake (Pet)](#mandrake-pet)
+- [Marmot](#marmot)
+- [Marshmallow Lamb](#marshmallow-lamb)
+- [Meerkat](#meerkat)
+- [Mole](#mole)
+- [Moon Cat](#moon-cat)
+- [Moth](#moth)
+- [Ostrich](#ostrich)
+- [Pachycephalosaurus](#pachycephalosaurus)
+- [Panda](#panda)
+- [Parasaurolophus](#parasaurolophus)
+- [Peacock](#peacock)
+- [Petal Bee](#petal-bee)
+- [Pine Beetle](#pine-beetle)
+- [Pink Panda](#pink-panda)
+- [Polar Bear](#polar-bear)
+- [Professor Bee](#professor-bee)
+- [Quetzal](#quetzal)
+- [Raptor](#raptor)
+- [Reindeer](#reindeer)
+- [Sand Snake](#sand-snake)
+- [Santa Bear](#santa-bear)
+- [Scarlet Macaw](#scarlet-macaw)
+- [Sea Otter](#sea-otter)
+- [Seedling](#seedling)
+- [Shroomie](#shroomie)
+- [Silver Dragonfly](#silver-dragonfly)
+- [Silver Monkey](#silver-monkey)
+- [Silver Piggy](#silver-piggy)
+- [Snail](#snail)
+- [Snowman Builder](#snowman-builder)
+- [Specter](#specter)
+- [Spider](#spider)
+- [Squirrel](#squirrel)
+- [Stag Beetle](#stag-beetle)
+- [Stegosaurus](#stegosaurus)
+- [Stork](#stork)
+- [Sushi Bear](#sushi-bear)
+- [Tanchozuru](#tanchozuru)
+- [Tanuki (Pet)](#tanuki-pet)
+- [Tomb Marmot](#tomb-marmot)
+- [Trapdoor Spider](#trapdoor-spider)
+- [Triceratops](#triceratops)
+- [Turtle](#turtle)
+- [Wisp](#wisp)
+- [Woody](#woody)
+
+### Mythical {#tier-mythical}
+- [Albino Peacock](#albino-peacock)
+- [Ankylosaurus](#ankylosaurus)
+- [Apple Gazelle](#apple-gazelle)
+- [Arctic Fox](#arctic-fox)
+- [Axolotl](#axolotl)
+- [Barn Owl](#barn-owl)
+- [Bear Bee](#bear-bee)
+- [Black Cat](#black-cat)
+- [Brontosaurus](#brontosaurus)
+- [Brown Owl](#brown-owl)
+- [Butterfly](#butterfly)
+- [Camel](#camel)
+- [Candy Squirrel](#candy-squirrel)
+- [Chicken Zombie](#chicken-zombie)
+- [Chimpanzee](#chimpanzee)
+- [Cocoa Cat](#cocoa-cat)
+- [Cooked Owl](#cooked-owl)
+- [Crocodile](#crocodile)
+- [Dark Spriggan](#dark-spriggan)
+- [Dilophosaurus](#dilophosaurus)
+- [Drake](#drake)
+- [Echo Frog](#echo-frog)
+- [Eggnog Chick](#eggnog-chick)
+- [Elemental Bee](#elemental-bee)
+- [Firefly](#firefly)
+- [Frost Squirrel](#frost-squirrel)
+- [Giant Ant](#giant-ant)
+- [Glimmering Sprite](#glimmering-sprite)
+- [Goblin Gardener](#goblin-gardener)
+- [Goblin Miner](#goblin-miner)
+- [Golden Bee](#golden-bee)
+- [Golden Piggy](#golden-piggy)
+- [Golem](#golem)
+- [Hamster](#hamster)
+- [Hazehound](#hazehound)
+- [Hootsie Roll](#hootsie-roll)
+- [Hyacinth Macaw](#hyacinth-macaw)
+- [Junkbot](#junkbot)
+- [Kappa](#kappa)
+- [Koi](#koi)
+- [Lemon Lion](#lemon-lion)
+- [Lyrebird](#lyrebird)
+- [Mantis Shrimp](#mantis-shrimp)
+- [Mimic Octopus](#mimic-octopus)
+- [Mistletoad](#mistletoad)
+- [Mochi Mouse](#mochi-mouse)
+- [Monitor Lizard](#monitor-lizard)
+- [Moose](#moose)
+- [New Year's Chimp](#new-years-chimp)
+- [Night Owl](#night-owl)
+- [Nutcracker](#nutcracker)
+- [Nyala](#nyala)
+- [Owl](#owl)
+- [Pack Bee](#pack-bee)
+- [Pack Mule](#pack-mule)
+- [Peach Wasp](#peach-wasp)
+- [Penguin](#penguin)
+- [Praying Mantis](#praying-mantis)
+- [Prince Wasp](#prince-wasp)
+- [Pterodactyl](#pterodactyl)
+- [Red Giant Ant](#red-giant-ant)
+- [Rhino](#rhino)
+- [Sapphire Macaw](#sapphire-macaw)
+- [Show Pony](#show-pony)
+- [Spaghetti Sloth](#spaghetti-sloth)
+- [Spriggan](#spriggan)
+- [Sugar Glider](#sugar-glider)
+- [Summer Kiwi](#summer-kiwi)
+
+### Divine {#tier-divine}
+- [Bearded Dragon](#bearded-dragon)
+- [Blood Owl](#blood-owl)
+- [Carnival Elephant](#carnival-elephant)
+- [Cerberus](#cerberus)
+- [Chimera](#chimera)
+- [Chinchilla](#chinchilla)
+- [Christmas Spirit](#christmas-spirit)
+- [Cockatrice](#cockatrice)
+- [Diamond Panther](#diamond-panther)
+- [Disco Bee](#disco-bee)
+- [Dragonfly](#dragonfly)
+- [Easter Bunny](#easter-bunny)
+- [Elephant](#elephant)
+- [Empress Bee](#empress-bee)
+- [Fennec Fox](#fennec-fox)
+- [French Fry Ferret](#french-fry-ferret)
+- [Frost Dragon](#frost-dragon)
+- [Golden Goose](#golden-goose)
+- [Green Bean](#green-bean)
+- [Griffin](#griffin)
+- [Hex Serpent](#hex-serpent)
+- [Hydra](#hydra)
+- [King Bee](#king-bee)
+- [Krampus](#krampus)
+- [Lich](#lich)
+- [Lion](#lion)
+- [Lioness](#lioness)
+- [Lobster Thermidor](#lobster-thermidor)
+- [Luminous Sprite](#luminous-sprite)
+- [Mizuchi](#mizuchi)
+- [Moss Wyvern](#moss-wyvern)
+- [Mummy](#mummy)
+- [Orchid Mantis](#orchid-mantis)
+- [Phoenix](#phoenix)
+- [Queen Bee (Pet)](#queen-bee-pet)
+- [Raccoon](#raccoon)
+- [Raiju](#raiju)
+- [Reaper](#reaper)
+- [Red Fox](#red-fox)
+- [Red Panda](#red-panda)
+- [Red Rose Fox](#red-rose-fox)
+- [Red-Nosed Reindeer](#red-nosed-reindeer)
+- [Ruby Squid](#ruby-squid)
+- [Space Squirrel](#space-squirrel)
+- [Spinosaurus](#spinosaurus)
+- [Star Wolf](#star-wolf)
+- [Swan](#swan)
+- [T-Rex](#t-rex)
+- [Tiger](#tiger)
+- [Water Buffalo](#water-buffalo)
+- [Wendigo](#wendigo)
+- [White Tiger](#white-tiger)
+- [Wind Wyvern](#wind-wyvern)
+- [Yeti](#yeti)
+
+### Prismatic {#tier-prismatic}
+- [Birb](#birb)
+- [Black Spotty Dragon](#black-spotty-dragon)
+- [Blue Whale](#blue-whale)
+- [Corrupted Kitsune](#corrupted-kitsune)
+- [Giant Scorpion](#giant-scorpion)
+- [Gold Finch](#gold-finch)
+- [Headless Horseman](#headless-horseman)
+- [Ice Golem](#ice-golem)
+- [Kitsune (Pet)](#kitsune-pet)
+- [New Year's Dragon](#new-years-dragon)
+- [Peryton](#peryton)
 
 

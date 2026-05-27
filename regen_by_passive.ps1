@@ -83,7 +83,7 @@ $categories = @{
     'Crafting' = @('craft','crafting','crafted')
     'Egg Helpers' = @('chest','chests','egg','eggs','hatch','hatched')
     'Gear' = @('gear','shop','reward','refund')
-    'Harvest or Seed Helpers' = @('harvest','harvested','seed','collecting')
+    'Harvest or Seed Helpers' = @('harvest','harvests','harvested','seed','collecting')
     'Mutators' = @('mutate','mutation','mutations','mutates','variant','mutating','chakra','turn a nearby fruit','turns a nearby crop','pollinates','nearby fruit','random fruit','nearby crop')
     'Pet Helpers' = @('xp','experience','cooldown','copies','ability','hunger','base weight')
     'Player Interactive' = @('player','increased movement speed')
@@ -160,13 +160,16 @@ $topRows = @(
     $categoryOrder[8..10]
 )
 foreach ($row in $topRows) {
-    $sb.AppendLine("<div align='center'>" + (($row | ForEach-Object { "[$_]" + "(#" + (& $makeSlug $_) + ")" }) -join ' | ') + "</div>") | Out-Null
+    $links = ($row | ForEach-Object { "[$_]" + "(#" + (& $makeSlug $_) + ")" }) -join ' | '
+    $sb.AppendLine("<div style='text-align:center'>${links}</div>") | Out-Null
     $sb.AppendLine('') | Out-Null
 }
 
+# Categories content; insert page breaks before specific category headers
+$pageBreakBefore = @('Crafting','Egg Helpers','Gear','Harvest or Seed Helpers','Levellers','Mutators','Pet Helpers','Plant Growth','Player Interactive','Special')
 foreach ($c in $sortedCats) {
     $cSlug = & $makeSlug $c
-    $sb.AppendLine('\pagebreak') | Out-Null
+    if ($pageBreakBefore -contains $c) { $sb.AppendLine('<div style="page-break-before: always;"></div>') | Out-Null }
     $sb.AppendLine('') | Out-Null
     $sb.AppendLine("## $c {#$cSlug}") | Out-Null
     $sb.AppendLine('') | Out-Null
@@ -184,7 +187,7 @@ foreach ($c in $sortedCats) {
         $sb.AppendLine('') | Out-Null
         $sb.AppendLine("- **Tier:** $($pp.Tier)") | Out-Null
         $sb.AppendLine('') | Out-Null
-        if ($pp.Hatch -ne '') { $sb.AppendLine("- **Hatch Chance:**"); $pp.Hatch -split "`n" | ForEach-Object { if ($_ -ne '') { $sb.AppendLine("  - $_") | Out-Null } }; $sb.AppendLine('') | Out-Null } else { $sb.AppendLine("- **Hatch Chance:** N/A") | Out-Null; $sb.AppendLine('') | Out-Null }
+        if ($pp.Hatch -ne '') { $sb.AppendLine("- **Hatch Chance:**") | Out-Null; $pp.Hatch -split "`n" | ForEach-Object { if ($_ -ne '') { $sb.AppendLine("  - $_") | Out-Null } }; $sb.AppendLine('') | Out-Null } else { $sb.AppendLine("- **Hatch Chance:** N/A") | Out-Null; $sb.AppendLine('') | Out-Null }
         if ($pp.Obtaining -ne '') {
             $sb.AppendLine('- **Obtaining Method:**') | Out-Null
             $pp.Obtaining -split "`n" | ForEach-Object { if ($_ -ne '') { $sb.AppendLine("  $_") | Out-Null } }
@@ -203,22 +206,44 @@ foreach ($c in $sortedCats) {
         $sb.AppendLine('') | Out-Null
         $sb.AppendLine("- **Date Added:** $($pp.Date)") | Out-Null
         $sb.AppendLine('') | Out-Null
-        if ($pp.Wiki -ne '') { $sb.AppendLine("- **Wiki Page:** <$($pp.Wiki)>") | Out-Null; $sb.AppendLine('') | Out-Null }
         $sb.AppendLine('') | Out-Null
     }
 }
 
 # Pet index grouped by passive category
-$sb.AppendLine('\pagebreak') | Out-Null
+$sb.AppendLine('<div style="page-break-before: always;"></div>') | Out-Null
 $sb.AppendLine('') | Out-Null
 $sb.AppendLine('## Pet Index (by Passive Ability Category)') | Out-Null
 $sb.AppendLine('') | Out-Null
 foreach ($c in $sortedCats) {
     $cSlug = & $makeSlug $c
-    $sb.AppendLine("### $c {#$($cSlug)-index}") | Out-Null
-    # Use indexMap so pets appear under every category they match
+    $sb.AppendLine("### $c {#$cSlug-index}") | Out-Null
     $items = $indexMap[$c] | Sort-Object Title
-    foreach ($pp in $items) { $sb.AppendLine("- [" + $pp.Title + "](#" + (& $makeSlug $pp.Title) + ")" ) | Out-Null }
+    foreach ($pp in $items) {
+        $petSlug = & $makeSlug $pp.Title
+        $sb.AppendLine("- [$($pp.Title)](#$petSlug)") | Out-Null
+    }
+    $sb.AppendLine('') | Out-Null
+}
+
+# Pet Index by Tier
+$sb.AppendLine('') | Out-Null
+$sb.AppendLine('## Pet Index (by Tier)') | Out-Null
+$tierOrder = @('Common','Uncommon','Rare','Legendary','Mythical','Divine','Prismatic')
+$tierMap = @{}
+foreach ($t in $tierOrder) { $tierMap[$t] = [System.Collections.ArrayList]@() }
+foreach ($pp in $pets) {
+    $t = $pp.Tier
+    if ([string]::IsNullOrEmpty($t) -or -not ($tierOrder -contains $t)) { $t = 'Common' }
+    $tierMap[$t].Add($pp) | Out-Null
+}
+foreach ($t in $tierOrder) {
+    $sb.AppendLine("### $t {#tier-$((& $makeSlug $t))}") | Out-Null
+    $items = $tierMap[$t] | Sort-Object Title
+    foreach ($pp in $items) {
+        $petSlug = & $makeSlug $pp.Title
+        $sb.AppendLine("- [$($pp.Title)](#$petSlug)") | Out-Null
+    }
     $sb.AppendLine('') | Out-Null
 }
 
@@ -228,6 +253,11 @@ Write-Host "WROTE $outMd"
 # Convert with pandoc
 $pandoc = Get-Command pandoc -ErrorAction SilentlyContinue
 if ($pandoc) {
-    & pandoc $outMd -o $outDocx --resource-path=.,$mediaDir --extract-media=./$mediaDir
+    $pandocOut = "$($outDocx).regen.docx"
+    if (Test-Path $pandocOut) { Remove-Item $pandocOut -Force -ErrorAction SilentlyContinue }
+    & pandoc $outMd -o $pandocOut --resource-path=.,$mediaDir --extract-media=./$mediaDir
+    if ($LASTEXITCODE -eq 0 -and (Test-Path $pandocOut)) {
+        try { Move-Item -Path $pandocOut -Destination $outDocx -Force -ErrorAction Stop } catch { Write-Host "WARNING: produced $pandocOut but couldn't overwrite $outDocx (it may be open)." }
+    }
     if ($LASTEXITCODE -eq 0 -and (Test-Path $outDocx)) { Write-Host 'CONVERSION_OK' } else { Write-Host 'CONVERSION_FAILED' }
 } else { Write-Host 'PANDOC_NOT_FOUND' }
