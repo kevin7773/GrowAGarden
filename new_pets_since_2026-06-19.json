@@ -1,0 +1,212 @@
+[
+  {
+    "Title": "Bison",
+    "Tier": [
+      "Legendary"
+    ],
+    "Obtaining": [
+      ""
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Every 10m, charges into 4 random plants and advance their growth by 50m! Fruits on that plant, if any also get the Firework mutation! Has a 12% chance to do it again each time."
+    ],
+    "DateAdded": [
+      ""
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/f/f6/Bison.png/revision/latest?cb=20260702171744",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Bison",
+    "Appearance": "The Bison is an upcoming legendary pet, that will be added in the Summer Harvest Event 2026"
+  },
+  {
+    "Title": "Canary",
+    "Tier": [
+      "Uncommon"
+    ],
+    "Obtaining": [
+      "Season Pass"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Canary Call: Occasionally, a random plant in your garden advances growth, more for every Canary in your garden!"
+    ],
+    "DateAdded": [
+      "June 27, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/b/b2/Canary.png/revision/latest?cb=20260626192907",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Canary",
+    "Appearance": "The Canary is an uncommon pet that was added in the fourth part of the Summer Camp Event."
+  },
+  {
+    "Title": "Electric Eel",
+    "Tier": [
+      "Legendary"
+    ],
+    "Obtaining": [
+      "Season Pass"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "ZAP!: Occasionally zaps another pet, removing its boosts, with a chance to increase its level. Otherwise it lowers the pet's level but grants a Medium Passive Boost instead."
+    ],
+    "DateAdded": [
+      "June 27, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/c/cc/ElectricEel.png/revision/latest?cb=20260626192907",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Electric_Eel",
+    "Appearance": "The Electric Eel is a legendary pet that was added in the fourth part of the Summer Camp Event."
+  },
+  {
+    "Title": "Hermit Crab",
+    "Tier": [
+      "Mythical"
+    ],
+    "Obtaining": [
+      "Coastal Egg"
+    ],
+    "HatchChance": [
+      "9.5%"
+    ],
+    "Passive": [
+      "Hermit Pinch: Occasionally pinches a random pet, plant, or shop NPC, granting a Medium Passive Boost, advancing growth, or restocking a random item, respectively."
+    ],
+    "DateAdded": [
+      "July 4, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/7/73/HermitCrab.png/revision/latest?cb=20260702165138",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Hermit_Crab",
+    "Appearance": "The Hermit Crab is an upcoming mythical pet, that will be added in Summer Harvest Event 2026. The pet has 45,000 hunger."
+  },
+  {
+    "Title": "Kirin",
+    "Tier": [
+      "Divine"
+    ],
+    "Obtaining": [
+      "Season Pass"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Lightning Dash: Occasionally grants you lightning dash powers, boosting movement speed for a short time. Fruit you pass may be mutated with Static, or Shocked if it already has Static!"
+    ],
+    "DateAdded": [
+      "June 27, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/e/ee/Kirin.png/revision/latest?cb=20260626192907",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Kirin",
+    "Appearance": "The Kirin is a divine pet that was added in the fourth part of the Summer Camp Event."
+  },
+  {
+    "Title": "Orca",
+    "Tier": [
+      "Divine"
+    ],
+    "Obtaining": [
+      "Coastal Egg"
+    ],
+    "HatchChance": [
+      "0.5%"
+    ],
+    "Passive": [
+      "Orca Zone: Occasionally all pets within range get Bonus XP. There is a chance the pet ages up by 1 or advances cooldown instead."
+    ],
+    "DateAdded": [
+      "July 4, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/7/75/Orca.png/revision/latest?cb=20260702165149",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Orca",
+    "Appearance": "The Orca is an upcoming divine pet, that will be added in Summer Harvest Event 2026. The pet has 250,000 hunger."
+  },
+  {
+    "Title": "Sea Anemone",
+    "Tier": [
+      "Rare"
+    ],
+    "Obtaining": [
+      "Coastal Egg"
+    ],
+    "HatchChance": [
+      "55%"
+    ],
+    "Passive": [
+      "Tide Pool: All Summer type pets gain additional xp every second."
+    ],
+    "DateAdded": [
+      "July 4, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/7/72/SeaAnemone.png/revision/latest?cb=20260702165055",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Sea_Anemone",
+    "Appearance": "The Sea Anemone is a rare pet, that has been added in Summer Harvest Event 2026. The pet has 5,000 hunger."
+  },
+  {
+    "Title": "Seahorse",
+    "Tier": [
+      "Legendary"
+    ],
+    "Obtaining": [
+      "Coastal Egg"
+    ],
+    "HatchChance": [
+      "35%"
+    ],
+    "Passive": [
+      "Bubble Beam: Occasionally consumes a random fruit in your garden to apply the Tidal mutation! Ignores favorited."
+    ],
+    "DateAdded": [
+      "4 July, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/6/6e/Seahorse.png/revision/latest?cb=20260702165126",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Seahorse",
+    "Appearance": "The Seahorse is an upcoming legendary pet, that will be added in Summer Harvest Event 2026. The pet has 30,000 hunger."
+  },
+  {
+    "Title": "Shark",
+    "Tier": [
+      "Prismatic"
+    ],
+    "Obtaining": [
+      ""
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Shark Bite: Occasionally eats another age 100+ pet with a pet mutation, then spits the pet mutation at another pet and has a chance to apply it. If it fails it will increase its age by a lot instead."
+    ],
+    "DateAdded": [
+      ""
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/1/14/Shark.png/revision/latest?cb=20260621002400",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Shark",
+    "Appearance": "The Shark is an unreleased prismatic pet. The pet has 660,770 hunger."
+  },
+  {
+    "Title": "Thunderbird",
+    "Tier": [
+      "Prismatic"
+    ],
+    "Obtaining": [
+      "Season Pass"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "* Wings of Thunder: Occasionally spreads its wings and releases thunder at other random pets, advancing their cooldown or granting them XP! * Lightning Diety: When selling fruits with Shocked mutation: There is a chance a random mutation from that fruit will be applied to a fruit in your garden!"
+    ],
+    "DateAdded": [
+      "June 27, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/3/3d/Thunderbird.png/revision/latest?cb=20260626192907",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Thunderbird",
+    "Appearance": "The Thunderbird is a prismatic pet that was added in the fourth part of the Summer Camp Event."
+  }
+]

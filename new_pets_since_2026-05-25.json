@@ -1,21 +1,86 @@
-{
-  "Title": "Water Buffalo",
-  "Tier": [
-    "Divine"
-  ],
-  "Obtaining": [
-    "From purchasing a Robux Pack from the Roblox VN Shop, there is a chance to be awarded."
-  ],
-  "HatchChance": [
-    ""
-  ],
-  "Passive": [
-    "Honest Labor: Occasionally harvests a random fruit and gives it to the player! Has a chance for the fruit to stay."
-  ],
-  "DateAdded": [
-    "December 17, 2026"
-  ],
-  "Image": "https://static.wikia.nocookie.net/growagarden/images/d/d3/WaterBuffalo.png/revision/latest?cb=20251215141443",
-  "WikiPage": "https://growagarden.fandom.com/wiki/Water_Buffalo",
-  "Appearance": "The Water Buffalo is an exclusive divine pet that can be obtained by purchasing a Robux Pack from the Roblox Vietnamese Shop from December 17th, 2026, to December 25th, 2026. Redeeming the Robux Pack has a chance of redeeming this pet."
-}
+[
+  {
+    "Title": "Cicada",
+    "Tier": [
+      "Common"
+    ],
+    "Obtaining": [
+      "Campfire Egg"
+    ],
+    "HatchChance": [
+      "55%"
+    ],
+    "Passive": [
+      "Summer Buzz: Occasionally lands on a plant and begins buzzing. That plant grows an additional amount every second for a duration!"
+    ],
+    "DateAdded": [
+      "June 6, 2026"
+    ],
+    "Image": "",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Cicada",
+    "Appearance": "The Cicada is an upcoming uncommon pet that was added to the Summer Camp Event. The pet has 2,000 hunger."
+  },
+  {
+    "Title": "Fire Wisp",
+    "Tier": [
+      "Prismatic"
+    ],
+    "Obtaining": [
+      "Campfire Egg"
+    ],
+    "HatchChance": [
+      "0.5%"
+    ],
+    "Passive": [
+      "* Heart of Fire: Occasionally has a chance to apply the Ember Variant to a random plant without a variant. Ignores plants with favorited fruit * Fireheart: Occasionally has a chance to apply the Ember Pet Mutation to a random level 100 pet without a pet mutation, resetting its level to 0!"
+    ],
+    "DateAdded": [
+      "June 6, 2026"
+    ],
+    "Image": "",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Fire_Wisp",
+    "Appearance": "The Fire Wisp is an prismatic pet that was added to the Summer Camp Event. The pet has 50,000 hunger."
+  },
+  {
+    "Title": "Newt",
+    "Tier": [
+      "Rare"
+    ],
+    "Obtaining": [
+      "Campfire Egg"
+    ],
+    "HatchChance": [
+      "35.5%"
+    ],
+    "Passive": [
+      "* Renewtal: Chance to duplicate harvested plants * Summer Harvester: Increased chance to duplicate Summer type plants."
+    ],
+    "DateAdded": [
+      "June 6, 2026"
+    ],
+    "Image": "",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Newt",
+    "Appearance": "The Newt is an upcoming rare pet that was added to the Summer Camp Event. The pet has 10,000 hunger."
+  },
+  {
+    "Title": "Nightjar",
+    "Tier": [
+      "Mythical"
+    ],
+    "Obtaining": [
+      "Campfire Egg"
+    ],
+    "HatchChance": [
+      "9%"
+    ],
+    "Passive": [
+      "Call of the Night: Occasionally consumes a fruit with Moonlit mutation and applies Small XP Boost and Small Passive Boost to a random pet in your garden. If the fruit consumed also has Bloodlit: Applies a Large Passive Boost instead. Ignores favorited."
+    ],
+    "DateAdded": [
+      "June 6, 2026"
+    ],
+    "Image": "",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Nightjar",
+    "Appearance": "The Nightjar is an mythical pet that was added to the Summer Camp Event. The pet has 10,000 hunger."
+  }
+]

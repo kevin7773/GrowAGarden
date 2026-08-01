@@ -92,13 +92,44 @@ function Get-Tier {
     param([string]$RawTier, [string[]]$Categories)
     $rarities = @('Common', 'Uncommon', 'Rare', 'Legendary', 'Mythical', 'Divine', 'Prismatic')
     foreach ($rarity in $rarities) {
-        if ($RawTier -match "(?i)$rarity\s*Icon" -or $Categories -contains $rarity) { return $rarity }
+        if ($Categories -contains $rarity) { return $rarity }
+    }
+    foreach ($rarity in $rarities) {
+        if ($RawTier -match "(?i)(?:File:)?$([regex]::Escape($rarity))Icon\.(?:png|gif|webp)") { return $rarity }
     }
     $plain = ConvertTo-WikiTextPlain $RawTier
     foreach ($rarity in $rarities) {
         if ($plain -match "(?i)\b$rarity\b") { return $rarity }
     }
     return $plain
+}
+
+function Get-PetImageFile {
+    param([string]$RawImageField, [object]$Page)
+    $raw = ($RawImageField ?? '').Trim()
+    $candidates = @()
+
+    if ($raw -match '(?im)^\s*([A-Za-z0-9][^|\r\n<>]+\.(?:png|gif|webp|jpg|jpeg))\s*(?:\||$)') {
+        $candidates += $matches[1].Trim()
+    } elseif ($raw -match '(?i)([A-Za-z0-9][^|\r\n<>]+\.(?:png|gif|webp|jpg|jpeg))') {
+        $candidates += $matches[1].Trim()
+    } elseif ($raw -match '(?i)File:([^|\]\r\n<>]+\.(?:png|gif|webp|jpg|jpeg))') {
+        $candidates += $matches[1].Trim()
+    }
+
+    if ($Page -and $Page.images) {
+        foreach ($image in @($Page.images)) {
+            $filename = ($image.title -replace '^File:', '').Trim()
+            if ($filename -match '(?i)Icon\.(png|gif|webp)$') { continue }
+            if ($filename -match '(?i)^Rainbow') { continue }
+            $candidates += $filename
+        }
+    }
+
+    foreach ($candidate in $candidates) {
+        if (-not [string]::IsNullOrWhiteSpace($candidate)) { return $candidate }
+    }
+    return ''
 }
 
 function ConvertTo-PetRecord {
@@ -154,10 +185,11 @@ function Get-PetPageBatch {
     $response = Invoke-WikiApi @{
         action = 'query'
         format = 'json'
-        prop = 'revisions|categories'
+        prop = 'revisions|categories|images'
         rvprop = 'content'
         rvslots = 'main'
         cllimit = 'max'
+        imlimit = 'max'
         titles = $titles
     }
     return @($response.query.pages.PSObject.Properties.Value)
@@ -169,7 +201,7 @@ function Get-ImageUrlMap {
     foreach ($page in $Pages) {
         $content = $page.revisions[0].slots.main.'*'
         $fields = Get-PetTemplateFields $content
-        $image = ($fields['image1'] ?? '').Trim()
+        $image = Get-PetImageFile $fields['image1'] $page
         if ($image -ne '') { $fileTitles += "File:$image" }
     }
     $map = @{}
@@ -198,11 +230,14 @@ if (-not (Test-Path $SourceJson)) { throw "Missing source JSON: $SourceJson" }
 
 $existingPets = @(Get-Content $SourceJson -Raw | ConvertFrom-Json)
 $existingKeys = @{}
-foreach ($pet in $existingPets) { $existingKeys[(Normalize-TitleKey $pet.Title)] = $true }
+for ($existingIndex = 0; $existingIndex -lt $existingPets.Count; $existingIndex++) {
+    $existingKeys[(Normalize-TitleKey $existingPets[$existingIndex].Title)] = $existingIndex
+}
 
 Write-Host "Checking Grow a Garden wiki pets added after $($cutoff.ToString('yyyy-MM-dd'))..."
 $members = @(Get-AllPetCategoryMembers)
 $newPets = @()
+$refreshedPets = @()
 
 for ($i = 0; $i -lt $members.Count; $i += 50) {
     $memberChunk = @($members | Select-Object -Skip $i -First 50)
@@ -220,17 +255,23 @@ for ($i = 0; $i -lt $members.Count; $i += 50) {
         if (-not $addedAfterCutoff) { continue }
 
         $key = Normalize-TitleKey $title
-        if ($existingKeys.ContainsKey($key)) { continue }
 
         $categories = @()
         if ($page.categories) {
             $categories = @($page.categories | ForEach-Object { ($_.title -replace '^Category:', '') })
         }
-        $imageFile = ($fields['image1'] ?? '').Trim()
+        $imageFile = Get-PetImageFile $fields['image1'] $page
         $imageUrl = ''
         if ($imageFile -ne '' -and $imageMap.ContainsKey("File:$imageFile")) { $imageUrl = $imageMap["File:$imageFile"] }
-        $newPets += ConvertTo-PetRecord $title $content $categories $imageUrl
-        $existingKeys[$key] = $true
+        $record = ConvertTo-PetRecord $title $content $categories $imageUrl
+        if ($existingKeys.ContainsKey($key)) {
+            $existingPets[$existingKeys[$key]] = $record
+            $refreshedPets += $title
+            continue
+        }
+
+        $newPets += $record
+        $existingKeys[$key] = $existingPets.Count + $newPets.Count - 1
     }
 }
 
@@ -241,13 +282,18 @@ if ($newPets.Count -eq 0) {
     Write-Host "No missing pets found after $($cutoff.ToString('yyyy-MM-dd'))."
 } else {
     Write-Host "Found $($newPets.Count) missing pet(s): $((@($newPets | ForEach-Object Title)) -join ', ')"
-    if (-not $DryRun) {
-        @($existingPets + $newPets) |
-            Sort-Object Title |
-            ConvertTo-Json -Depth 10 |
-            Set-Content -Path $SourceJson -Encoding UTF8
-        Write-Host "Updated $SourceJson"
-    }
+}
+
+if ($refreshedPets.Count -gt 0) {
+    Write-Host "Refreshed $($refreshedPets.Count) existing recent pet(s): $((@($refreshedPets | Sort-Object -Unique)) -join ', ')"
+}
+
+if (-not $DryRun -and ($newPets.Count -gt 0 -or $refreshedPets.Count -gt 0)) {
+    @($existingPets + $newPets) |
+        Sort-Object Title |
+        ConvertTo-Json -Depth 10 |
+        Set-Content -Path $SourceJson -Encoding UTF8
+    Write-Host "Updated $SourceJson"
 }
 
 if (-not $DryRun -and -not $SkipGenerate) {

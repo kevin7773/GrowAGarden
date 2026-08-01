@@ -1,0 +1,44 @@
+[
+  {
+    "Title": "Flame Bear",
+    "Tier": [
+      "Legendary"
+    ],
+    "Obtaining": [
+      "Summer Ritual"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Flame On: Occasionally shoots a fireball at another pet, restoring hunger and granting XP!"
+    ],
+    "DateAdded": [
+      "June 20, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/f/f9/FlameBear.png/revision/latest?cb=20260618145747",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Flame_Bear",
+    "Appearance": "The Flame Bear is an upcoming legendary pet that will be added to the third part of the Summer Camp Event."
+  },
+  {
+    "Title": "Shadow Cat",
+    "Tier": [
+      "Legendary"
+    ],
+    "Obtaining": [
+      "Crafting"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Shadow Nap: Occasionally mutates fruit with Shadow mutation!"
+    ],
+    "DateAdded": [
+      "June 20, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/c/c5/ShadowCat.png/revision/latest?cb=20260617061936",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Shadow_Cat",
+    "Appearance": "The Shadow Cat is a legendary pet that was added in the third part of the Summer Camp Event."
+  }
+]

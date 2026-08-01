@@ -20,6 +20,7 @@ def main():
     xml = center_top_navigation(xml)
     if 'w:name="pets_a_z"' in xml:
         xml = table_pet_entries(xml)
+        xml = close_bookmark_after_next_paragraph(xml, "pets_a_z")
     else:
         xml = float_pet_images(xml)
     section_matches = list(re.finditer(r"<w:sectPr[\s\S]*?</w:sectPr>", xml))
@@ -165,10 +166,11 @@ def pet_entry_table(entry):
             image = paragraph
         else:
             details.append(paragraph)
-    if not image:
-        return entry
-
+    bookmark_end_xml = "".join(bookmark_ends)
     details_xml = "".join(details) or "<w:p/>"
+    if not image:
+        return single_cell_pet_entry(bookmark_start, heading, details_xml, bookmark_end_xml)
+
     inner = (
         '<w:tbl><w:tblPr><w:tblW w:w="9000" w:type="dxa" />'
         '<w:tblLayout w:type="fixed" />'
@@ -190,9 +192,24 @@ def pet_entry_table(entry):
         '</w:tblPr><w:tblGrid><w:gridCol w:w="9360" /></w:tblGrid>'
         '<w:tr><w:trPr><w:cantSplit /></w:trPr>'
         f'<w:tc><w:tcPr><w:tcW w:w="9360" w:type="dxa" />{cell_margins()}</w:tcPr>'
-        f'{bookmark_start}{heading}{inner}<w:p/></w:tc></w:tr></w:tbl>'
+        f'{bookmark_start}{heading}{inner}{bookmark_end_xml}<w:p/></w:tc></w:tr></w:tbl>'
     )
-    return outer + "".join(bookmark_ends)
+    return outer
+
+
+def single_cell_pet_entry(bookmark_start, heading, details_xml, bookmark_end_xml):
+    outer = (
+        '<w:tbl><w:tblPr><w:tblW w:w="9360" w:type="dxa" />'
+        '<w:tblLayout w:type="fixed" />'
+        '<w:tblBorders><w:top w:val="nil" /><w:left w:val="nil" />'
+        '<w:bottom w:val="nil" /><w:right w:val="nil" />'
+        '<w:insideH w:val="nil" /><w:insideV w:val="nil" /></w:tblBorders>'
+        '</w:tblPr><w:tblGrid><w:gridCol w:w="9360" /></w:tblGrid>'
+        '<w:tr><w:trPr><w:cantSplit /></w:trPr>'
+        f'<w:tc><w:tcPr><w:tcW w:w="9360" w:type="dxa" />{cell_margins()}</w:tcPr>'
+        f'{bookmark_start}{heading}{details_xml}{bookmark_end_xml}<w:p/></w:tc></w:tr></w:tbl>'
+    )
+    return outer
 
 
 def add_keep_next(paragraph):
@@ -326,6 +343,29 @@ def find_bookmark_start(xml, attr):
         rf'<w:bookmarkStart\b[^>]*\bw:name="{re.escape(safe_name)}"[^>]*/>',
         xml,
     )
+
+
+def close_bookmark_after_next_paragraph(xml, bookmark_name):
+    safe_name = sanitize_bookmark(bookmark_name)
+    start_match = re.search(
+        rf'<w:bookmarkStart\b[^>]*\bw:id="([^"]+)"[^>]*\bw:name="{re.escape(safe_name)}"[^>]*/>',
+        xml,
+    )
+    if not start_match:
+        return xml
+    bookmark_id = start_match.group(1)
+    end_pattern = rf'<w:bookmarkEnd\b[^>]*\bw:id="{re.escape(bookmark_id)}"[^>]*/>\s*'
+    end_match = re.search(end_pattern, xml)
+    if not end_match:
+        return xml
+    end_tag = end_match.group(0).strip()
+    xml = re.sub(end_pattern, "", xml, count=1)
+
+    paragraph_end = xml.find("</w:p>", start_match.end())
+    if paragraph_end < 0:
+        return xml + end_tag
+    insert_at = paragraph_end + len("</w:p>")
+    return xml[:insert_at] + end_tag + xml[insert_at:]
 
 
 def ensure_page_geometry(section):

@@ -1,0 +1,86 @@
+[
+  {
+    "Title": "Manta Ray",
+    "Tier": [
+      "Mythical"
+    ],
+    "Obtaining": [
+      "Pearl Smith Rewards"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Ray of Renewal: Occasionally swims and glides over different fruit in your garden. Those fruits gain Wet or Tidal mutation, while pets passed gain XP and plants passed advance growth!"
+    ],
+    "DateAdded": [
+      "July 11, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/e/e6/MantaRay.png/revision/latest?cb=20260710104246",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Manta_Ray",
+    "Appearance": "The Manta Ray is a limited mythical pet that was added to the second part of the High Tide Harvest Event."
+  },
+  {
+    "Title": "Pelican",
+    "Tier": [
+      "Rare"
+    ],
+    "Obtaining": [
+      "Pearl Smith Rewards"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Catch of the Day: Occasionally converts a random non-summer type fruit in your garden into a Summer type fruit of the same rarity and gives it to you!"
+    ],
+    "DateAdded": [
+      "July 11, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/c/c7/Pelican.png/revision/latest?cb=20260710103953",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Pelican",
+    "Appearance": "The Pelican is a limited rare pet that was added to the second part of the High Tide Harvest Event. The pet has 50,000 hunger."
+  },
+  {
+    "Title": "Sea Urchin",
+    "Tier": [
+      "Uncommon"
+    ],
+    "Obtaining": [
+      "Tide Token Shop"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Urchin Searchin: Occasionally converts a fruit with at least 2 mutations into an XP bonus to a random pet in your garden!"
+    ],
+    "DateAdded": [
+      "July 11, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/0/07/SeaUrchin.png/revision/latest?cb=20260710101536",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Sea_Urchin",
+    "Appearance": "The Sea Urchin is a limited uncommon pet that was added to the second part of the High Tide Harvest Event. The pet has 1,000 hunger."
+  },
+  {
+    "Title": "Walrus",
+    "Tier": [
+      "Legendary"
+    ],
+    "Obtaining": [
+      "Tide Token Shop"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Blubber Forager: Occasionally rewards you with a random gear or mutates a fruit in your garden with a summer type mutation. Rarer rewards have rarer chances!"
+    ],
+    "DateAdded": [
+      "July 11, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/7/79/Walrus.png/revision/latest?cb=20260710101610",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Walrus",
+    "Appearance": "The Walrus is a limited legendary pet that was added to the second part of the High Tide Harvest Event. The pet has 180,000 hunger."
+  }
+]

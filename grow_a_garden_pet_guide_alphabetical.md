@@ -417,6 +417,23 @@
 - **Date Added:** January 17, 2026
 
 
+### Bison {#bison}
+
+![Bison](media/Bison.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Every 10m, charges into 4 random plants and advance their growth by 50m! Fruits on that plant, if any also get the Firework mutation! Has a 12% chance to do it again each time.
+
+- **Appearance:** The Bison is an upcoming legendary pet, that will be added in the Summer Harvest Event 2026
+
+- **Date Added:**
+
+
 ### Black Bird {#black-bird}
 
 ![Black Bird](media/Black_Bird.png){width=80px}
@@ -754,6 +771,24 @@
 - **Appearance:** The Camel is a mythical pet that was added in the second half of the Trader Event.
 
 - **Date Added:** November 29, 2025
+
+
+### Canary {#canary}
+
+![Canary](media/Canary.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Canary Call: Occasionally, a random plant in your garden advances growth, more for every Canary in your garden!
+
+- **Appearance:** The Canary is an uncommon pet that was added in the fourth part of the Summer Camp Event.
+
+- **Date Added:** June 27, 2026
 
 
 ### Candy Squirrel {#candy-squirrel}
@@ -1165,6 +1200,25 @@
 - **Appearance:** The Chubby Chipmunk is a rare pet released in the Chubby Chipmunk Event.
 
 - **Date Added:** October 4th 2025
+
+
+### Cicada {#cicada}
+
+![Cicada](media/Cicada.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:**
+  - 55%
+
+- **Obtaining Method:**
+  Campfire Egg
+
+- **Passive Ability:** Summer Buzz: Occasionally lands on a plant and begins buzzing. That plant grows an additional amount every second for a duration!
+
+- **Appearance:** The Cicada is an upcoming uncommon pet that was added to the Summer Camp Event. The pet has 2,000 hunger.
+
+- **Date Added:** June 6, 2026
 
 
 ### Clam {#clam}
@@ -1622,6 +1676,24 @@
 - **Date Added:** December 13, 2025
 
 
+### Electric Eel {#electric-eel}
+
+![Electric Eel](media/Electric_Eel.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** ZAP!: Occasionally zaps another pet, removing its boosts, with a chance to increase its level. Otherwise it lowers the pet's level but grants a Medium Passive Boost instead.
+
+- **Appearance:** The Electric Eel is a legendary pet that was added in the fourth part of the Summer Camp Event.
+
+- **Date Added:** June 27, 2026
+
+
 ### Elemental Bee {#elemental-bee}
 
 ![Elemental Bee](media/Elemental_Bee.png){width=80px}
@@ -1759,6 +1831,25 @@
 - **Date Added:** June 28, 2025
 
 
+### Fire Wisp {#fire-wisp}
+
+![Fire Wisp](media/Fire_Wisp.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:**
+  - 0.5%
+
+- **Obtaining Method:**
+  Campfire Egg
+
+- **Passive Ability:** * Heart of Fire: Occasionally has a chance to apply the Ember Variant to a random plant without a variant. Ignores plants with favorited fruit * Fireheart: Occasionally has a chance to apply the Ember Pet Mutation to a random level 100 pet without a pet mutation, resetting its level to 0!
+
+- **Appearance:** The Fire Wisp is an prismatic pet that was added to the Summer Camp Event. The pet has 50,000 hunger.
+
+- **Date Added:** June 6, 2026
+
+
 ### Firefly {#firefly}
 
 ![Firefly](media/Firefly.png){width=80px}
@@ -1811,6 +1902,24 @@
 - **Appearance:** The Firework Sprite is a rare pet that added on the New Year's Event. It can hatch from the New Year's Egg with a 25% chance to hatch and from the Premium New Year's Egg with a 25% chance to hatch as well.
 
 - **Date Added:** December 27th, 2025
+
+
+### Flame Bear {#flame-bear}
+
+![Flame Bear](media/Flame_Bear.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Campfire Workshop
+
+- **Passive Ability:** Flame On: Occasionally shoots a fireball at another pet, restoring hunger and granting XP!
+
+- **Appearance:** The Flame Bear is a limited legendary pet that was added in the third part of the Summer Camp Event.
+
+- **Date Added:** June 20, 2026
 
 
 ### Flame Bee {#flame-bee}
@@ -2561,6 +2670,25 @@
 - **Date Added:** May, 10th, 2025
 
 
+### Hermit Crab {#hermit-crab}
+
+![Hermit Crab](media/Hermit_Crab.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 9.5%
+
+- **Obtaining Method:**
+  Coastal Egg
+
+- **Passive Ability:** Hermit Pinch: Occasionally pinches a random pet, plant, or shop NPC, granting a Medium Passive Boost, advancing growth, or restocking a random item, respectively.
+
+- **Appearance:** The Hermit Crab is an upcoming mythical pet, that will be added in Summer Harvest Event 2026. The pet has 45,000 hunger.
+
+- **Date Added:** July 4, 2026
+
+
 ### Hex Serpent {#hex-serpent}
 
 ![Hex Serpent](media/Hex_Serpent.png){width=80px}
@@ -2956,6 +3084,24 @@
 - **Date Added:** May 16, 2026
 
 
+### Kirin {#kirin}
+
+![Kirin](media/Kirin.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Lightning Dash: Occasionally grants you lightning dash powers, boosting movement speed for a short time. Fruit you pass may be mutated with Static, or Shocked if it already has Static!
+
+- **Appearance:** The Kirin is a divine pet that was added in the fourth part of the Summer Camp Event.
+
+- **Date Added:** June 27, 2026
+
+
 ### Kitsune (Pet) {#kitsune-pet}
 
 ![Kitsune (Pet)](media/Kitsune_Pet.png){width=80px}
@@ -3293,6 +3439,24 @@
 - **Appearance:** The Maneki-neko is an uncommon pet, obtained from the Kitsune Chest (with a 34% chance) or from the Exotic Kitsune Chest (with a 34.5% chance) during the Zen Event.
 
 - **Date Added:** July 26th, 2025
+
+
+### Manta Ray {#manta-ray}
+
+![Manta Ray](media/Manta_Ray.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Pearl Smith Rewards
+
+- **Passive Ability:** Ray of Renewal: Occasionally swims and glides over different fruit in your garden. Those fruits gain Wet or Tidal mutation, while pets passed gain XP and plants passed advance growth!
+
+- **Appearance:** The Manta Ray is a limited mythical pet that was added to the second part of the High Tide Harvest Event.
+
+- **Date Added:** July 11, 2026
 
 
 ### Mantis Shrimp {#mantis-shrimp}
@@ -3668,6 +3832,25 @@
 - **Date Added:** December 27th, 2025
 
 
+### Newt {#newt}
+
+![Newt](media/Newt.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 35.5%
+
+- **Obtaining Method:**
+  Campfire Egg
+
+- **Passive Ability:** * Renewtal: Chance to duplicate harvested plants * Summer Harvester: Increased chance to duplicate Summer type plants.
+
+- **Appearance:** The Newt is an upcoming rare pet that was added to the Summer Camp Event. The pet has 10,000 hunger.
+
+- **Date Added:** June 6, 2026
+
+
 ### Night Owl {#night-owl}
 
 ![Night Owl](media/Night_Owl.png){width=80px}
@@ -3685,6 +3868,25 @@
 - **Appearance:** The Night Owl is a mythical pet added in the Lunar Glow Event. It can be obtained by hatching the Night Egg with a 4% chance.
 
 - **Date Added:** May 10th, 2025
+
+
+### Nightjar {#nightjar}
+
+![Nightjar](media/Nightjar.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 9%
+
+- **Obtaining Method:**
+  Campfire Egg
+
+- **Passive Ability:** Call of the Night: Occasionally consumes a fruit with Moonlit mutation and applies Small XP Boost and Small Passive Boost to a random pet in your garden. If the fruit consumed also has Bloodlit: Applies a Large Passive Boost instead. Ignores favorited.
+
+- **Appearance:** The Nightjar is an mythical pet that was added to the Summer Camp Event. The pet has 10,000 hunger.
+
+- **Date Added:** June 6, 2026
 
 
 ### Nihonzaru {#nihonzaru}
@@ -3798,6 +4000,25 @@
 - **Appearance:** The Orangutan is a rare pet released in the Summer Update.
 
 - **Date Added:** June 21, 2025
+
+
+### Orca {#orca}
+
+![Orca](media/Orca.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 0.5%
+
+- **Obtaining Method:**
+  Coastal Egg
+
+- **Passive Ability:** Orca Zone: Occasionally all pets within range get Bonus XP. There is a chance the pet ages up by 1 or advances cooldown instead.
+
+- **Appearance:** The Orca is an upcoming divine pet, that will be added in Summer Harvest Event 2026. The pet has 250,000 hunger.
+
+- **Date Added:** July 4, 2026
 
 
 ### Orchid Mantis {#orchid-mantis}
@@ -4038,6 +4259,24 @@
 - **Appearance:** The Peacock is a legendary pet released in the Summer Update. It can be obtained with a 30% chance by hatching a Paradise Egg.
 
 - **Date Added:** June 21, 2025
+
+
+### Pelican {#pelican}
+
+![Pelican](media/Pelican.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Pearl Smith Rewards
+
+- **Passive Ability:** Catch of the Day: Occasionally converts a random non-summer type fruit in your garden into a Summer type fruit of the same rarity and gives it to you!
+
+- **Appearance:** The Pelican is a limited rare pet that was added to the second part of the High Tide Harvest Event. The pet has 50,000 hunger.
+
+- **Date Added:** July 11, 2026
 
 
 ### Penguin {#penguin}
@@ -4782,6 +5021,25 @@
 - **Date Added:** June 21, 2025
 
 
+### Sea Anemone {#sea-anemone}
+
+![Sea Anemone](media/Sea_Anemone.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 55%
+
+- **Obtaining Method:**
+  Coastal Egg
+
+- **Passive Ability:** Tide Pool: All Summer type pets gain additional xp every second.
+
+- **Appearance:** The Sea Anemone is a rare pet, that has been added in Summer Harvest Event 2026. The pet has 5,000 hunger.
+
+- **Date Added:** July 4, 2026
+
+
 ### Sea Otter {#sea-otter}
 
 ![Sea Otter](media/Sea_Otter.png){width=80px}
@@ -4820,6 +5078,24 @@
 - **Date Added:** June 21, 2025
 
 
+### Sea Urchin {#sea-urchin}
+
+![Sea Urchin](media/Sea_Urchin.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Tide Token Shop
+
+- **Passive Ability:** Urchin Searchin: Occasionally converts a fruit with at least 2 mutations into an XP bonus to a random pet in your garden!
+
+- **Appearance:** The Sea Urchin is a limited uncommon pet that was added to the second part of the High Tide Harvest Event. The pet has 1,000 hunger.
+
+- **Date Added:** July 11, 2026
+
+
 ### Seagull {#seagull}
 
 ![Seagull](media/Seagull.png){width=80px}
@@ -4837,6 +5113,25 @@
 - **Appearance:** The Seagull is a Common pet released in the Summer Update. It can be obtained from the Common Summer Egg for   1,000,000 or  29. It has 3,500 Hunger.
 
 - **Date Added:** June 21, 2025
+
+
+### Seahorse {#seahorse}
+
+![Seahorse](media/Seahorse.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 35%
+
+- **Obtaining Method:**
+  Coastal Egg
+
+- **Passive Ability:** Bubble Beam: Occasionally consumes a random fruit in your garden to apply the Tidal mutation! Ignores favorited.
+
+- **Appearance:** The Seahorse is an upcoming legendary pet, that will be added in Summer Harvest Event 2026. The pet has 30,000 hunger.
+
+- **Date Added:** 4 July, 2026
 
 
 ### Seal {#seal}
@@ -4875,6 +5170,41 @@
 - **Appearance:** The Seedling is a limited, legendary pet released in the Beanstalk Event.
 
 - **Date Added:** August 16th, 2025
+
+
+### Shadow Cat {#shadow-cat}
+
+![Shadow Cat](media/Shadow_Cat.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Crafting
+
+- **Passive Ability:** Shadow Nap: Occasionally mutates fruit with Shadow mutation!
+
+- **Appearance:** The Shadow Cat is a legendary pet that was added in the third part of the Summer Camp Event.
+
+- **Date Added:** June 20, 2026
+
+
+### Shark {#shark}
+
+![Shark](media/Shark.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Shark Bite: Occasionally eats another age 100+ pet with a pet mutation, then spits the pet mutation at another pet and has a chance to apply it. If it fails it will increase its age by a lot instead.
+
+- **Appearance:** The Shark is an unreleased prismatic pet. The pet has 660,770 hunger.
+
+- **Date Added:**
 
 
 ### Sheckling {#sheckling}
@@ -5555,7 +5885,22 @@
 - **Date Added:** 15th November 2025
 
 
-<div style="page-break-before: always;"></div>
+### Thunderbird {#thunderbird}
+
+![Thunderbird](media/Thunderbird.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** * Wings of Thunder: Occasionally spreads its wings and releases thunder at other random pets, advancing their cooldown or granting them XP! * Lightning Diety: When selling fruits with Shocked mutation: There is a chance a random mutation from that fruit will be applied to a fruit in your garden!
+
+- **Appearance:** The Thunderbird is a prismatic pet that was added in the fourth part of the Summer Camp Event.
+
+- **Date Added:** June 27, 2026
 
 
 ### Tiger {#tiger}
@@ -5775,6 +6120,24 @@
 <div style="page-break-before: always;"></div>
 
 
+### Walrus {#walrus}
+
+![Walrus](media/Walrus.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Tide Token Shop
+
+- **Passive Ability:** Blubber Forager: Occasionally rewards you with a random gear or mutates a fruit in your garden with a summer type mutation. Rarer rewards have rarer chances!
+
+- **Appearance:** The Walrus is a limited legendary pet that was added to the second part of the High Tide Harvest Event. The pet has 180,000 hunger.
+
+- **Date Added:** July 11, 2026
+
+
 ### Wasp {#wasp}
 
 ![Wasp](media/Wasp.png){width=80px}
@@ -5830,6 +6193,9 @@
 - **Appearance:** The Wendigo is a limited divine pet that was added during the third part of the Christmas Harvest Event.
 
 - **Date Added:** December 20, 2025
+
+
+<div style="page-break-before: always;"></div>
 
 
 ### White Tiger {#white-tiger}
@@ -6079,6 +6445,7 @@
 - [Football](#football)
 - [Goblin Gardener](#goblin-gardener)
 - [Golden Lab](#golden-lab)
+- [Hermit Crab](#hermit-crab)
 - [Imp](#imp)
 - [Magpie](#magpie)
 - [Mallard](#mallard)
@@ -6096,6 +6463,7 @@
 - [Silver Monkey](#silver-monkey)
 - [Snowman Builder](#snowman-builder)
 - [Stag Beetle](#stag-beetle)
+- [Walrus](#walrus)
 - [Zebra](#zebra)
 
 ### Harvest or Seed Helpers {#harvest-or-seed-helpers-index}
@@ -6125,6 +6493,7 @@
 - [Kodama](#kodama)
 - [Lyrebird](#lyrebird)
 - [Moon Cat](#moon-cat)
+- [Newt](#newt)
 - [Petal Bee](#petal-bee)
 - [Raptor](#raptor)
 - [Red Fox](#red-fox)
@@ -6148,6 +6517,8 @@
 - [Amethyst Beetle](#amethyst-beetle)
 - [Cerberus](#cerberus)
 - [Champion Beetle](#champion-beetle)
+- [Electric Eel](#electric-eel)
+- [Fire Wisp](#fire-wisp)
 - [French Fry Ferret](#french-fry-ferret)
 - [Pine Beetle](#pine-beetle)
 - [Stag Beetle](#stag-beetle)
@@ -6162,6 +6533,7 @@
 - [Bear Bee](#bear-bee)
 - [Bear on Bike](#bear-on-bike)
 - [Bee](#bee)
+- [Bison](#bison)
 - [Black Spotty Dragon](#black-spotty-dragon)
 - [Blood Hedgehog](#blood-hedgehog)
 - [Bumblebee](#bumblebee)
@@ -6188,6 +6560,7 @@
 - [Elemental Bee](#elemental-bee)
 - [Emerald Snake](#emerald-snake)
 - [Fennec Fox](#fennec-fox)
+- [Fire Wisp](#fire-wisp)
 - [Firefly](#firefly)
 - [Flame Bee](#flame-bee)
 - [Fortune Squirrel](#fortune-squirrel)
@@ -6227,6 +6600,7 @@
 - [Lobster Thermidor](#lobster-thermidor)
 - [Luminous Sprite](#luminous-sprite)
 - [Mandrake (Pet)](#mandrake-pet)
+- [Manta Ray](#manta-ray)
 - [Messenger Pigeon](#messenger-pigeon)
 - [Mistletoad](#mistletoad)
 - [Mizuchi](#mizuchi)
@@ -6234,6 +6608,7 @@
 - [Moose](#moose)
 - [Moss Wyvern](#moss-wyvern)
 - [New Year's Dragon](#new-years-dragon)
+- [Nightjar](#nightjar)
 - [Nyala](#nyala)
 - [Orchid Mantis](#orchid-mantis)
 - [Pack Bee](#pack-bee)
@@ -6261,7 +6636,11 @@
 - [Sapphire Macaw](#sapphire-macaw)
 - [Scarlet Macaw](#scarlet-macaw)
 - [Sea Turtle](#sea-turtle)
+- [Sea Urchin](#sea-urchin)
+- [Seahorse](#seahorse)
 - [Seedling](#seedling)
+- [Shadow Cat](#shadow-cat)
+- [Shark](#shark)
 - [Sheckling](#sheckling)
 - [Silver Dragonfly](#silver-dragonfly)
 - [Snowman Builder](#snowman-builder)
@@ -6280,10 +6659,12 @@
 - [T-Rex](#t-rex)
 - [Tanchozuru](#tanchozuru)
 - [Tarantula Hawk](#tarantula-hawk)
+- [Thunderbird](#thunderbird)
 - [Tiger](#tiger)
 - [Toucan](#toucan)
 - [Trapdoor Spider](#trapdoor-spider)
 - [Turtle Dove](#turtle-dove)
+- [Walrus](#walrus)
 - [Wasp](#wasp)
 - [Water Buffalo](#water-buffalo)
 - [White Tiger](#white-tiger)
@@ -6308,6 +6689,7 @@
 - [Elephant](#elephant)
 - [Empress Bee](#empress-bee)
 - [Firemite](#firemite)
+- [Flame Bear](#flame-bear)
 - [Frost Dragon](#frost-dragon)
 - [Giant Scorpion](#giant-scorpion)
 - [Golden Piggy](#golden-piggy)
@@ -6325,6 +6707,7 @@
 - [Lich](#lich)
 - [Lion](#lion)
 - [Lioness](#lioness)
+- [Manta Ray](#manta-ray)
 - [Marshmallow Lamb](#marshmallow-lamb)
 - [Meerkat](#meerkat)
 - [Mimic Octopus](#mimic-octopus)
@@ -6334,8 +6717,10 @@
 - [Moth](#moth)
 - [Mummy](#mummy)
 - [Night Owl](#night-owl)
+- [Nightjar](#nightjar)
 - [Nurse Bee](#nurse-bee)
 - [Nyala](#nyala)
+- [Orca](#orca)
 - [Owl](#owl)
 - [Oxpecker](#oxpecker)
 - [Pack Mule](#pack-mule)
@@ -6352,7 +6737,9 @@
 - [Reindeer](#reindeer)
 - [Ruby Squid](#ruby-squid)
 - [Salmon](#salmon)
+- [Sea Anemone](#sea-anemone)
 - [Sea Turtle](#sea-turtle)
+- [Sea Urchin](#sea-urchin)
 - [Snow Bunny](#snow-bunny)
 - [Spider](#spider)
 - [Squirrel](#squirrel)
@@ -6361,6 +6748,7 @@
 - [Sugar Glider](#sugar-glider)
 - [Sushi Bear](#sushi-bear)
 - [Tarantula Hawk](#tarantula-hawk)
+- [Thunderbird](#thunderbird)
 - [Tiger](#tiger)
 - [Wasp](#wasp)
 - [Wendigo](#wendigo)
@@ -6370,11 +6758,13 @@
 
 ### Plant Growth {#plant-growth-index}
 - [Bacon Pig](#bacon-pig)
+- [Bison](#bison)
 - [Black Cat](#black-cat)
 - [Blood Hedgehog](#blood-hedgehog)
 - [Blue Jay](#blue-jay)
 - [Brontosaurus](#brontosaurus)
 - [Calico](#calico)
+- [Canary](#canary)
 - [Cardinal](#cardinal)
 - [Cat](#cat)
 - [Caterpillar](#caterpillar)
@@ -6394,11 +6784,13 @@
 - [Green Bean](#green-bean)
 - [Grizzly Bear](#grizzly-bear)
 - [Hedgehog](#hedgehog)
+- [Hermit Crab](#hermit-crab)
 - [Jerboa](#jerboa)
 - [King Bee](#king-bee)
 - [Ladybug](#ladybug)
 - [Leaf Insect](#leaf-insect)
 - [Lich](#lich)
+- [Manta Ray](#manta-ray)
 - [Mistletoad](#mistletoad)
 - [Monitor Lizard](#monitor-lizard)
 - [Moose](#moose)
@@ -6409,6 +6801,7 @@
 - [Pixie](#pixie)
 - [Robin](#robin)
 - [Scarab](#scarab)
+- [Shadow Cat](#shadow-cat)
 - [Shroomie](#shroomie)
 - [Silver Piggy](#silver-piggy)
 - [Spider](#spider)
@@ -6437,14 +6830,17 @@
 - [Blue Whale](#blue-whale)
 - [Bunny](#bunny)
 - [Chimera](#chimera)
+- [Cicada](#cicada)
 - [Clam](#clam)
 - [Drake](#drake)
 - [Geode Turtle](#geode-turtle)
 - [Goblin Miner](#goblin-miner)
 - [Gorilla Chef](#gorilla-chef)
+- [Kirin](#kirin)
 - [Mantis Shrimp](#mantis-shrimp)
 - [New Year's Bird](#new-years-bird)
 - [Panda](#panda)
+- [Pelican](#pelican)
 - [Pink Bunny](#pink-bunny)
 - [Sea Otter](#sea-otter)
 - [Smithing Dog](#smithing-dog)
@@ -6484,10 +6880,12 @@
 - [Black Bunny](#black-bunny)
 - [Blue Jay](#blue-jay)
 - [Bumblebee](#bumblebee)
+- [Canary](#canary)
 - [Cardinal](#cardinal)
 - [Cat](#cat)
 - [Chicken](#chicken)
 - [Chocolate Bunny](#chocolate-bunny)
+- [Cicada](#cicada)
 - [Clam](#clam)
 - [Deer](#deer)
 - [Elk](#elk)
@@ -6502,6 +6900,7 @@
 - [Pink Bunny](#pink-bunny)
 - [Salmon](#salmon)
 - [Scarab](#scarab)
+- [Sea Urchin](#sea-urchin)
 - [Shiba Inu](#shiba-inu)
 - [Sunny-Side Chicken](#sunny-side-chicken)
 - [Tsuchinoko](#tsuchinoko)
@@ -6532,17 +6931,20 @@
 - [Leaf Insect](#leaf-insect)
 - [Messenger Pigeon](#messenger-pigeon)
 - [Monkey](#monkey)
+- [Newt](#newt)
 - [Nihonzaru](#nihonzaru)
 - [Nurse Bee](#nurse-bee)
 - [Orange Tabby](#orange-tabby)
 - [Orangutan](#orangutan)
 - [Pancake Mole](#pancake-mole)
 - [Partridge](#partridge)
+- [Pelican](#pelican)
 - [Performer Seal](#performer-seal)
 - [Pig](#pig)
 - [Pixie](#pixie)
 - [Red Squirrel](#red-squirrel)
 - [Rooster](#rooster)
+- [Sea Anemone](#sea-anemone)
 - [Sea Turtle](#sea-turtle)
 - [Seal](#seal)
 - [Smithing Dog](#smithing-dog)
@@ -6563,6 +6965,7 @@
 - [Ash Raven](#ash-raven)
 - [Bald Eagle](#bald-eagle)
 - [Bear on Bike](#bear-on-bike)
+- [Bison](#bison)
 - [Blood Hedgehog](#blood-hedgehog)
 - [Blood Kiwi](#blood-kiwi)
 - [Brown Mouse](#brown-mouse)
@@ -6576,7 +6979,9 @@
 - [Corrupted Kodama](#corrupted-kodama)
 - [Cow](#cow)
 - [Cuckoo](#cuckoo)
+- [Electric Eel](#electric-eel)
 - [Emerald Snake](#emerald-snake)
+- [Flame Bear](#flame-bear)
 - [Football](#football)
 - [Fortune Squirrel](#fortune-squirrel)
 - [Frog](#frog)
@@ -6623,7 +7028,9 @@
 - [Santa Bear](#santa-bear)
 - [Scarlet Macaw](#scarlet-macaw)
 - [Sea Otter](#sea-otter)
+- [Seahorse](#seahorse)
 - [Seedling](#seedling)
+- [Shadow Cat](#shadow-cat)
 - [Shroomie](#shroomie)
 - [Silver Dragonfly](#silver-dragonfly)
 - [Silver Monkey](#silver-monkey)
@@ -6643,6 +7050,7 @@
 - [Trapdoor Spider](#trapdoor-spider)
 - [Triceratops](#triceratops)
 - [Turtle](#turtle)
+- [Walrus](#walrus)
 - [Wisp](#wisp)
 - [Woody](#woody)
 
@@ -6682,6 +7090,7 @@
 - [Golem](#golem)
 - [Hamster](#hamster)
 - [Hazehound](#hazehound)
+- [Hermit Crab](#hermit-crab)
 - [Hootsie Roll](#hootsie-roll)
 - [Hyacinth Macaw](#hyacinth-macaw)
 - [Junkbot](#junkbot)
@@ -6689,6 +7098,7 @@
 - [Koi](#koi)
 - [Lemon Lion](#lemon-lion)
 - [Lyrebird](#lyrebird)
+- [Manta Ray](#manta-ray)
 - [Mantis Shrimp](#mantis-shrimp)
 - [Mimic Octopus](#mimic-octopus)
 - [Mistletoad](#mistletoad)
@@ -6697,6 +7107,7 @@
 - [Moose](#moose)
 - [New Year's Chimp](#new-years-chimp)
 - [Night Owl](#night-owl)
+- [Nightjar](#nightjar)
 - [Nutcracker](#nutcracker)
 - [Nyala](#nyala)
 - [Owl](#owl)
@@ -6740,6 +7151,7 @@
 - [Hex Serpent](#hex-serpent)
 - [Hydra](#hydra)
 - [King Bee](#king-bee)
+- [Kirin](#kirin)
 - [Krampus](#krampus)
 - [Lich](#lich)
 - [Lion](#lion)
@@ -6749,6 +7161,7 @@
 - [Mizuchi](#mizuchi)
 - [Moss Wyvern](#moss-wyvern)
 - [Mummy](#mummy)
+- [Orca](#orca)
 - [Orchid Mantis](#orchid-mantis)
 - [Phoenix](#phoenix)
 - [Queen Bee (Pet)](#queen-bee-pet)
@@ -6777,6 +7190,7 @@
 - [Black Spotty Dragon](#black-spotty-dragon)
 - [Blue Whale](#blue-whale)
 - [Corrupted Kitsune](#corrupted-kitsune)
+- [Fire Wisp](#fire-wisp)
 - [Giant Scorpion](#giant-scorpion)
 - [Gold Finch](#gold-finch)
 - [Headless Horseman](#headless-horseman)
@@ -6784,5 +7198,7 @@
 - [Kitsune (Pet)](#kitsune-pet)
 - [New Year's Dragon](#new-years-dragon)
 - [Peryton](#peryton)
+- [Shark](#shark)
+- [Thunderbird](#thunderbird)
 
 Source: [https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki](https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki)
