@@ -11,24 +11,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 
 ## Cosmetics {#cosmetics}
 
-### Ash Raven {#ash-raven}
-
-![Ash Raven](media/Ash_Raven.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Season 4 of the Season Pass
-
-- **Passive Ability:** Ashened Furnishing: Occasionally goes to a random fruit with Ash and/or Burnt mutation and converts it into a random Ash-themed castle cosmetic! Ignores favorited fruit.
-
-- **Appearance:** The Ash Raven is a limited legendary pet that was added in the Easter Event 2026.
-
-- **Date Added:** April 4, 2026
-
-
 ### Beaver {#beaver}
 
 ![Beaver](media/Beaver.png){width=80px}
@@ -45,6 +27,43 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Beaver is a limited rare pet that was added in the second part of the Easter Event 2026. It can be purchased from the Easter Event Shop for  2,500,  419 or  419.
 
 - **Date Added:** April 11, 2026
+
+
+### Black Cat {#black-cat}
+
+![Black Cat](media/Black_Cat.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 8.5%
+
+- **Obtaining Method:**
+  Spooky Egg
+
+- **Passive Ability:** Occasionally goes to a Witch's Cauldron cosmetic and naps near it for a duration. New fruit within radius have bonus size!
+
+- **Appearance:** The Black Cat is a mythical pet that was added in the Halloween Event.
+
+- **Date Added:** October 11, 2025
+
+
+### Cactus Mouse {#cactus-mouse}
+
+![Cactus Mouse](media/Cactus_Mouse.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Cactus Furnishings: Occasionally converts a Cactus into one of six Cactus Furniture cosmetics.
+
+- **Appearance:** The Cactus Mouse is an uncommon pet that was added in the second part of the Harvest Moon Event.
+
+- **Date Added:** August 8, 2026
 
 
 ### Carpenter Bee {#carpenter-bee}
@@ -84,23 +103,22 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** December 27, 2025
 
 
-### Emerald Snake {#emerald-snake}
+### Cocoa Cat {#cocoa-cat}
 
-![Emerald Snake](media/Emerald_Snake.png){width=80px}
+![Cocoa Cat](media/Cocoa_Cat.png){width=80px}
 
-- **Tier:** Legendary
+- **Tier:** Mythical
 
-- **Hatch Chance:**
-  - 14%
+- **Hatch Chance:** N/A
 
 - **Obtaining Method:**
-  Gem Egg
+  Gold Gift 2.08% Rainbow Gift 6.9%
 
-- **Passive Ability:** Gem Carver: Occasionally goes to a random fruit in your garden and converts it into a random Gem-themed cosmetic!
+- **Passive Ability:** Cocoa Nap: Occasionally goes to a Hot Chocolate Mug cosmetic and naps near it for a duration. New fruit within radius have bonus size!
 
-- **Appearance:** The Emerald Snake is a limited legendary pet that was obtainable during the Smithing Event.
+- **Appearance:** The Cocoa Cat is a limited mythical pet that was added during the second part of the Christmas Harvest Event.
 
-- **Date Added:** November 15, 2025
+- **Date Added:** December 13, 2025
 
 
 ### Gift Rat {#gift-rat}
@@ -119,24 +137,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Gift Rat is a limited rare pet that was added in the Christmas Harvest Event.
 
 - **Date Added:** December 6, 2025
-
-
-### Gnome {#gnome}
-
-![Gnome](media/Gnome.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Gnome Merchant
-
-- **Passive Ability:** Gnome Collector: Has a chance to mutate a random fruit with the Gnomed mutation. Gains additional chance for every Gnome cosmetic in your garden
-
-- **Appearance:** The Gnome is a legendary pet added in the second half of the Beanstalk Event.
-
-- **Date Added:** August 23rd, 2025
 
 
 ### Golden Piggy {#golden-piggy}
@@ -211,22 +211,22 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** October 11, 2025
 
 
-### Snowman Builder {#snowman-builder}
+### Silver Piggy {#silver-piggy}
 
-![Snowman Builder](media/Snowman_Builder.png){width=80px}
+![Silver Piggy](media/Silver_Piggy.png){width=80px}
 
 - **Tier:** Legendary
 
 - **Hatch Chance:** N/A
 
 - **Obtaining Method:**
-  Season Pass 3 Level 25
+  Crafting
 
-- **Passive Ability:** Icy Fortifications: Occasionally consumes crops with any coldtype mutations and grants a Snow-Fort based cosmetic reward!
+- **Passive Ability:** Silver Hoarder: For every Silver Ingot Cosmetic you have in your garden, nearby plants in a radius grow faster!
 
-- **Appearance:** The Snowman Builder is Legendary, Limited Pet from Christmas Harvest Event
+- **Appearance:** The Silver Piggy is an legendary pet.
 
-- **Date Added:** December 6th 2025
+- **Date Added:** November 22, 2025
 
 
 ### Tomb Marmot {#tomb-marmot}
@@ -367,24 +367,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** July 4th, 2025
 
 
-### Bearded Dragon {#bearded-dragon}
-
-![Bearded Dragon](media/Bearded_Dragon.png){width=80px}
-
-- **Tier:** Divine
-
-- **Hatch Chance:**
-  - Gem Chest 1%`nExotic Gem Chest 1%`nRainbow Sack 7%
-
-- **Obtaining Method:** N/A
-
-- **Passive Ability:** Egg Stash: Occasionally eats all fruit on a Divine and higher rarity plant and grants a random egg from the egg shop!
-
-- **Appearance:** The Bearded Dragon is a divine pet that was added in the Trader Event. It can be obtained from the Gem Chest or the Exotic Gem Chest at a 1% chance. The Gem Chest is available in the Forever Pack.
-
-- **Date Added:** November 22, 2025
-
-
 ### Birb {#birb}
 
 ![Birb](media/Birb.png){width=80px}
@@ -440,6 +422,25 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May 17th, 2025
 
 
+### Brontosaurus {#brontosaurus}
+
+![Brontosaurus](media/Brontosaurus.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 1%
+
+- **Obtaining Method:**
+  Dinosaur Egg, DNA Converter
+
+- **Passive Ability:** Giant Incubator: Pets hatched from eggs have a ~5.0% increase in base size and weight! This size bonus is capped at ~30% and does not apply to Brontosaurus.
+
+- **Appearance:** The Brontosaurus is a Mythical pet added in the Prehistoric Event and was obtainable from the Dinosaur Egg with a 1% chance or from the DNA Converter.
+
+- **Date Added:** July 5th, 2025
+
+
 ### Chicken {#chicken}
 
 ![Chicken](media/Chicken.png){width=80px}
@@ -457,25 +458,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Chicken is an Uncommon pet added in the Animal Update. It can be obtained from hatching the Uncommon Egg with a chance of 25%. Its maximum hunger is 3,400.
 
 - **Date Added:** May 3rd, 2025
-
-
-### Easter Bunny {#easter-bunny}
-
-![Easter Bunny](media/Easter_Bunny.png){width=80px}
-
-- **Tier:** Divine
-
-- **Hatch Chance:**
-  - 0.5%, but 1% to get in Glided-Choc via the Glided Choc Golden Egg
-
-- **Obtaining Method:**
-  Golden Egg
-
-- **Passive Ability:** Egg Hunt: Occasionally hides an Easter Egg reward in a random spot. Finding the Easter Egg grants rewards/positive effects!
-
-- **Appearance:** The Easter Bunny is a limited divine pet that was added in the Easter Event 2026.
-
-- **Date Added:** April 4, 2026
 
 
 ### Easter Egg Chick {#easter-egg-chick}
@@ -551,6 +533,23 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** October 25th, 2025
 
 
+### Nautilus {#nautilus}
+
+![Nautilus](media/Nautilus.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Living Fossil: Occasionally adds hatch time to a random egg but advances hatch time for another egg!
+
+- **Appearance:** The Nautilus is a rare pet that was added to the fourth part of the High Tide Harvest Event. The pet has 30,000 hunger.
+
+- **Date Added:** July 25, 2026
+
+
 ### Ostrich {#ostrich}
 
 ![Ostrich](media/Ostrich.png){width=80px}
@@ -568,24 +567,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Ostrich is an obtainable legendary pet released in the Summer Update.
 
 - **Date Added:** June 21, 2025
-
-
-### Red Panda {#red-panda}
-
-![Red Panda](media/Red_Panda.png){width=80px}
-
-- **Tier:** Divine
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Fall Pet Shop
-
-- **Passive Ability:** Adorable Haggler: Occasionally, goes to the Gear or Seed Shop or Pet Egg Shop and restocks a random stock. Rarer items have rarer chance to stock.
-
-- **Appearance:** The Red Panda is a pet that was added in the second half of the Fall Market Event and can be obtained from the Fall Merchant.
-
-- **Date Added:** September 20th, 2025
 
 
 ### Rooster {#rooster}
@@ -626,24 +607,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** June 21, 2025
 
 
-### Show Pony {#show-pony}
-
-![Show Pony](media/Show_Pony.png){width=80px}
-
-- **Tier:** Mythical
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Carnival Egg 10%  Premium Carnival Egg 10%  Rainbow Premium Carnival Egg 10.5%
-
-- **Passive Ability:** Pony Parade: Every 30m on the clock, All your Ponies form a line and Parade towards the Gear Shop, Egg Shop or Seed Shop and has a chance to restock 1 random item. Each Pony in the parade grants extra restock luck.
-
-- **Appearance:** The Show Pony is a limited mythical pet that was added on the Garden Games Event.
-
-- **Date Added:** January 3rd, 2026
-
-
 ### Sunny-Side Chicken {#sunny-side-chicken}
 
 ![Sunny-Side Chicken](media/Sunny-Side_Chicken.png){width=80px}
@@ -666,6 +629,191 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 
 ## Gear {#gear}
 
+### Amethyst Beetle {#amethyst-beetle}
+
+![Amethyst Beetle](media/Amethyst_Beetle.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 32%
+
+- **Obtaining Method:**
+  Gem Egg
+
+- **Passive Ability:** Beetle Duel: Every 6:00-1:20m, initiates a battle with another player's Beetle. If the beetle a player owns wins, they get a reward! The higher level and heavier the beetle the more likely it is to win!
+
+- **Appearance:** The Amethyst Beetle is a legendary pet that is obtained with a 32% chance from the Gem Egg.
+
+- **Date Added:** November 15, 2025
+
+
+### Angora Goat {#angora-goat}
+
+![Angora Goat](media/Angora_Goat.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie from Phat
+  Mojo.
+
+- **Passive Ability:** Angora Ram: Occasionally goes to a random player and rams them, knocking and launching them away! Rammed players have a chance to get a single harvest seed from the seed shop. Rarer seeds have rarer chance
+
+- **Appearance:** The Angora Goat is an exclusive uncommon pet. It can be obtained from redeeming a code from buying a Grow a Garden plushie from PhatMojo.
+
+- **Date Added:** 
+
+
+### Arctic Fox {#arctic-fox}
+
+![Arctic Fox](media/Arctic_Fox.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Arctic Scoundrel: Occasionally steals ~24 random unique fruit from the players garden and refreshes the seed shop! Ignores favorited fruit. Cannot be mimicked or refreshed.
+
+- **Appearance:** The Arctic Fox is a mythical pet that was added during the Christmas Harvest Event. It can be obtained from the Season Pass by reaching level 40.
+
+- **Date Added:** December 6, 2025
+
+
+### Bearded Dragon {#bearded-dragon}
+
+![Bearded Dragon](media/Bearded_Dragon.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - Gem Chest 1%`nExotic Gem Chest 1%`nRainbow Sack 7%
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Egg Stash: Occasionally eats all fruit on a Divine and higher rarity plant and grants a random egg from the egg shop!
+
+- **Appearance:** The Bearded Dragon is a divine pet that was added in the Trader Event. It can be obtained from the Gem Chest or the Exotic Gem Chest at a 1% chance. The Gem Chest is available in the Forever Pack.
+
+- **Date Added:** November 22, 2025
+
+
+### Champion Beetle {#champion-beetle}
+
+![Champion Beetle](media/Champion_Beetle.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie at Phat
+  Mojo
+
+- **Passive Ability:** Champion Beetle Duel: Occasionally initiates a battle with another player's Beetle. If the player's beetle wins the player get a reward! The higher level and heavier the beetle the more likely it is to win. Champion Beetles can give a beetle reward exclusive to it!
+
+- **Appearance:** The Champion Beetle is an exclusive legendary pet. It can be obtained by redeeming a code from buying a Grow a Garden plushie at PhatMojo.
+
+- **Date Added:** 
+
+
+### Chubby Chipmunk {#chubby-chipmunk}
+
+![Chubby Chipmunk](media/Chubby_Chipmunk.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Get from the "Free Chipmunk" stand at the event area of the Chubby Chipmunk update
+
+- **Passive Ability:** Occasionally eats a random fruit in the player's garden and gains weight(always failed after the event done) (ignores favorited or single harvest fruits). Also spawns an Acorn somewhere which upon collected grants a random reward!
+
+- **Appearance:** The Chubby Chipmunk is a rare pet released in the Chubby Chipmunk Event.
+
+- **Date Added:** October 4th 2025
+
+
+### Desert Tortoise {#desert-tortoise}
+
+![Desert Tortoise](media/Desert_Tortoise.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Sprinkler Oasis: Every 10 minutes on the clock, converts a mutated fruit into a sprinkler from the gear shop. Rarer sprinklers have rarer chance.
+
+- **Appearance:** The Desert Tortoise is a rare pet that was added in the second part of the Harvest Moon Event.
+
+- **Date Added:** August 8, 2026
+
+
+### Dog {#dog}
+
+![Dog](media/Dog.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 33.33%
+
+- **Obtaining Method:**
+  Common Egg
+
+- **Passive Ability:** Every 60s, 5% chance to dig up a random Seed Shop seed.
+
+- **Appearance:** The Dog is one of the 23 pets added in the Grow a Garden Update 1.04.0. It can be obtained by hatching a Common Egg with a 33.33% chance. The Dog has 1,000 hunger. Its ability is identical to the Golden Lab but with a ~5% chance instead of a ~10% chance.
+
+- **Date Added:** May 3rd, 2025
+
+
+### Easter Bunny {#easter-bunny}
+
+![Easter Bunny](media/Easter_Bunny.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:**
+  - 0.5%, but 1% to get in Glided-Choc via the Glided Choc Golden Egg
+
+- **Obtaining Method:**
+  Golden Egg
+
+- **Passive Ability:** Egg Hunt: Occasionally hides an Easter Egg reward in a random spot. Finding the Easter Egg grants rewards/positive effects!
+
+- **Appearance:** The Easter Bunny is a limited divine pet that was added in the Easter Event 2026.
+
+- **Date Added:** April 4, 2026
+
+
+### Football {#football}
+
+![Football](media/Football.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Participating the Celebrity Guest Event
+
+- **Passive Ability:** Touchdown: Occasionally runs to the Gear Shop or Seed Shop (whichever is farther) and does a touchdown which awards the player with 870 sheckles or 20.4% getting a Watering Can instead
+
+- **Appearance:** The Football is a pet that was given as a reward for attending the Celebrity Guest Event.
+
+- **Date Added:** July 26th, 2025
+
+
 ### Goblin Gardener {#goblin-gardener}
 
 ![Goblin Gardener](media/Goblin_Gardener.png){width=80px}
@@ -683,6 +831,44 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Goblin Gardener is an exclusive mythical pet. It can be obtained from redeeming a code from buying a Grow a Garden plushie from PhatMojo.
 
 - **Date Added:** 
+
+
+### Golden Lab {#golden-lab}
+
+![Golden Lab](media/Golden_Lab.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 33.33%
+
+- **Obtaining Method:**
+  Common Egg
+
+- **Passive Ability:** Digging friend: ~10% chance to dig up a random Seed Shop seed every minute.
+
+- **Appearance:** The Golden Lab is a recolor of the Dog, having brown ears and a beige body, and lacks spots on its body & face. It also has a stud-like texture on its entire body.
+
+- **Date Added:** May 3, 2025
+
+
+### Hermit Crab {#hermit-crab}
+
+![Hermit Crab](media/Hermit_Crab.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 9.5%
+
+- **Obtaining Method:**
+  Coastal Egg
+
+- **Passive Ability:** Hermit Pinch: Occasionally pinches a random pet, plant, or shop NPC, granting a Medium Passive Boost, advancing growth, or restocking a random item, respectively.
+
+- **Appearance:** The Hermit Crab is an upcoming mythical pet, that will be added in Summer Harvest Event 2026. The pet has 45,000 hunger.
+
+- **Date Added:** July 4, 2026
 
 
 ### Imp {#imp}
@@ -850,6 +1036,62 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** August 2nd, 2025
 
 
+### Pine Beetle {#pine-beetle}
+
+![Pine Beetle](media/Pine_Beetle.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Rare Gift 5% Mythical Gift 15%
+
+- **Passive Ability:** Pine Beetle Duel: Occasionally initiates a battle with another player's Beetle. If your beetle wins you get a reward! The higher level and heavier the beetle the more likely it is to win. Pine Beetles can give a beetle reward exclusive to it!
+
+- **Appearance:** The Pine Beetle is a limited legendary pet that was added during the second part of the Christmas Harvest Event.
+
+- **Date Added:** December 13, 2025
+
+
+### Red Panda {#red-panda}
+
+![Red Panda](media/Red_Panda.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Fall Pet Shop
+
+- **Passive Ability:** Adorable Haggler: Occasionally, goes to the Gear or Seed Shop or Pet Egg Shop and restocks a random stock. Rarer items have rarer chance to stock.
+
+- **Appearance:** The Red Panda is a pet that was added in the second half of the Fall Market Event and can be obtained from the Fall Merchant.
+
+- **Date Added:** September 20th, 2025
+
+
+### Sand Snake {#sand-snake}
+
+![Sand Snake](media/Sand_Snake.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 34.5%
+
+- **Obtaining Method:**
+  Oasis Egg
+  Premium Oasis Egg
+
+- **Passive Ability:** Has a 1.31% - 6% to duplicate an item or seed when purchasing from the gear or seed shop.
+
+- **Appearance:** The Sand Snake is a legendary pet added during the second part of the Summer Harvest Event. It can be obtained from the Oasis Egg. The player could have bought it in the Harvest Shop.
+
+- **Date Added:** June 28, 2025
+
+
 ### Santa Bear {#santa-bear}
 
 ![Santa Bear](media/Santa_Bear.png){width=80px}
@@ -866,6 +1108,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Santa Bear is a limited legendary pet that was added during the third part of the Christmas Harvest Event.
 
 - **Date Added:** December 20, 2025
+
+
+### Show Pony {#show-pony}
+
+![Show Pony](media/Show_Pony.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Carnival Egg 10%  Premium Carnival Egg 10%  Rainbow Premium Carnival Egg 10.5%
+
+- **Passive Ability:** Pony Parade: Every 30m on the clock, All your Ponies form a line and Parade towards the Gear Shop, Egg Shop or Seed Shop and has a chance to restock 1 random item. Each Pony in the parade grants extra restock luck.
+
+- **Appearance:** The Show Pony is a limited mythical pet that was added on the Garden Games Event.
+
+- **Date Added:** January 3rd, 2026
 
 
 ### Silver Monkey {#silver-monkey}
@@ -887,46 +1147,81 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May 3, 2025
 
 
+### Snowman Builder {#snowman-builder}
+
+![Snowman Builder](media/Snowman_Builder.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass 3 Level 25
+
+- **Passive Ability:** Icy Fortifications: Occasionally consumes crops with any coldtype mutations and grants a Snow-Fort based cosmetic reward!
+
+- **Appearance:** The Snowman Builder is Legendary, Limited Pet from Christmas Harvest Event
+
+- **Date Added:** December 6th 2025
+
+
+### Stag Beetle {#stag-beetle}
+
+![Stag Beetle](media/Stag_Beetle.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season 2 Season Pass
+
+- **Passive Ability:** Every -6 minutes, initiates a battle with another player's Beetle. If your beetle wins you get a reward! The higher level and heavier the beetle the more likely it is to win.
+
+- **Appearance:** The Stag Beetle is a limited, legendary pet that was added during the Safari Harvest Event.
+
+- **Date Added:** November 1, 2025
+
+
+### Walrus {#walrus}
+
+![Walrus](media/Walrus.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Tide Token Shop
+
+- **Passive Ability:** Blubber Forager: Occasionally rewards you with a random gear or mutates a fruit in your garden with a summer type mutation. Rarer rewards have rarer chances!
+
+- **Appearance:** The Walrus is a limited legendary pet that was added to the second part of the High Tide Harvest Event. The pet has 180,000 hunger.
+
+- **Date Added:** July 11, 2026
+
+
+### Zebra {#zebra}
+
+![Zebra](media/Zebra.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Safari Egg
+
+- **Passive Ability:** Zebra Stampede: Every 30 minutes on the clock: All zebras run back and forth from the Seed Shop to Gear Shop or vice-versa. Grants you a random Safari related reward! Has a chance to trigger again on each run!
+
+- **Appearance:** The Zebra is a limited rare pet that was added in the Safari Harvest Event.
+
+- **Date Added:** November 1st, 2025
+
+
 <div style="page-break-before: always;"></div>
 
 ## Harvest or Seed Helpers {#harvest-or-seed-helpers}
-
-### Angora Goat {#angora-goat}
-
-![Angora Goat](media/Angora_Goat.png){width=80px}
-
-- **Tier:** Uncommon
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Redeeming a code from buying a Grow a Garden plushie from Phat
-  Mojo.
-
-- **Passive Ability:** Angora Ram: Occasionally goes to a random player and rams them, knocking and launching them away! Rammed players have a chance to get a single harvest seed from the seed shop. Rarer seeds have rarer chance
-
-- **Appearance:** The Angora Goat is an exclusive uncommon pet. It can be obtained from redeeming a code from buying a Grow a Garden plushie from PhatMojo.
-
-- **Date Added:** 
-
-
-### Arctic Fox {#arctic-fox}
-
-![Arctic Fox](media/Arctic_Fox.png){width=80px}
-
-- **Tier:** Mythical
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Season Pass
-
-- **Passive Ability:** Arctic Scoundrel: Occasionally steals ~24 random unique fruit from the players garden and refreshes the seed shop! Ignores favorited fruit. Cannot be mimicked or refreshed.
-
-- **Appearance:** The Arctic Fox is a mythical pet that was added during the Christmas Harvest Event. It can be obtained from the Season Pass by reaching level 40.
-
-- **Date Added:** December 6, 2025
-
 
 ### Axolotl {#axolotl}
 
@@ -1020,6 +1315,25 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** January 17, 2026
 
 
+### Dairy Cow {#dairy-cow}
+
+![Dairy Cow](media/Dairy_Cow.png){width=80px}
+
+- **Tier:** Common
+
+- **Hatch Chance:**
+  - 50%
+
+- **Obtaining Method:**
+  Sprout Egg
+
+- **Passive Ability:** All plants within 10 studs grow 1.3x faster! When selling this pet: Has a small chance to get a Beanstalk seed!
+
+- **Appearance:** The Dairy Cow is a limited common pet which could be obtained in the Sprout Egg in the Beanstalk Event.
+
+- **Date Added:** August 16th, 2025
+
+
 ### Deer {#deer}
 
 ![Deer](media/Deer.png){width=80px}
@@ -1035,25 +1349,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Passive Ability:** Gives a 3% chance for berry plants to stay when harvested.
 
 - **Appearance:** The Deer is an Uncommon Pet added in the Animal Update. It can be obtained by hatching the Uncommon Egg with a chance of 25%. The Deer has 2,500 hunger.
-
-- **Date Added:** May 3rd, 2025
-
-
-### Dog {#dog}
-
-![Dog](media/Dog.png){width=80px}
-
-- **Tier:** Common
-
-- **Hatch Chance:**
-  - 33.33%
-
-- **Obtaining Method:**
-  Common Egg
-
-- **Passive Ability:** Every 60s, 5% chance to dig up a random Seed Shop seed.
-
-- **Appearance:** The Dog is one of the 23 pets added in the Grow a Garden Update 1.04.0. It can be obtained by hatching a Common Egg with a 33.33% chance. The Dog has 1,000 hunger. Its ability is identical to the Golden Lab but with a ~5% chance instead of a ~10% chance.
 
 - **Date Added:** May 3rd, 2025
 
@@ -1074,24 +1369,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Elk is a limited uncommon pet that was added in the second part of the Beanstalk Event.
 
 - **Date Added:** August 23rd, 2025
-
-
-### Football {#football}
-
-![Football](media/Football.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Participating the Celebrity Guest Event
-
-- **Passive Ability:** Touchdown: Occasionally runs to the Gear Shop or Seed Shop (whichever is farther) and does a touchdown which awards the player with 870 sheckles or 20.4% getting a Watering Can instead
-
-- **Appearance:** The Football is a pet that was given as a reward for attending the Celebrity Guest Event.
-
-- **Date Added:** July 26th, 2025
 
 
 ### German Shepherd {#german-shepherd}
@@ -1127,25 +1404,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Passive Ability:** For the blue colony:~10% chance for harvested crops to duplicate. Rarer fruits duplicate less often. ~5% extra chance for Candy type fruit to duplicate!
 
 - **Appearance:** The Giant Ant has a blue body and head, as well as 6 dark blue legs and an antennae. It has two body segments: a torso and an abdomen.
-
-- **Date Added:** May 3, 2025
-
-
-### Golden Lab {#golden-lab}
-
-![Golden Lab](media/Golden_Lab.png){width=80px}
-
-- **Tier:** Common
-
-- **Hatch Chance:**
-  - 33.33%
-
-- **Obtaining Method:**
-  Common Egg
-
-- **Passive Ability:** Digging friend: ~10% chance to dig up a random Seed Shop seed every minute.
-
-- **Appearance:** The Golden Lab is a recolor of the Dog, having brown ears and a beige body, and lacks spots on its body & face. It also has a stud-like texture on its entire body.
 
 - **Date Added:** May 3, 2025
 
@@ -1205,6 +1463,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May 24th 2025
 
 
+### Moon Snail {#moon-snail}
+
+![Moon Snail](media/Moon_Snail.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  * Moon Chest 35% * Exotic Moon Chest 35% * Rainbow Exotic Moon Chest 35%
+
+- **Passive Ability:** * Slow and Steady: Increased lucky harvest chance; * Moon's Blessing: Night type plants grow bigger
+
+- **Appearance:** The Moon Snail is an uncommon pet that was added in the second part of the Harvest Moon Event.
+
+- **Date Added:** August 8, 2026
+
+
 ### Newt {#newt}
 
 ![Newt](media/Newt.png){width=80px}
@@ -1260,26 +1536,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Red Giant Ant is a Mythical pet added in the Blood Moon Event Update. It can be obtained from hatching the Mythical Egg with a chance of 8.93%. It has 15,000 hunger.
 
 - **Date Added:** May 17th, 2025
-
-
-### Sand Snake {#sand-snake}
-
-![Sand Snake](media/Sand_Snake.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:**
-  - 34.5%
-
-- **Obtaining Method:**
-  Oasis Egg
-  Premium Oasis Egg
-
-- **Passive Ability:** Has a 1.31% - 6% to duplicate an item or seed when purchasing from the gear or seed shop.
-
-- **Appearance:** The Sand Snake is a legendary pet added during the second part of the Summer Harvest Event. It can be obtained from the Oasis Egg. The player could have bought it in the Harvest Shop.
-
-- **Date Added:** June 28, 2025
 
 
 ### Seagull {#seagull}
@@ -1449,65 +1705,9 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** September 20th, 2025
 
 
-### Zebra {#zebra}
-
-![Zebra](media/Zebra.png){width=80px}
-
-- **Tier:** Rare
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Safari Egg
-
-- **Passive Ability:** Zebra Stampede: Every 30 minutes on the clock: All zebras run back and forth from the Seed Shop to Gear Shop or vice-versa. Grants you a random Safari related reward! Has a chance to trigger again on each run!
-
-- **Appearance:** The Zebra is a limited rare pet that was added in the Safari Harvest Event.
-
-- **Date Added:** November 1st, 2025
-
-
 <div style="page-break-before: always;"></div>
 
 ## Levellers {#levellers}
-
-### Amethyst Beetle {#amethyst-beetle}
-
-![Amethyst Beetle](media/Amethyst_Beetle.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:**
-  - 32%
-
-- **Obtaining Method:**
-  Gem Egg
-
-- **Passive Ability:** Beetle Duel: Every 6:00-1:20m, initiates a battle with another player's Beetle. If the beetle a player owns wins, they get a reward! The higher level and heavier the beetle the more likely it is to win!
-
-- **Appearance:** The Amethyst Beetle is a legendary pet that is obtained with a 32% chance from the Gem Egg.
-
-- **Date Added:** November 15, 2025
-
-
-### Champion Beetle {#champion-beetle}
-
-![Champion Beetle](media/Champion_Beetle.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Redeeming a code from buying a Grow a Garden plushie at Phat
-  Mojo
-
-- **Passive Ability:** Champion Beetle Duel: Occasionally initiates a battle with another player's Beetle. If the player's beetle wins the player get a reward! The higher level and heavier the beetle the more likely it is to win. Champion Beetles can give a beetle reward exclusive to it!
-
-- **Appearance:** The Champion Beetle is an exclusive legendary pet. It can be obtained by redeeming a code from buying a Grow a Garden plushie at PhatMojo.
-
-- **Date Added:** 
-
 
 ### Electric Eel {#electric-eel}
 
@@ -1544,42 +1744,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The French Fry Ferret is a divine pet released in the Cooking Event, which can be hatched from the Gourmet Egg with a 1% chance.
 
 - **Date Added:** August 2, 2025
-
-
-### Pine Beetle {#pine-beetle}
-
-![Pine Beetle](media/Pine_Beetle.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Rare Gift 5% Mythical Gift 15%
-
-- **Passive Ability:** Pine Beetle Duel: Occasionally initiates a battle with another player's Beetle. If your beetle wins you get a reward! The higher level and heavier the beetle the more likely it is to win. Pine Beetles can give a beetle reward exclusive to it!
-
-- **Appearance:** The Pine Beetle is a limited legendary pet that was added during the second part of the Christmas Harvest Event.
-
-- **Date Added:** December 13, 2025
-
-
-### Stag Beetle {#stag-beetle}
-
-![Stag Beetle](media/Stag_Beetle.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Season 2 Season Pass
-
-- **Passive Ability:** Every -6 minutes, initiates a battle with another player's Beetle. If your beetle wins you get a reward! The higher level and heavier the beetle the more likely it is to win.
-
-- **Appearance:** The Stag Beetle is a limited, legendary pet that was added during the Safari Harvest Event.
-
-- **Date Added:** November 1, 2025
 
 
 ### Termite {#termite}
@@ -1623,6 +1787,42 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 
 ## Mutators {#mutators}
 
+### Anglerfish {#anglerfish}
+
+![Anglerfish](media/Anglerfish.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  * Moon Chest 14.5% * Exotic Moon Chest 14.5% * Rainbow Exotic Moon Chest 14.5%
+
+- **Passive Ability:** * Photobacterium Eclipse: Occasionally bites a fruit and may apply the Eclipsed mutation; * Photobacterium Aurora: Occasionally bites a fruit and may apply the Aurora mutation.
+
+- **Appearance:** The Anglerfish is a legendary pet that was added in the second part of the Harvest Moon Event.
+
+- **Date Added:** August 8, 2026
+
+
+### Anubis {#anubis}
+
+![Anubis](media/Anubis.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Earth Emperor: Occasionally destroys a heavily mutated fruit, ignoring favorited fruit. Another pet in the garden gains age based on the number of mutations, with a small chance for stronger gains.
+
+- **Appearance:** The Anubis is a mythical pet that was added in the second part of the Harvest Moon Event.
+
+- **Date Added:** August 8, 2026
+
+
 ### Apple Gazelle {#apple-gazelle}
 
 ![Apple Gazelle](media/Apple_Gazelle.png){width=80px}
@@ -1639,6 +1839,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Apple Gazelle is a limited, mythical pet, that was given as a reward for attending the Admin Abuse War.
 
 - **Date Added:** August 23rd, 2025
+
+
+### Ash Raven {#ash-raven}
+
+![Ash Raven](media/Ash_Raven.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season 4 of the Season Pass
+
+- **Passive Ability:** Ashened Furnishing: Occasionally goes to a random fruit with Ash and/or Burnt mutation and converts it into a random Ash-themed castle cosmetic! Ignores favorited fruit.
+
+- **Appearance:** The Ash Raven is a limited legendary pet that was added in the Easter Event 2026.
+
+- **Date Added:** April 4, 2026
 
 
 ### Badger {#badger}
@@ -1735,6 +1953,23 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May 31, 2025
 
 
+### Bison {#bison}
+
+![Bison](media/Bison.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Every 10m, charges into 4 random plants and advance their growth by 50m! Fruits on that plant, if any also get the Firework mutation! Has a 12% chance to do it again each time.
+
+- **Appearance:** The Bison is an upcoming legendary pet, that will be added in the Summer Harvest Event 2026
+
+- **Date Added:** 
+
+
 ### Black Spotty Dragon {#black-spotty-dragon}
 
 ![Black Spotty Dragon](media/Black_Spotty_Dragon.png){width=80px}
@@ -1752,6 +1987,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Black Spotty Dragon is a prismatic pet that was added in the third part of the Bizzy Bee Event 2026. The pet has 300,000 hunger.
 
 - **Date Added:** May 23, 2026
+
+
+### Blood Hedgehog {#blood-hedgehog}
+
+![Blood Hedgehog](media/Blood_Hedgehog.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  23,000,000 in Blood Moon Shop
+
+- **Passive Ability:** Sanguine Spike - Makes prickly fruits grow bigger, higher prickly fruit variant chance
+
+- **Appearance:** The Blood Hedgehog is a Legendary pet added in the Blood Moon Event update.
+
+- **Date Added:** May 17th, 2025
 
 
 ### Bumblebee {#bumblebee}
@@ -1791,6 +2044,25 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Butterfly is a limited Mythical Pet introduced in the Friendship Update.
 
 - **Date Added:** June 7th, 2025
+
+
+### Calico {#calico}
+
+![Calico](media/Calico.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Redeeming a code from buying a Grow a Garden plushie at Phat
+  Mojo
+
+- **Passive Ability:** Calico Nap: Naps in a random spot in the player's farm, emitting an aura that boosts nearby fruit size and affected fruits have a chance to get Sleepy mutation!
+
+- **Appearance:** The Calico is an exclusive legendary pet. It can be obtained by redeeming a code from buying a Grow a Garden plushie at PhatMojo.
+
+- **Date Added:** 
 
 
 ### Camel {#camel}
@@ -1921,22 +2193,22 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** December 6th 2025
 
 
-### Chubby Chipmunk {#chubby-chipmunk}
+### Christmas Spirit {#christmas-spirit}
 
-![Chubby Chipmunk](media/Chubby_Chipmunk.png){width=80px}
+![Christmas Spirit](media/Christmas_Spirit.png){width=80px}
 
-- **Tier:** Rare
+- **Tier:** Divine
 
 - **Hatch Chance:** N/A
 
 - **Obtaining Method:**
-  Get from the "Free Chipmunk" stand at the event area of the Chubby Chipmunk update
+  From the Chamberstick
 
-- **Passive Ability:** Occasionally eats a random fruit in the player's garden and gains weight(always failed after the event done) (ignores favorited or single harvest fruits). Also spawns an Acorn somewhere which upon collected grants a random reward!
+- **Passive Ability:** The Christmas Spirit: Christmas plants within range have increased variant chance, fruit size and growth speedThe Christmas Cheer: Occasionally mutates fruits in your garden with Festive mutationChristmas Rally: Christmas type pets gain bonus XP per second
 
-- **Appearance:** The Chubby Chipmunk is a rare pet released in the Chubby Chipmunk Event.
+- **Appearance:** The Christmas Spirit is a limited, divine pet that was added in the part 3 of the Christmas Harvest Event.
 
-- **Date Added:** October 4th 2025
+- **Date Added:** December 20, 2025
 
 
 ### Cockatrice {#cockatrice}
@@ -2072,6 +2344,23 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** June 7, 2025
 
 
+### Dolphin {#dolphin}
+
+![Dolphin](media/Dolphin.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Dolphin's Grace: Occasionally transforms you into a Dolphin with bonus movement speed and 4x jump height for a duration. Fruits passed during this time have a chance to get the Tidal mutation!
+
+- **Appearance:** The Dolphin is a mythical pet that was added to the fourth part of the High Tide Harvest Event. The pet has 100,000 hunger.
+
+- **Date Added:** July 25, 2026
+
+
 ### Dragonfly {#dragonfly}
 
 ![Dragonfly](media/Dragonfly.png){width=80px}
@@ -2125,6 +2414,25 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Elemental Bee is a limited mythical pet that was added to the Bizzy Bee Event 2026. The pet has 25,000 hunger.
 
 - **Date Added:** May 9, 2026
+
+
+### Emerald Snake {#emerald-snake}
+
+![Emerald Snake](media/Emerald_Snake.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 14%
+
+- **Obtaining Method:**
+  Gem Egg
+
+- **Passive Ability:** Gem Carver: Occasionally goes to a random fruit in your garden and converts it into a random Gem-themed cosmetic!
+
+- **Appearance:** The Emerald Snake is a limited legendary pet that was obtainable during the Smithing Event.
+
+- **Date Added:** November 15, 2025
 
 
 ### Fennec Fox {#fennec-fox}
@@ -2257,6 +2565,25 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** December 20, 2025
 
 
+### Gardener Bee {#gardener-bee}
+
+![Gardener Bee](media/Gardener_Bee.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 8%
+
+- **Obtaining Method:**
+  Hive Egg
+
+- **Passive Ability:** Beetanist: Occasionally transfers a Pollinated mutation from a fruit (Ignores favorited) to other random fruits! The plants that have these fruits advance growth!
+
+- **Appearance:** The Gardener Bee is a limited legendary pet that was added to the Bizzy Bee Event 2026. The pet has 25,000 hunger.
+
+- **Date Added:** May 9, 2026
+
+
 ### Gecko {#gecko}
 
 ![Gecko](media/Gecko.png){width=80px}
@@ -2329,6 +2656,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Glimmering Sprite is a limited, mythical pet that can be obtained from the Enchanted Egg at a chance of 5%(1/20). It was added in the Fairy Event.
 
 - **Date Added:** August 30th, 2025
+
+
+### Gnome {#gnome}
+
+![Gnome](media/Gnome.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Gnome Merchant
+
+- **Passive Ability:** Gnome Collector: Has a chance to mutate a random fruit with the Gnomed mutation. Gains additional chance for every Gnome cosmetic in your garden
+
+- **Appearance:** The Gnome is a legendary pet added in the second half of the Beanstalk Event.
+
+- **Date Added:** August 23rd, 2025
 
 
 ### Gold Finch {#gold-finch}
@@ -2666,6 +3011,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** July 19th, 2025
 
 
+### King Bee {#king-bee}
+
+![King Bee](media/King_Bee.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Royal Jelly Shop
+
+- **Passive Ability:** King Pollinator: Occasionally mutates a number of random fruits in your garden with Pollinated!For the King: Occasionally, all Pollinated fruits in your garden have a chance to also get the Honeygem mutation. For every fruit mutated grants bonus XP and advances growth of 8 random plants!
+
+- **Appearance:** The King Bee is a limited divine pet that was added to the second part of the Bizzy Bee Event 2026.
+
+- **Date Added:** May 16, 2026
+
+
 ### Kitsune (Pet) {#kitsune-pet}
 
 ![Kitsune (Pet)](media/Kitsune_Pet.png){width=80px}
@@ -2720,6 +3083,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Lemon Lion was given as a reward for participating in the Admin Abuse War.
 
 - **Date Added:** August 23, 2025
+
+
+### Lich {#lich}
+
+![Lich](media/Lich.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  From the Lich Crystal
+
+- **Passive Ability:** Spooky Lich: Spooky type plants have increased variant chance, growth speed and size bonusDread Lord: All Halloween type pets gain bonus XP per second!
+
+- **Appearance:** The Lich is a limited, divine pet that was added in the third part of the Halloween Event.
+
+- **Date Added:** October 18th, 2025
 
 
 ### Lion {#lion}
@@ -2814,6 +3195,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** August 23rd, 2025
 
 
+### Manta Ray {#manta-ray}
+
+![Manta Ray](media/Manta_Ray.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Pearl Smith Rewards
+
+- **Passive Ability:** Ray of Renewal: Occasionally swims and glides over different fruit in your garden. Those fruits gain Wet or Tidal mutation, while pets passed gain XP and plants passed advance growth!
+
+- **Appearance:** The Manta Ray is a limited mythical pet that was added to the second part of the High Tide Harvest Event.
+
+- **Date Added:** July 11, 2026
+
+
 ### Messenger Pigeon {#messenger-pigeon}
 
 ![Messenger Pigeon](media/Messenger_Pigeon.png){width=80px}
@@ -2832,6 +3231,25 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** November 29th, 2025
 
 
+### Mistletoad {#mistletoad}
+
+![Mistletoad](media/Mistletoad.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 2.5%
+
+- **Obtaining Method:**
+  Santa's Surprise Present
+
+- **Passive Ability:** Jolly Croak: Occasionally croaks at a random nearby plant, advancing growth for each Christmas type pet and applies Chilled mutation to all fruits of that plant!
+
+- **Appearance:** The Mistletoad is a limited mythical pet that was added in the Christmas Harvest Event. It can be obtained from the Santa's Surprise Present at a 2.5% chance.
+
+- **Date Added:** December 6th, 2025
+
+
 ### Mizuchi {#mizuchi}
 
 ![Mizuchi](media/Mizuchi.png){width=80px}
@@ -2848,6 +3266,61 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Mizuchi is a limited divine pet that can be obtained by reaching Level 47 in the Season 1 of the Season Pass.
 
 - **Date Added:** September 27, 2025
+
+
+### Monitor Lizard {#monitor-lizard}
+
+![Monitor Lizard](media/Monitor_Lizard.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Solitary Monitor: If there's only 1 Monitor Lizard in your garden: Occasionally eats a mutated fruit. Each mutation boosts pet cooldowns every second and plant growth every second!
+
+- **Appearance:** The Monitor Lizard is a limited mythical pet that was added to the third part of the Bizzy Bee Event 2026.
+
+- **Date Added:** May 23, 2026
+
+
+### Moon Dragon {#moon-dragon}
+
+![Moon Dragon](media/Moon_Dragon.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:**
+  - 0.5%
+
+- **Obtaining Method:**
+  Moon Egg
+
+- **Passive Ability:** Draconis Luna: Occasionally mutates fruit up to the number of Night type pets in your garden with Moonlit or Moonbeam.; Each fruit mutated has a chance each to increase the level of a random pet in the garden by 1!
+
+- **Appearance:** The Moon Dragon is a prismatic pet that was added to the Harvest Moon Event. The pet has 300,000 hunger.
+
+- **Date Added:** August 1, 2026
+
+
+### Moose {#moose}
+
+![Moose](media/Moose.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Winter Egg 15% Premium Winter Egg 15%
+
+- **Passive Ability:** Christmas Support: When Christmas type pets finish their abilities, they start their cooldown with less!Moose Call: Occasionally eats a fruit with a Cold type mutation, does a call and all nearby plants advance growth.
+
+- **Appearance:** The Moose is a limited mythical pet that was added during the third part of the Christmas Harvest Event.
+
+- **Date Added:** December 20, 2025
 
 
 ### Moss Wyvern {#moss-wyvern}
@@ -2884,6 +3357,25 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The New Year's Dragon is a limited prismatic pet that was added in the New Year's Event. It can be hatched from the New Year's Egg and the Premium New Year's Egg, both with a 0.25% chance to hatch.
 
 - **Date Added:** December 27th, 2025
+
+
+### Night Horse {#night-horse}
+
+![Night Horse](media/Night_Horse.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 9.5%
+
+- **Obtaining Method:**
+  Moon Egg
+
+- **Passive Ability:** Selenic Steed: Occasionally channels magic through a random fruit, sacrificing it, to apply the Moonbeam mutation to random fruit in your garden!
+
+- **Appearance:** The Night Horse is a mythical pet that was added to the Harvest Moon Event. The pet has 66,000 hunger.
+
+- **Date Added:** August 1, 2026
 
 
 ### Nightjar {#nightjar}
@@ -2940,6 +3432,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Orchid Mantis is a limited divine pet that was added to the second part of the Easter Event 2026. It can be obtained from the Evil Bunny Rewards with a 0.5% chance of obtaining.
 
 - **Date Added:** April 11, 2026
+
+
+### Pack Bee {#pack-bee}
+
+![Pack Bee](media/Pack_Bee.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Crafted by adding an Anti Bee Egg, Legacy Sunflower, Purple Dahlia, and  250
+
+- **Passive Ability:** Increases backpack size by ~25 and pollinates a plant every ~25 minutes
+
+- **Appearance:** The Pack Bee is a limited mythical pet, which can be purchased for 799 or crafted with Anti Bee Egg, Legacy Sunflower, Purple Dahlia, and  250 in the crafting station.
+
+- **Date Added:** June 14 2025
 
 
 ### Partridge {#partridge}
@@ -3050,6 +3560,25 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Phoenix is a divine pet that was added in the second half of the Fairy Event. It can be obtained from the Enchanted Chest or the Exotic Enchanted Chest with a 1% chance.
 
 - **Date Added:** September 6th, 2025
+
+
+### Pig {#pig}
+
+![Pig](media/Pig.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 16.67%
+
+- **Obtaining Method:**
+  Rare Egg
+
+- **Passive Ability:** Every 118 seconds, the pig emits a 15 second aura that grants a 2x chance for plants within 15 studs to grow variant fruits.
+
+- **Appearance:** The Pig is a Rare pet added in the Animal Update. It can be obtained by hatching the Rare Egg with a chance of 16.67%.
+
+- **Date Added:** May 3, 2025
 
 
 ### Pink Panda {#pink-panda}
@@ -3305,6 +3834,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** November 1st, 2025
 
 
+### Sand Wyrm {#sand-wyrm}
+
+![Sand Wyrm](media/Sand_Wyrm.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** * Blessing of the Dunes: Occasionally burrows to another random pet in the garden, advancing that pet's cooldown and applying Sandy to the nearest fruit. It may continue burrowing to more pets; * Sand Diety: When selling fruits with Sandy mutation: There is a chance a random mutation from that fruit will be applied to a fruit in your garden!
+
+- **Appearance:** The Sand Wyrm is a divine pet that was added in the second part of the Harvest Moon Event.
+
+- **Date Added:** August 8, 2026
+
+
 ### Sapphire Macaw {#sapphire-macaw}
 
 ![Sapphire Macaw](media/Sapphire_Macaw.png){width=80px}
@@ -3416,6 +3963,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Seedling is a limited, legendary pet released in the Beanstalk Event.
 
 - **Date Added:** August 16th, 2025
+
+
+### Shadow Cat {#shadow-cat}
+
+![Shadow Cat](media/Shadow_Cat.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Crafting
+
+- **Passive Ability:** Shadow Nap: Occasionally mutates fruit with Shadow mutation!
+
+- **Appearance:** The Shadow Cat is a legendary pet that was added in the third part of the Summer Camp Event.
+
+- **Date Added:** June 20, 2026
 
 
 ### Shark {#shark}
@@ -3787,6 +4352,25 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** September 27th, 2025
 
 
+### Toucan {#toucan}
+
+![Toucan](media/Toucan.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 25%
+
+- **Obtaining Method:**
+  Rare Summer Egg
+
+- **Passive Ability:** Tropical Lover: Grants all tropical plants within ~25 studs a ~1.2x size bonus and a ~1.18x variant chance bonus!
+
+- **Appearance:** The Toucan is a rare pet released in the Summer Update.
+
+- **Date Added:** June 21, 2025
+
+
 ### Trapdoor Spider {#trapdoor-spider}
 
 ![Trapdoor Spider](media/Trapdoor_Spider.png){width=80px}
@@ -3824,22 +4408,22 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** December 13, 2025
 
 
-### Walrus {#walrus}
+### Vampire Squid {#vampire-squid}
 
-![Walrus](media/Walrus.png){width=80px}
+![Vampire Squid](media/Vampire_Squid.png){width=80px}
 
-- **Tier:** Legendary
+- **Tier:** Mythical
 
 - **Hatch Chance:** N/A
 
 - **Obtaining Method:**
-  Tide Token Shop
+  Moon Event Shop
 
-- **Passive Ability:** Blubber Forager: Occasionally rewards you with a random gear or mutates a fruit in your garden with a summer type mutation. Rarer rewards have rarer chances!
+- **Passive Ability:** Bloodlit Squid: Occasionally, a random fruit in the garden gets the Bloodlit mutation! & Squid of the Night: All active Night type pets gain an additional XP/s!
 
-- **Appearance:** The Walrus is a limited legendary pet that was added to the second part of the High Tide Harvest Event. The pet has 180,000 hunger.
+- **Appearance:** The Vampire Squid is a mythical pet that was added to the Harvest Moon Event. The pet has 45,000 hunger.
 
-- **Date Added:** July 11, 2026
+- **Date Added:** August 1, 2026
 
 
 ### Wasp {#wasp}
@@ -3916,6 +4500,24 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Wind Wyvern is an exclusive divine pet. It can be obtained from redeeming a code from buying a Grow a Garden plushie from PhatMojo
 
 - **Date Added:** 
+
+
+### Wise Owl {#wise-owl}
+
+![Wise Owl](media/Wise_Owl.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  * Moon Chest 0.5% * Exotic Moon Chest 0.5% * Rainbow Exotic Moon Chest 0.5%
+
+- **Passive Ability:** * Wisdom's Ruler: Pets without pet mutations gain additional XP over time. Does not stack.; * Ruler's Wisdom: Occasionally copies mutations from a random fruit, with each copied mutation having a chance to be applied to another fruit in the garden.
+
+- **Appearance:** The Wise Owl is a divine pet that was added in the second part of the Harvest Moon Event.
+
+- **Date Added:** August 8, 2026
 
 
 ### Wolf {#wolf}
@@ -4479,6 +5081,25 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May 9, 2026
 
 
+### Opposum {#opposum}
+
+![Opposum](media/Opposum.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 55%
+
+- **Obtaining Method:**
+  Moon Egg
+
+- **Passive Ability:** Night Support: When Night type pets finish their abilities, they start their cooldown with seconds less!
+
+- **Appearance:** The Opposum is a rare pet that was added to the Harvest Moon Event. The pet has 20,000 hunger.
+
+- **Date Added:** August 1, 2026
+
+
 ### Orca {#orca}
 
 ![Orca](media/Orca.png){width=80px}
@@ -4740,60 +5361,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** August 2, 2025
 
 
-### Bison {#bison}
-
-![Bison](media/Bison.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:** N/A
-
-- **Passive Ability:** Every 10m, charges into 4 random plants and advance their growth by 50m! Fruits on that plant, if any also get the Firework mutation! Has a 12% chance to do it again each time.
-
-- **Appearance:** The Bison is an upcoming legendary pet, that will be added in the Summer Harvest Event 2026
-
-- **Date Added:** 
-
-
-### Black Cat {#black-cat}
-
-![Black Cat](media/Black_Cat.png){width=80px}
-
-- **Tier:** Mythical
-
-- **Hatch Chance:**
-  - 8.5%
-
-- **Obtaining Method:**
-  Spooky Egg
-
-- **Passive Ability:** Occasionally goes to a Witch's Cauldron cosmetic and naps near it for a duration. New fruit within radius have bonus size!
-
-- **Appearance:** The Black Cat is a mythical pet that was added in the Halloween Event.
-
-- **Date Added:** October 11, 2025
-
-
-### Blood Hedgehog {#blood-hedgehog}
-
-![Blood Hedgehog](media/Blood_Hedgehog.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  23,000,000 in Blood Moon Shop
-
-- **Passive Ability:** Sanguine Spike - Makes prickly fruits grow bigger, higher prickly fruit variant chance
-
-- **Appearance:** The Blood Hedgehog is a Legendary pet added in the Blood Moon Event update.
-
-- **Date Added:** May 17th, 2025
-
-
 ### Blue Jay {#blue-jay}
 
 ![Blue Jay](media/Blue_Jay.png){width=80px}
@@ -4810,44 +5377,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Blue Jay is an uncommon Pet that was added in the Seed Stages Event. It could be obtained by reaching level 2 in the Season 1 Season Pass.
 
 - **Date Added:** September 27, 2025
-
-
-### Brontosaurus {#brontosaurus}
-
-![Brontosaurus](media/Brontosaurus.png){width=80px}
-
-- **Tier:** Mythical
-
-- **Hatch Chance:**
-  - 1%
-
-- **Obtaining Method:**
-  Dinosaur Egg, DNA Converter
-
-- **Passive Ability:** Giant Incubator: Pets hatched from eggs have a ~5.0% increase in base size and weight! This size bonus is capped at ~30% and does not apply to Brontosaurus.
-
-- **Appearance:** The Brontosaurus is a Mythical pet added in the Prehistoric Event and was obtainable from the Dinosaur Egg with a 1% chance or from the DNA Converter.
-
-- **Date Added:** July 5th, 2025
-
-
-### Calico {#calico}
-
-![Calico](media/Calico.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Redeeming a code from buying a Grow a Garden plushie at Phat
-  Mojo
-
-- **Passive Ability:** Calico Nap: Naps in a random spot in the player's farm, emitting an aura that boosts nearby fruit size and affected fruits have a chance to get Sleepy mutation!
-
-- **Appearance:** The Calico is an exclusive legendary pet. It can be obtained by redeeming a code from buying a Grow a Garden plushie at PhatMojo.
-
-- **Date Added:** 
 
 
 ### Canary {#canary}
@@ -4924,42 +5453,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May 3, 2025
 
 
-### Christmas Spirit {#christmas-spirit}
-
-![Christmas Spirit](media/Christmas_Spirit.png){width=80px}
-
-- **Tier:** Divine
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  From the Chamberstick
-
-- **Passive Ability:** The Christmas Spirit: Christmas plants within range have increased variant chance, fruit size and growth speedThe Christmas Cheer: Occasionally mutates fruits in your garden with Festive mutationChristmas Rally: Christmas type pets gain bonus XP per second
-
-- **Appearance:** The Christmas Spirit is a limited, divine pet that was added in the part 3 of the Christmas Harvest Event.
-
-- **Date Added:** December 20, 2025
-
-
-### Cocoa Cat {#cocoa-cat}
-
-![Cocoa Cat](media/Cocoa_Cat.png){width=80px}
-
-- **Tier:** Mythical
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Gold Gift 2.08% Rainbow Gift 6.9%
-
-- **Passive Ability:** Cocoa Nap: Occasionally goes to a Hot Chocolate Mug cosmetic and naps near it for a duration. New fruit within radius have bonus size!
-
-- **Appearance:** The Cocoa Cat is a limited mythical pet that was added during the second part of the Christmas Harvest Event.
-
-- **Date Added:** December 13, 2025
-
-
 ### Cow {#cow}
 
 ![Cow](media/Cow.png){width=80px}
@@ -5013,25 +5506,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Crow is a common pet that was added in the second part of the Halloween Event.
 
 - **Date Added:** October 18th, 2025
-
-
-### Dairy Cow {#dairy-cow}
-
-![Dairy Cow](media/Dairy_Cow.png){width=80px}
-
-- **Tier:** Common
-
-- **Hatch Chance:**
-  - 50%
-
-- **Obtaining Method:**
-  Sprout Egg
-
-- **Passive Ability:** All plants within 10 studs grow 1.3x faster! When selling this pet: Has a small chance to get a Beanstalk seed!
-
-- **Appearance:** The Dairy Cow is a limited common pet which could be obtained in the Sprout Egg in the Beanstalk Event.
-
-- **Date Added:** August 16th, 2025
 
 
 ### Echo Frog {#echo-frog}
@@ -5126,25 +5600,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May, 10th, 2025
 
 
-### Gardener Bee {#gardener-bee}
-
-![Gardener Bee](media/Gardener_Bee.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:**
-  - 8%
-
-- **Obtaining Method:**
-  Hive Egg
-
-- **Passive Ability:** Beetanist: Occasionally transfers a Pollinated mutation from a fruit (Ignores favorited) to other random fruits! The plants that have these fruits advance growth!
-
-- **Appearance:** The Gardener Bee is a limited legendary pet that was added to the Bizzy Bee Event 2026. The pet has 25,000 hunger.
-
-- **Date Added:** May 9, 2026
-
-
 ### Giraffe {#giraffe}
 
 ![Giraffe](media/Giraffe.png){width=80px}
@@ -5218,25 +5673,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May, 10th, 2025
 
 
-### Hermit Crab {#hermit-crab}
-
-![Hermit Crab](media/Hermit_Crab.png){width=80px}
-
-- **Tier:** Mythical
-
-- **Hatch Chance:**
-  - 9.5%
-
-- **Obtaining Method:**
-  Coastal Egg
-
-- **Passive Ability:** Hermit Pinch: Occasionally pinches a random pet, plant, or shop NPC, granting a Medium Passive Boost, advancing growth, or restocking a random item, respectively.
-
-- **Appearance:** The Hermit Crab is an upcoming mythical pet, that will be added in Summer Harvest Event 2026. The pet has 45,000 hunger.
-
-- **Date Added:** July 4, 2026
-
-
 ### Jerboa {#jerboa}
 
 ![Jerboa](media/Jerboa.png){width=80px}
@@ -5254,24 +5690,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Jerboa is a limited legendary pet that was added in the third part of the Easter Event 2026.
 
 - **Date Added:** April 18, 2026
-
-
-### King Bee {#king-bee}
-
-![King Bee](media/King_Bee.png){width=80px}
-
-- **Tier:** Divine
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Royal Jelly Shop
-
-- **Passive Ability:** King Pollinator: Occasionally mutates a number of random fruits in your garden with Pollinated!For the King: Occasionally, all Pollinated fruits in your garden have a chance to also get the Honeygem mutation. For every fruit mutated grants bonus XP and advances growth of 8 random plants!
-
-- **Appearance:** The King Bee is a limited divine pet that was added to the second part of the Bizzy Bee Event 2026.
-
-- **Date Added:** May 16, 2026
 
 
 ### Ladybug {#ladybug}
@@ -5311,95 +5729,23 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May 23, 2026
 
 
-### Lich {#lich}
+### Lunar Moth {#lunar-moth}
 
-![Lich](media/Lich.png){width=80px}
+![Lunar Moth](media/Lunar_Moth.png){width=80px}
 
-- **Tier:** Divine
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  From the Lich Crystal
-
-- **Passive Ability:** Spooky Lich: Spooky type plants have increased variant chance, growth speed and size bonusDread Lord: All Halloween type pets gain bonus XP per second!
-
-- **Appearance:** The Lich is a limited, divine pet that was added in the third part of the Halloween Event.
-
-- **Date Added:** October 18th, 2025
-
-
-### Manta Ray {#manta-ray}
-
-![Manta Ray](media/Manta_Ray.png){width=80px}
-
-- **Tier:** Mythical
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Pearl Smith Rewards
-
-- **Passive Ability:** Ray of Renewal: Occasionally swims and glides over different fruit in your garden. Those fruits gain Wet or Tidal mutation, while pets passed gain XP and plants passed advance growth!
-
-- **Appearance:** The Manta Ray is a limited mythical pet that was added to the second part of the High Tide Harvest Event.
-
-- **Date Added:** July 11, 2026
-
-
-### Mistletoad {#mistletoad}
-
-![Mistletoad](media/Mistletoad.png){width=80px}
-
-- **Tier:** Mythical
+- **Tier:** Legendary
 
 - **Hatch Chance:**
-  - 2.5%
+  - 35%
 
 - **Obtaining Method:**
-  Santa's Surprise Present
+  Moon Egg
 
-- **Passive Ability:** Jolly Croak: Occasionally croaks at a random nearby plant, advancing growth for each Christmas type pet and applies Chilled mutation to all fruits of that plant!
+- **Passive Ability:** Moonsong: Occasionally sings for a duration, all plants within range will advance growth every second! Pets within range also get hunger restored every second!
 
-- **Appearance:** The Mistletoad is a limited mythical pet that was added in the Christmas Harvest Event. It can be obtained from the Santa's Surprise Present at a 2.5% chance.
+- **Appearance:** The Lunar Moth is a legendary pet that was to the Harvest Moon Event. The pet has 25,000 hunger.
 
-- **Date Added:** December 6th, 2025
-
-
-### Monitor Lizard {#monitor-lizard}
-
-![Monitor Lizard](media/Monitor_Lizard.png){width=80px}
-
-- **Tier:** Mythical
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Season Pass
-
-- **Passive Ability:** Solitary Monitor: If there's only 1 Monitor Lizard in your garden: Occasionally eats a mutated fruit. Each mutation boosts pet cooldowns every second and plant growth every second!
-
-- **Appearance:** The Monitor Lizard is a limited mythical pet that was added to the third part of the Bizzy Bee Event 2026.
-
-- **Date Added:** May 23, 2026
-
-
-### Moose {#moose}
-
-![Moose](media/Moose.png){width=80px}
-
-- **Tier:** Mythical
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Winter Egg 15% Premium Winter Egg 15%
-
-- **Passive Ability:** Christmas Support: When Christmas type pets finish their abilities, they start their cooldown with less!Moose Call: Occasionally eats a fruit with a Cold type mutation, does a call and all nearby plants advance growth.
-
-- **Appearance:** The Moose is a limited mythical pet that was added during the third part of the Christmas Harvest Event.
-
-- **Date Added:** December 20, 2025
+- **Date Added:** August 1, 2026
 
 
 ### Orange Tabby {#orange-tabby}
@@ -5421,24 +5767,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** May 3, 2025
 
 
-### Pack Bee {#pack-bee}
-
-![Pack Bee](media/Pack_Bee.png){width=80px}
-
-- **Tier:** Mythical
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Crafted by adding an Anti Bee Egg, Legacy Sunflower, Purple Dahlia, and  250
-
-- **Passive Ability:** Increases backpack size by ~25 and pollinates a plant every ~25 minutes
-
-- **Appearance:** The Pack Bee is a limited mythical pet, which can be purchased for 799 or crafted with Anti Bee Egg, Legacy Sunflower, Purple Dahlia, and  250 in the crafting station.
-
-- **Date Added:** June 14 2025
-
-
 ### Performer Seal {#performer-seal}
 
 ![Performer Seal](media/Performer_Seal.png){width=80px}
@@ -5455,25 +5783,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Performer Seal is a limited rare pet that was added on the Garden Games Event.
 
 - **Date Added:** January 3rd, 2026
-
-
-### Pig {#pig}
-
-![Pig](media/Pig.png){width=80px}
-
-- **Tier:** Rare
-
-- **Hatch Chance:**
-  - 16.67%
-
-- **Obtaining Method:**
-  Rare Egg
-
-- **Passive Ability:** Every 118 seconds, the pig emits a 15 second aura that grants a 2x chance for plants within 15 studs to grow variant fruits.
-
-- **Appearance:** The Pig is a Rare pet added in the Animal Update. It can be obtained by hatching the Rare Egg with a chance of 16.67%.
-
-- **Date Added:** May 3, 2025
 
 
 ### Pixie {#pixie}
@@ -5532,24 +5841,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Date Added:** October 25, 2025
 
 
-### Shadow Cat {#shadow-cat}
-
-![Shadow Cat](media/Shadow_Cat.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Crafting
-
-- **Passive Ability:** Shadow Nap: Occasionally mutates fruit with Shadow mutation!
-
-- **Appearance:** The Shadow Cat is a legendary pet that was added in the third part of the Summer Camp Event.
-
-- **Date Added:** June 20, 2026
-
-
 ### Shroomie {#shroomie}
 
 ![Shroomie](media/Shroomie.png){width=80px}
@@ -5566,24 +5857,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Shroomie is a limited legendary pet that was added in the second half of the Fairy Event.
 
 - **Date Added:** September 6th, 2025
-
-
-### Silver Piggy {#silver-piggy}
-
-![Silver Piggy](media/Silver_Piggy.png){width=80px}
-
-- **Tier:** Legendary
-
-- **Hatch Chance:** N/A
-
-- **Obtaining Method:**
-  Crafting
-
-- **Passive Ability:** Silver Hoarder: For every Silver Ingot Cosmetic you have in your garden, nearby plants in a radius grow faster!
-
-- **Appearance:** The Silver Piggy is an legendary pet.
-
-- **Date Added:** November 22, 2025
 
 
 ### Spider {#spider}
@@ -5603,25 +5876,6 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - **Appearance:** The Spider is a legendary pet that was added in the Halloween Event.
 
 - **Date Added:** October 11, 2025
-
-
-### Toucan {#toucan}
-
-![Toucan](media/Toucan.png){width=80px}
-
-- **Tier:** Rare
-
-- **Hatch Chance:**
-  - 25%
-
-- **Obtaining Method:**
-  Rare Summer Egg
-
-- **Passive Ability:** Tropical Lover: Grants all tropical plants within ~25 studs a ~1.2x size bonus and a ~1.18x variant chance bonus!
-
-- **Appearance:** The Toucan is a rare pet released in the Summer Update.
-
-- **Date Added:** June 21, 2025
 
 
 ### Tree Frog {#tree-frog}
@@ -6306,6 +6560,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Ash Raven](#ash-raven)
 - [Beaver](#beaver)
 - [Black Cat](#black-cat)
+- [Cactus Mouse](#cactus-mouse)
 - [Carpenter Bee](#carpenter-bee)
 - [Celebration Puppy](#celebration-puppy)
 - [Cocoa Cat](#cocoa-cat)
@@ -6345,6 +6600,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Kiwi (Pet)](#kiwi-pet)
 - [Koi](#koi)
 - [Mummy](#mummy)
+- [Nautilus](#nautilus)
 - [Ostrich](#ostrich)
 - [Red Panda](#red-panda)
 - [Rhino](#rhino)
@@ -6361,6 +6617,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Bearded Dragon](#bearded-dragon)
 - [Champion Beetle](#champion-beetle)
 - [Chubby Chipmunk](#chubby-chipmunk)
+- [Desert Tortoise](#desert-tortoise)
 - [Dog](#dog)
 - [Easter Bunny](#easter-bunny)
 - [Football](#football)
@@ -6414,6 +6671,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Kodama](#kodama)
 - [Lyrebird](#lyrebird)
 - [Moon Cat](#moon-cat)
+- [Moon Snail](#moon-snail)
 - [Newt](#newt)
 - [Petal Bee](#petal-bee)
 - [Raptor](#raptor)
@@ -6441,12 +6699,15 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Electric Eel](#electric-eel)
 - [Fire Wisp](#fire-wisp)
 - [French Fry Ferret](#french-fry-ferret)
+- [Moon Dragon](#moon-dragon)
 - [Pine Beetle](#pine-beetle)
 - [Stag Beetle](#stag-beetle)
 - [Termite](#termite)
 - [Wendigo](#wendigo)
 
 ### Mutators {#mutators-index}
+- [Anglerfish](#anglerfish)
+- [Anubis](#anubis)
 - [Apple Gazelle](#apple-gazelle)
 - [Ash Raven](#ash-raven)
 - [Badger](#badger)
@@ -6476,6 +6737,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Dark Spriggan](#dark-spriggan)
 - [Diamond Panther](#diamond-panther)
 - [Disco Bee](#disco-bee)
+- [Dolphin](#dolphin)
 - [Dragonfly](#dragonfly)
 - [Eggnog Chick](#eggnog-chick)
 - [Elemental Bee](#elemental-bee)
@@ -6526,9 +6788,11 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Mistletoad](#mistletoad)
 - [Mizuchi](#mizuchi)
 - [Monitor Lizard](#monitor-lizard)
+- [Moon Dragon](#moon-dragon)
 - [Moose](#moose)
 - [Moss Wyvern](#moss-wyvern)
 - [New Year's Dragon](#new-years-dragon)
+- [Night Horse](#night-horse)
 - [Nightjar](#nightjar)
 - [Nyala](#nyala)
 - [Orchid Mantis](#orchid-mantis)
@@ -6554,6 +6818,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Red-Nosed Reindeer](#red-nosed-reindeer)
 - [Reindeer](#reindeer)
 - [Rhino](#rhino)
+- [Sand Wyrm](#sand-wyrm)
 - [Sapphire Macaw](#sapphire-macaw)
 - [Scarlet Macaw](#scarlet-macaw)
 - [Sea Turtle](#sea-turtle)
@@ -6585,11 +6850,13 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Toucan](#toucan)
 - [Trapdoor Spider](#trapdoor-spider)
 - [Turtle Dove](#turtle-dove)
+- [Vampire Squid](#vampire-squid)
 - [Walrus](#walrus)
 - [Wasp](#wasp)
 - [Water Buffalo](#water-buffalo)
 - [White Tiger](#white-tiger)
 - [Wind Wyvern](#wind-wyvern)
+- [Wise Owl](#wise-owl)
 - [Wolf](#wolf)
 - [Woody](#woody)
 - [Yeti](#yeti)
@@ -6628,6 +6895,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Lich](#lich)
 - [Lion](#lion)
 - [Lioness](#lioness)
+- [Lunar Moth](#lunar-moth)
 - [Manta Ray](#manta-ray)
 - [Marshmallow Lamb](#marshmallow-lamb)
 - [Meerkat](#meerkat)
@@ -6641,6 +6909,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Nightjar](#nightjar)
 - [Nurse Bee](#nurse-bee)
 - [Nyala](#nyala)
+- [Opposum](#opposum)
 - [Orca](#orca)
 - [Owl](#owl)
 - [Oxpecker](#oxpecker)
@@ -6658,6 +6927,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Reindeer](#reindeer)
 - [Ruby Squid](#ruby-squid)
 - [Salmon](#salmon)
+- [Sand Wyrm](#sand-wyrm)
 - [Sea Anemone](#sea-anemone)
 - [Sea Turtle](#sea-turtle)
 - [Sea Urchin](#sea-urchin)
@@ -6671,10 +6941,12 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Tarantula Hawk](#tarantula-hawk)
 - [Thunderbird](#thunderbird)
 - [Tiger](#tiger)
+- [Vampire Squid](#vampire-squid)
 - [Wasp](#wasp)
 - [Wendigo](#wendigo)
 - [White Tiger](#white-tiger)
 - [Wind Wyvern](#wind-wyvern)
+- [Wise Owl](#wise-owl)
 - [Wisp](#wisp)
 
 ### Plant Growth {#plant-growth-index}
@@ -6711,9 +6983,11 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Ladybug](#ladybug)
 - [Leaf Insect](#leaf-insect)
 - [Lich](#lich)
+- [Lunar Moth](#lunar-moth)
 - [Manta Ray](#manta-ray)
 - [Mistletoad](#mistletoad)
 - [Monitor Lizard](#monitor-lizard)
+- [Moon Snail](#moon-snail)
 - [Moose](#moose)
 - [Orange Tabby](#orange-tabby)
 - [Pack Bee](#pack-bee)
@@ -6801,6 +7075,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Black Bunny](#black-bunny)
 - [Blue Jay](#blue-jay)
 - [Bumblebee](#bumblebee)
+- [Cactus Mouse](#cactus-mouse)
 - [Canary](#canary)
 - [Cardinal](#cardinal)
 - [Cat](#cat)
@@ -6817,6 +7092,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Hyrax](#hyrax)
 - [Jackalope](#jackalope)
 - [Maneki-neko](#maneki-neko)
+- [Moon Snail](#moon-snail)
 - [New Year's Bird](#new-years-bird)
 - [Pink Bunny](#pink-bunny)
 - [Salmon](#salmon)
@@ -6836,6 +7112,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Cape Buffalo](#cape-buffalo)
 - [Carpenter Bee](#carpenter-bee)
 - [Chubby Chipmunk](#chubby-chipmunk)
+- [Desert Tortoise](#desert-tortoise)
 - [Easter Egg Chick](#easter-egg-chick)
 - [Firemite](#firemite)
 - [Firework Sprite](#firework-sprite)
@@ -6852,9 +7129,11 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Leaf Insect](#leaf-insect)
 - [Messenger Pigeon](#messenger-pigeon)
 - [Monkey](#monkey)
+- [Nautilus](#nautilus)
 - [Newt](#newt)
 - [Nihonzaru](#nihonzaru)
 - [Nurse Bee](#nurse-bee)
+- [Opposum](#opposum)
 - [Orange Tabby](#orange-tabby)
 - [Orangutan](#orangutan)
 - [Pancake Mole](#pancake-mole)
@@ -6883,6 +7162,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 
 ### Legendary {#tier-legendary}
 - [Amethyst Beetle](#amethyst-beetle)
+- [Anglerfish](#anglerfish)
 - [Ash Raven](#ash-raven)
 - [Bald Eagle](#bald-eagle)
 - [Bear on Bike](#bear-on-bike)
@@ -6923,6 +7203,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Imp](#imp)
 - [Jerboa](#jerboa)
 - [Kodama](#kodama)
+- [Lunar Moth](#lunar-moth)
 - [Magpie](#magpie)
 - [Mallard](#mallard)
 - [Mandrake (Pet)](#mandrake-pet)
@@ -6978,6 +7259,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 ### Mythical {#tier-mythical}
 - [Albino Peacock](#albino-peacock)
 - [Ankylosaurus](#ankylosaurus)
+- [Anubis](#anubis)
 - [Apple Gazelle](#apple-gazelle)
 - [Arctic Fox](#arctic-fox)
 - [Axolotl](#axolotl)
@@ -6996,6 +7278,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Crocodile](#crocodile)
 - [Dark Spriggan](#dark-spriggan)
 - [Dilophosaurus](#dilophosaurus)
+- [Dolphin](#dolphin)
 - [Drake](#drake)
 - [Echo Frog](#echo-frog)
 - [Eggnog Chick](#eggnog-chick)
@@ -7027,6 +7310,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Monitor Lizard](#monitor-lizard)
 - [Moose](#moose)
 - [New Year's Chimp](#new-years-chimp)
+- [Night Horse](#night-horse)
 - [Night Owl](#night-owl)
 - [Nightjar](#nightjar)
 - [Nutcracker](#nutcracker)
@@ -7047,6 +7331,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Spriggan](#spriggan)
 - [Sugar Glider](#sugar-glider)
 - [Summer Kiwi](#summer-kiwi)
+- [Vampire Squid](#vampire-squid)
 
 ### Divine {#tier-divine}
 - [Bearded Dragon](#bearded-dragon)
@@ -7094,6 +7379,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Red Rose Fox](#red-rose-fox)
 - [Red-Nosed Reindeer](#red-nosed-reindeer)
 - [Ruby Squid](#ruby-squid)
+- [Sand Wyrm](#sand-wyrm)
 - [Space Squirrel](#space-squirrel)
 - [Spinosaurus](#spinosaurus)
 - [Star Wolf](#star-wolf)
@@ -7104,6 +7390,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Wendigo](#wendigo)
 - [White Tiger](#white-tiger)
 - [Wind Wyvern](#wind-wyvern)
+- [Wise Owl](#wise-owl)
 - [Yeti](#yeti)
 
 ### Prismatic {#tier-prismatic}
@@ -7117,6 +7404,7 @@ Source: https://growagarden.fandom.com/wiki/Grow_a_Garden_Wiki
 - [Headless Horseman](#headless-horseman)
 - [Ice Golem](#ice-golem)
 - [Kitsune (Pet)](#kitsune-pet)
+- [Moon Dragon](#moon-dragon)
 - [New Year's Dragon](#new-years-dragon)
 - [Peryton](#peryton)
 - [Shark](#shark)

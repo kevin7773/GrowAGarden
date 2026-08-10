@@ -1,0 +1,296 @@
+[
+  {
+    "Title": "Anglerfish",
+    "Tier": [
+      "Legendary"
+    ],
+    "Obtaining": [
+      "* Moon Chest 14.5% * Exotic Moon Chest 14.5% * Rainbow Exotic Moon Chest 14.5%"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "* Photobacterium Eclipse: Occasionally bites a fruit and may apply the Eclipsed mutation; * Photobacterium Aurora: Occasionally bites a fruit and may apply the Aurora mutation."
+    ],
+    "DateAdded": [
+      "August 8, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/6/64/Anglerfish.png/revision/latest?cb=20260806161621",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Anglerfish",
+    "Appearance": "The Anglerfish is a legendary pet that was added in the second part of the Harvest Moon Event."
+  },
+  {
+    "Title": "Anubis",
+    "Tier": [
+      "Mythical"
+    ],
+    "Obtaining": [
+      "Season Pass"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Earth Emperor: Occasionally destroys a heavily mutated fruit, ignoring favorited fruit. Another pet in the garden gains age based on the number of mutations, with a small chance for stronger gains."
+    ],
+    "DateAdded": [
+      "August 8, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/2/26/Anubis.png/revision/latest?cb=20260806163104",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Anubis",
+    "Appearance": "The Anubis is a mythical pet that was added in the second part of the Harvest Moon Event."
+  },
+  {
+    "Title": "Cactus Mouse",
+    "Tier": [
+      "Uncommon"
+    ],
+    "Obtaining": [
+      "Season Pass"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Cactus Furnishings: Occasionally converts a Cactus into one of six Cactus Furniture cosmetics."
+    ],
+    "DateAdded": [
+      "August 8, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/e/ea/CactusMouse.png/revision/latest?cb=20260806162343",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Cactus_Mouse",
+    "Appearance": "The Cactus Mouse is an uncommon pet that was added in the second part of the Harvest Moon Event."
+  },
+  {
+    "Title": "Desert Tortoise",
+    "Tier": [
+      "Rare"
+    ],
+    "Obtaining": [
+      "Season Pass"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Sprinkler Oasis: Every 10 minutes on the clock, converts a mutated fruit into a sprinkler from the gear shop. Rarer sprinklers have rarer chance."
+    ],
+    "DateAdded": [
+      "August 8, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/9/96/DesertTortoise.png/revision/latest?cb=20260806162845",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Desert_Tortoise",
+    "Appearance": "The Desert Tortoise is a rare pet that was added in the second part of the Harvest Moon Event."
+  },
+  {
+    "Title": "Dolphin",
+    "Tier": [
+      "Mythical"
+    ],
+    "Obtaining": [
+      ""
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Dolphin's Grace: Occasionally transforms you into a Dolphin with bonus movement speed and 4x jump height for a duration. Fruits passed during this time have a chance to get the Tidal mutation!"
+    ],
+    "DateAdded": [
+      "July 25, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/0/0b/Dolphin.png/revision/latest?cb=20260723104833",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Dolphin",
+    "Appearance": "The Dolphin is a mythical pet that was added to the fourth part of the High Tide Harvest Event. The pet has 100,000 hunger."
+  },
+  {
+    "Title": "Lunar Moth",
+    "Tier": [
+      "Legendary"
+    ],
+    "Obtaining": [
+      "Moon Egg"
+    ],
+    "HatchChance": [
+      "35%"
+    ],
+    "Passive": [
+      "Moonsong: Occasionally sings for a duration, all plants within range will advance growth every second! Pets within range also get hunger restored every second!"
+    ],
+    "DateAdded": [
+      "August 1, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/f/fe/LunarMoth.png/revision/latest?cb=20260730165141",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Lunar_Moth",
+    "Appearance": "The Lunar Moth is a legendary pet that was to the Harvest Moon Event. The pet has 25,000 hunger."
+  },
+  {
+    "Title": "Moon Dragon",
+    "Tier": [
+      "Prismatic"
+    ],
+    "Obtaining": [
+      "Moon Egg"
+    ],
+    "HatchChance": [
+      "0.5%"
+    ],
+    "Passive": [
+      "Draconis Luna: Occasionally mutates fruit up to the number of Night type pets in your garden with Moonlit or Moonbeam.; Each fruit mutated has a chance each to increase the level of a random pet in the garden by 1!"
+    ],
+    "DateAdded": [
+      "August 1, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/9/92/MoonDragon.png/revision/latest?cb=20260730165141",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Moon_Dragon",
+    "Appearance": "The Moon Dragon is a prismatic pet that was added to the Harvest Moon Event. The pet has 300,000 hunger."
+  },
+  {
+    "Title": "Moon Snail",
+    "Tier": [
+      "Uncommon"
+    ],
+    "Obtaining": [
+      "* Moon Chest 35% * Exotic Moon Chest 35% * Rainbow Exotic Moon Chest 35%"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "* Slow and Steady: Increased lucky harvest chance; * Moon's Blessing: Night type plants grow bigger"
+    ],
+    "DateAdded": [
+      "August 8, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/7/74/MoonSnail.png/revision/latest?cb=20260806161817",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Moon_Snail",
+    "Appearance": "The Moon Snail is an uncommon pet that was added in the second part of the Harvest Moon Event."
+  },
+  {
+    "Title": "Nautilus",
+    "Tier": [
+      "Rare"
+    ],
+    "Obtaining": [
+      ""
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Living Fossil: Occasionally adds hatch time to a random egg but advances hatch time for another egg!"
+    ],
+    "DateAdded": [
+      "July 25, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/7/79/Nautilus.png/revision/latest?cb=20260723104921",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Nautilus",
+    "Appearance": "The Nautilus is a rare pet that was added to the fourth part of the High Tide Harvest Event. The pet has 30,000 hunger."
+  },
+  {
+    "Title": "Night Horse",
+    "Tier": [
+      "Mythical"
+    ],
+    "Obtaining": [
+      "Moon Egg"
+    ],
+    "HatchChance": [
+      "9.5%"
+    ],
+    "Passive": [
+      "Selenic Steed: Occasionally channels magic through a random fruit, sacrificing it, to apply the Moonbeam mutation to random fruit in your garden!"
+    ],
+    "DateAdded": [
+      "August 1, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/0/09/NightHorse.png/revision/latest?cb=20260730165142",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Night_Horse",
+    "Appearance": "The Night Horse is a mythical pet that was added to the Harvest Moon Event. The pet has 66,000 hunger."
+  },
+  {
+    "Title": "Opposum",
+    "Tier": [
+      "Rare"
+    ],
+    "Obtaining": [
+      "Moon Egg"
+    ],
+    "HatchChance": [
+      "55%"
+    ],
+    "Passive": [
+      "Night Support: When Night type pets finish their abilities, they start their cooldown with seconds less!"
+    ],
+    "DateAdded": [
+      "August 1, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/3/38/Opposum.png/revision/latest?cb=20260730165142",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Opposum",
+    "Appearance": "The Opposum is a rare pet that was added to the Harvest Moon Event. The pet has 20,000 hunger."
+  },
+  {
+    "Title": "Sand Wyrm",
+    "Tier": [
+      "Divine"
+    ],
+    "Obtaining": [
+      "Season Pass"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "* Blessing of the Dunes: Occasionally burrows to another random pet in the garden, advancing that pet's cooldown and applying Sandy to the nearest fruit. It may continue burrowing to more pets; * Sand Diety: When selling fruits with Sandy mutation: There is a chance a random mutation from that fruit will be applied to a fruit in your garden!"
+    ],
+    "DateAdded": [
+      "August 8, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/1/1d/SandWyrm.png/revision/latest?cb=20260806163337",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Sand_Wyrm",
+    "Appearance": "The Sand Wyrm is a divine pet that was added in the second part of the Harvest Moon Event."
+  },
+  {
+    "Title": "Vampire Squid",
+    "Tier": [
+      "Mythical"
+    ],
+    "Obtaining": [
+      "Moon Event Shop"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "Bloodlit Squid: Occasionally, a random fruit in the garden gets the Bloodlit mutation! & Squid of the Night: All active Night type pets gain an additional XP/s!"
+    ],
+    "DateAdded": [
+      "August 1, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/7/7d/VampireSquid.png/revision/latest?cb=20260730165406",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Vampire_Squid",
+    "Appearance": "The Vampire Squid is a mythical pet that was added to the Harvest Moon Event. The pet has 45,000 hunger."
+  },
+  {
+    "Title": "Wise Owl",
+    "Tier": [
+      "Divine"
+    ],
+    "Obtaining": [
+      "* Moon Chest 0.5% * Exotic Moon Chest 0.5% * Rainbow Exotic Moon Chest 0.5%"
+    ],
+    "HatchChance": [
+      ""
+    ],
+    "Passive": [
+      "* Wisdom's Ruler: Pets without pet mutations gain additional XP over time. Does not stack.; * Ruler's Wisdom: Occasionally copies mutations from a random fruit, with each copied mutation having a chance to be applied to another fruit in the garden."
+    ],
+    "DateAdded": [
+      "August 8, 2026"
+    ],
+    "Image": "https://static.wikia.nocookie.net/growagarden/images/5/50/WiseOwl.png/revision/latest?cb=20260806161353",
+    "WikiPage": "https://growagarden.fandom.com/wiki/Wise_Owl",
+    "Appearance": "The Wise Owl is a divine pet that was added in the second part of the Harvest Moon Event."
+  }
+]

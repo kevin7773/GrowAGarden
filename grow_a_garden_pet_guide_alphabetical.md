@@ -58,6 +58,24 @@
 - **Date Added:** November 15, 2025
 
 
+### Anglerfish {#anglerfish}
+
+![Anglerfish](media/Anglerfish.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  * Moon Chest 14.5% * Exotic Moon Chest 14.5% * Rainbow Exotic Moon Chest 14.5%
+
+- **Passive Ability:** * Photobacterium Eclipse: Occasionally bites a fruit and may apply the Eclipsed mutation; * Photobacterium Aurora: Occasionally bites a fruit and may apply the Aurora mutation.
+
+- **Appearance:** The Anglerfish is a legendary pet that was added in the second part of the Harvest Moon Event.
+
+- **Date Added:** August 8, 2026
+
+
 ### Angora Goat {#angora-goat}
 
 ![Angora Goat](media/Angora_Goat.png){width=80px}
@@ -97,6 +115,24 @@
 - **Appearance:** The Ankylosaurus is a limited mythical pet obtainable during the Prehistoric Event.
 
 - **Date Added:** July 12, 2025
+
+
+### Anubis {#anubis}
+
+![Anubis](media/Anubis.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Earth Emperor: Occasionally destroys a heavily mutated fruit, ignoring favorited fruit. Another pet in the garden gains age based on the number of mutations, with a small chance for stronger gains.
+
+- **Appearance:** The Anubis is a mythical pet that was added in the second part of the Harvest Moon Event.
+
+- **Date Added:** August 8, 2026
 
 
 ### Apple Gazelle {#apple-gazelle}
@@ -733,6 +769,24 @@
 - **Appearance:** The Butterfly is a limited Mythical Pet introduced in the Friendship Update.
 
 - **Date Added:** June 7th, 2025
+
+
+### Cactus Mouse {#cactus-mouse}
+
+![Cactus Mouse](media/Cactus_Mouse.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Cactus Furnishings: Occasionally converts a Cactus into one of six Cactus Furniture cosmetics.
+
+- **Appearance:** The Cactus Mouse is an uncommon pet that was added in the second part of the Harvest Moon Event.
+
+- **Date Added:** August 8, 2026
 
 
 ### Calico {#calico}
@@ -1485,6 +1539,24 @@
 - **Date Added:** May 3rd, 2025
 
 
+### Desert Tortoise {#desert-tortoise}
+
+![Desert Tortoise](media/Desert_Tortoise.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** Sprinkler Oasis: Every 10 minutes on the clock, converts a mutated fruit into a sprinkler from the gear shop. Rarer sprinklers have rarer chance.
+
+- **Appearance:** The Desert Tortoise is a rare pet that was added in the second part of the Harvest Moon Event.
+
+- **Date Added:** August 8, 2026
+
+
 ### Diamond Panther {#diamond-panther}
 
 ![Diamond Panther](media/Diamond_Panther.png){width=80px}
@@ -1562,6 +1634,23 @@
 - **Appearance:** The Dog is one of the 23 pets added in the Grow a Garden Update 1.04.0. It can be obtained by hatching a Common Egg with a 33.33% chance. The Dog has 1,000 hunger. Its ability is identical to the Golden Lab but with a ~5% chance instead of a ~10% chance.
 
 - **Date Added:** May 3rd, 2025
+
+
+### Dolphin {#dolphin}
+
+![Dolphin](media/Dolphin.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Dolphin's Grace: Occasionally transforms you into a Dolphin with bonus movement speed and 4x jump height for a duration. Fruits passed during this time have a chance to get the Tidal mutation!
+
+- **Appearance:** The Dolphin is a mythical pet that was added to the fourth part of the High Tide Harvest Event. The pet has 100,000 hunger.
+
+- **Date Added:** July 25, 2026
 
 
 ### Dragonfly {#dragonfly}
@@ -3346,6 +3435,25 @@
 - **Date Added:** September 6th, 2025
 
 
+### Lunar Moth {#lunar-moth}
+
+![Lunar Moth](media/Lunar_Moth.png){width=80px}
+
+- **Tier:** Legendary
+
+- **Hatch Chance:**
+  - 35%
+
+- **Obtaining Method:**
+  Moon Egg
+
+- **Passive Ability:** Moonsong: Occasionally sings for a duration, all plants within range will advance growth every second! Pets within range also get hunger restored every second!
+
+- **Appearance:** The Lunar Moth is a legendary pet that was to the Harvest Moon Event. The pet has 25,000 hunger.
+
+- **Date Added:** August 1, 2026
+
+
 ### Lyrebird {#lyrebird}
 
 ![Lyrebird](media/Lyrebird.png){width=80px}
@@ -3701,6 +3809,43 @@
 - **Date Added:** May 24th 2025
 
 
+### Moon Dragon {#moon-dragon}
+
+![Moon Dragon](media/Moon_Dragon.png){width=80px}
+
+- **Tier:** Prismatic
+
+- **Hatch Chance:**
+  - 0.5%
+
+- **Obtaining Method:**
+  Moon Egg
+
+- **Passive Ability:** Draconis Luna: Occasionally mutates fruit up to the number of Night type pets in your garden with Moonlit or Moonbeam.; Each fruit mutated has a chance each to increase the level of a random pet in the garden by 1!
+
+- **Appearance:** The Moon Dragon is a prismatic pet that was added to the Harvest Moon Event. The pet has 300,000 hunger.
+
+- **Date Added:** August 1, 2026
+
+
+### Moon Snail {#moon-snail}
+
+![Moon Snail](media/Moon_Snail.png){width=80px}
+
+- **Tier:** Uncommon
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  * Moon Chest 35% * Exotic Moon Chest 35% * Rainbow Exotic Moon Chest 35%
+
+- **Passive Ability:** * Slow and Steady: Increased lucky harvest chance; * Moon's Blessing: Night type plants grow bigger
+
+- **Appearance:** The Moon Snail is an uncommon pet that was added in the second part of the Harvest Moon Event.
+
+- **Date Added:** August 8, 2026
+
+
 ### Moose {#moose}
 
 ![Moose](media/Moose.png){width=80px}
@@ -3778,6 +3923,23 @@
 - **Date Added:** October 25th, 2025
 
 
+### Nautilus {#nautilus}
+
+![Nautilus](media/Nautilus.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:** N/A
+
+- **Passive Ability:** Living Fossil: Occasionally adds hatch time to a random egg but advances hatch time for another egg!
+
+- **Appearance:** The Nautilus is a rare pet that was added to the fourth part of the High Tide Harvest Event. The pet has 30,000 hunger.
+
+- **Date Added:** July 25, 2026
+
+
 ### New Year's Bird {#new-years-bird}
 
 ![New Year's Bird](media/New_Years_Bird.png){width=80px}
@@ -3849,6 +4011,25 @@
 - **Appearance:** The Newt is an upcoming rare pet that was added to the Summer Camp Event. The pet has 10,000 hunger.
 
 - **Date Added:** June 6, 2026
+
+
+### Night Horse {#night-horse}
+
+![Night Horse](media/Night_Horse.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:**
+  - 9.5%
+
+- **Obtaining Method:**
+  Moon Egg
+
+- **Passive Ability:** Selenic Steed: Occasionally channels magic through a random fruit, sacrificing it, to apply the Moonbeam mutation to random fruit in your garden!
+
+- **Appearance:** The Night Horse is a mythical pet that was added to the Harvest Moon Event. The pet has 66,000 hunger.
+
+- **Date Added:** August 1, 2026
 
 
 ### Night Owl {#night-owl}
@@ -3962,6 +4143,25 @@
 - **Appearance:** The Nyala is a limited mythical pet that was added in the third part of the Easter Event 2026.
 
 - **Date Added:** April 18, 2026
+
+
+### Opposum {#opposum}
+
+![Opposum](media/Opposum.png){width=80px}
+
+- **Tier:** Rare
+
+- **Hatch Chance:**
+  - 55%
+
+- **Obtaining Method:**
+  Moon Egg
+
+- **Passive Ability:** Night Support: When Night type pets finish their abilities, they start their cooldown with seconds less!
+
+- **Appearance:** The Opposum is a rare pet that was added to the Harvest Moon Event. The pet has 20,000 hunger.
+
+- **Date Added:** August 1, 2026
 
 
 ### Orange Tabby {#orange-tabby}
@@ -4945,6 +5145,24 @@
 - **Date Added:** June 28, 2025
 
 
+### Sand Wyrm {#sand-wyrm}
+
+![Sand Wyrm](media/Sand_Wyrm.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Season Pass
+
+- **Passive Ability:** * Blessing of the Dunes: Occasionally burrows to another random pet in the garden, advancing that pet's cooldown and applying Sandy to the nearest fruit. It may continue burrowing to more pets; * Sand Diety: When selling fruits with Sandy mutation: There is a chance a random mutation from that fruit will be applied to a fruit in your garden!
+
+- **Appearance:** The Sand Wyrm is a divine pet that was added in the second part of the Harvest Moon Event.
+
+- **Date Added:** August 8, 2026
+
+
 ### Santa Bear {#santa-bear}
 
 ![Santa Bear](media/Santa_Bear.png){width=80px}
@@ -5317,9 +5535,6 @@
 - **Appearance:** The Silver Monkey is a Legendary Pet added in the Animal Update. It can be obtained by hatching the Legendary Egg with a chance of 42.55%. It has about 8,000 hunger.
 
 - **Date Added:** May 3, 2025
-
-
-<div style="page-break-before: always;"></div>
 
 
 ### Silver Piggy {#silver-piggy}
@@ -6120,6 +6335,24 @@
 <div style="page-break-before: always;"></div>
 
 
+### Vampire Squid {#vampire-squid}
+
+![Vampire Squid](media/Vampire_Squid.png){width=80px}
+
+- **Tier:** Mythical
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  Moon Event Shop
+
+- **Passive Ability:** Bloodlit Squid: Occasionally, a random fruit in the garden gets the Bloodlit mutation! & Squid of the Night: All active Night type pets gain an additional XP/s!
+
+- **Appearance:** The Vampire Squid is a mythical pet that was added to the Harvest Moon Event. The pet has 45,000 hunger.
+
+- **Date Added:** August 1, 2026
+
+
 ### Walrus {#walrus}
 
 ![Walrus](media/Walrus.png){width=80px}
@@ -6261,6 +6494,24 @@
 - **Date Added:**
 
 
+### Wise Owl {#wise-owl}
+
+![Wise Owl](media/Wise_Owl.png){width=80px}
+
+- **Tier:** Divine
+
+- **Hatch Chance:** N/A
+
+- **Obtaining Method:**
+  * Moon Chest 0.5% * Exotic Moon Chest 0.5% * Rainbow Exotic Moon Chest 0.5%
+
+- **Passive Ability:** * Wisdom's Ruler: Pets without pet mutations gain additional XP over time. Does not stack.; * Ruler's Wisdom: Occasionally copies mutations from a random fruit, with each copied mutation having a chance to be applied to another fruit in the garden.
+
+- **Appearance:** The Wise Owl is a divine pet that was added in the second part of the Harvest Moon Event.
+
+- **Date Added:** August 8, 2026
+
+
 ### Wisp {#wisp}
 
 ![Wisp](media/Wisp.png){width=80px}
@@ -6315,6 +6566,9 @@
 - **Appearance:** The Woodpecker is a rare pet released in the second half of the Fall Market Event update.
 
 - **Date Added:** September 20th, 2025
+
+
+<div style="page-break-before: always;"></div>
 
 
 ### Woody {#woody}
@@ -6385,6 +6639,7 @@
 - [Ash Raven](#ash-raven)
 - [Beaver](#beaver)
 - [Black Cat](#black-cat)
+- [Cactus Mouse](#cactus-mouse)
 - [Carpenter Bee](#carpenter-bee)
 - [Celebration Puppy](#celebration-puppy)
 - [Cocoa Cat](#cocoa-cat)
@@ -6424,6 +6679,7 @@
 - [Kiwi (Pet)](#kiwi-pet)
 - [Koi](#koi)
 - [Mummy](#mummy)
+- [Nautilus](#nautilus)
 - [Ostrich](#ostrich)
 - [Red Panda](#red-panda)
 - [Rhino](#rhino)
@@ -6440,6 +6696,7 @@
 - [Bearded Dragon](#bearded-dragon)
 - [Champion Beetle](#champion-beetle)
 - [Chubby Chipmunk](#chubby-chipmunk)
+- [Desert Tortoise](#desert-tortoise)
 - [Dog](#dog)
 - [Easter Bunny](#easter-bunny)
 - [Football](#football)
@@ -6493,6 +6750,7 @@
 - [Kodama](#kodama)
 - [Lyrebird](#lyrebird)
 - [Moon Cat](#moon-cat)
+- [Moon Snail](#moon-snail)
 - [Newt](#newt)
 - [Petal Bee](#petal-bee)
 - [Raptor](#raptor)
@@ -6520,12 +6778,15 @@
 - [Electric Eel](#electric-eel)
 - [Fire Wisp](#fire-wisp)
 - [French Fry Ferret](#french-fry-ferret)
+- [Moon Dragon](#moon-dragon)
 - [Pine Beetle](#pine-beetle)
 - [Stag Beetle](#stag-beetle)
 - [Termite](#termite)
 - [Wendigo](#wendigo)
 
 ### Mutators {#mutators-index}
+- [Anglerfish](#anglerfish)
+- [Anubis](#anubis)
 - [Apple Gazelle](#apple-gazelle)
 - [Ash Raven](#ash-raven)
 - [Badger](#badger)
@@ -6555,6 +6816,7 @@
 - [Dark Spriggan](#dark-spriggan)
 - [Diamond Panther](#diamond-panther)
 - [Disco Bee](#disco-bee)
+- [Dolphin](#dolphin)
 - [Dragonfly](#dragonfly)
 - [Eggnog Chick](#eggnog-chick)
 - [Elemental Bee](#elemental-bee)
@@ -6605,9 +6867,11 @@
 - [Mistletoad](#mistletoad)
 - [Mizuchi](#mizuchi)
 - [Monitor Lizard](#monitor-lizard)
+- [Moon Dragon](#moon-dragon)
 - [Moose](#moose)
 - [Moss Wyvern](#moss-wyvern)
 - [New Year's Dragon](#new-years-dragon)
+- [Night Horse](#night-horse)
 - [Nightjar](#nightjar)
 - [Nyala](#nyala)
 - [Orchid Mantis](#orchid-mantis)
@@ -6633,6 +6897,7 @@
 - [Red-Nosed Reindeer](#red-nosed-reindeer)
 - [Reindeer](#reindeer)
 - [Rhino](#rhino)
+- [Sand Wyrm](#sand-wyrm)
 - [Sapphire Macaw](#sapphire-macaw)
 - [Scarlet Macaw](#scarlet-macaw)
 - [Sea Turtle](#sea-turtle)
@@ -6664,11 +6929,13 @@
 - [Toucan](#toucan)
 - [Trapdoor Spider](#trapdoor-spider)
 - [Turtle Dove](#turtle-dove)
+- [Vampire Squid](#vampire-squid)
 - [Walrus](#walrus)
 - [Wasp](#wasp)
 - [Water Buffalo](#water-buffalo)
 - [White Tiger](#white-tiger)
 - [Wind Wyvern](#wind-wyvern)
+- [Wise Owl](#wise-owl)
 - [Wolf](#wolf)
 - [Woody](#woody)
 - [Yeti](#yeti)
@@ -6707,6 +6974,7 @@
 - [Lich](#lich)
 - [Lion](#lion)
 - [Lioness](#lioness)
+- [Lunar Moth](#lunar-moth)
 - [Manta Ray](#manta-ray)
 - [Marshmallow Lamb](#marshmallow-lamb)
 - [Meerkat](#meerkat)
@@ -6720,6 +6988,7 @@
 - [Nightjar](#nightjar)
 - [Nurse Bee](#nurse-bee)
 - [Nyala](#nyala)
+- [Opposum](#opposum)
 - [Orca](#orca)
 - [Owl](#owl)
 - [Oxpecker](#oxpecker)
@@ -6737,6 +7006,7 @@
 - [Reindeer](#reindeer)
 - [Ruby Squid](#ruby-squid)
 - [Salmon](#salmon)
+- [Sand Wyrm](#sand-wyrm)
 - [Sea Anemone](#sea-anemone)
 - [Sea Turtle](#sea-turtle)
 - [Sea Urchin](#sea-urchin)
@@ -6750,10 +7020,12 @@
 - [Tarantula Hawk](#tarantula-hawk)
 - [Thunderbird](#thunderbird)
 - [Tiger](#tiger)
+- [Vampire Squid](#vampire-squid)
 - [Wasp](#wasp)
 - [Wendigo](#wendigo)
 - [White Tiger](#white-tiger)
 - [Wind Wyvern](#wind-wyvern)
+- [Wise Owl](#wise-owl)
 - [Wisp](#wisp)
 
 ### Plant Growth {#plant-growth-index}
@@ -6790,9 +7062,11 @@
 - [Ladybug](#ladybug)
 - [Leaf Insect](#leaf-insect)
 - [Lich](#lich)
+- [Lunar Moth](#lunar-moth)
 - [Manta Ray](#manta-ray)
 - [Mistletoad](#mistletoad)
 - [Monitor Lizard](#monitor-lizard)
+- [Moon Snail](#moon-snail)
 - [Moose](#moose)
 - [Orange Tabby](#orange-tabby)
 - [Pack Bee](#pack-bee)
@@ -6880,6 +7154,7 @@
 - [Black Bunny](#black-bunny)
 - [Blue Jay](#blue-jay)
 - [Bumblebee](#bumblebee)
+- [Cactus Mouse](#cactus-mouse)
 - [Canary](#canary)
 - [Cardinal](#cardinal)
 - [Cat](#cat)
@@ -6896,6 +7171,7 @@
 - [Hyrax](#hyrax)
 - [Jackalope](#jackalope)
 - [Maneki-neko](#maneki-neko)
+- [Moon Snail](#moon-snail)
 - [New Year's Bird](#new-years-bird)
 - [Pink Bunny](#pink-bunny)
 - [Salmon](#salmon)
@@ -6915,6 +7191,7 @@
 - [Cape Buffalo](#cape-buffalo)
 - [Carpenter Bee](#carpenter-bee)
 - [Chubby Chipmunk](#chubby-chipmunk)
+- [Desert Tortoise](#desert-tortoise)
 - [Easter Egg Chick](#easter-egg-chick)
 - [Firemite](#firemite)
 - [Firework Sprite](#firework-sprite)
@@ -6931,9 +7208,11 @@
 - [Leaf Insect](#leaf-insect)
 - [Messenger Pigeon](#messenger-pigeon)
 - [Monkey](#monkey)
+- [Nautilus](#nautilus)
 - [Newt](#newt)
 - [Nihonzaru](#nihonzaru)
 - [Nurse Bee](#nurse-bee)
+- [Opposum](#opposum)
 - [Orange Tabby](#orange-tabby)
 - [Orangutan](#orangutan)
 - [Pancake Mole](#pancake-mole)
@@ -6962,6 +7241,7 @@
 
 ### Legendary {#tier-legendary}
 - [Amethyst Beetle](#amethyst-beetle)
+- [Anglerfish](#anglerfish)
 - [Ash Raven](#ash-raven)
 - [Bald Eagle](#bald-eagle)
 - [Bear on Bike](#bear-on-bike)
@@ -7002,6 +7282,7 @@
 - [Imp](#imp)
 - [Jerboa](#jerboa)
 - [Kodama](#kodama)
+- [Lunar Moth](#lunar-moth)
 - [Magpie](#magpie)
 - [Mallard](#mallard)
 - [Mandrake (Pet)](#mandrake-pet)
@@ -7057,6 +7338,7 @@
 ### Mythical {#tier-mythical}
 - [Albino Peacock](#albino-peacock)
 - [Ankylosaurus](#ankylosaurus)
+- [Anubis](#anubis)
 - [Apple Gazelle](#apple-gazelle)
 - [Arctic Fox](#arctic-fox)
 - [Axolotl](#axolotl)
@@ -7075,6 +7357,7 @@
 - [Crocodile](#crocodile)
 - [Dark Spriggan](#dark-spriggan)
 - [Dilophosaurus](#dilophosaurus)
+- [Dolphin](#dolphin)
 - [Drake](#drake)
 - [Echo Frog](#echo-frog)
 - [Eggnog Chick](#eggnog-chick)
@@ -7106,6 +7389,7 @@
 - [Monitor Lizard](#monitor-lizard)
 - [Moose](#moose)
 - [New Year's Chimp](#new-years-chimp)
+- [Night Horse](#night-horse)
 - [Night Owl](#night-owl)
 - [Nightjar](#nightjar)
 - [Nutcracker](#nutcracker)
@@ -7126,6 +7410,7 @@
 - [Spriggan](#spriggan)
 - [Sugar Glider](#sugar-glider)
 - [Summer Kiwi](#summer-kiwi)
+- [Vampire Squid](#vampire-squid)
 
 ### Divine {#tier-divine}
 - [Bearded Dragon](#bearded-dragon)
@@ -7173,6 +7458,7 @@
 - [Red Rose Fox](#red-rose-fox)
 - [Red-Nosed Reindeer](#red-nosed-reindeer)
 - [Ruby Squid](#ruby-squid)
+- [Sand Wyrm](#sand-wyrm)
 - [Space Squirrel](#space-squirrel)
 - [Spinosaurus](#spinosaurus)
 - [Star Wolf](#star-wolf)
@@ -7183,6 +7469,7 @@
 - [Wendigo](#wendigo)
 - [White Tiger](#white-tiger)
 - [Wind Wyvern](#wind-wyvern)
+- [Wise Owl](#wise-owl)
 - [Yeti](#yeti)
 
 ### Prismatic {#tier-prismatic}
@@ -7196,6 +7483,7 @@
 - [Headless Horseman](#headless-horseman)
 - [Ice Golem](#ice-golem)
 - [Kitsune (Pet)](#kitsune-pet)
+- [Moon Dragon](#moon-dragon)
 - [New Year's Dragon](#new-years-dragon)
 - [Peryton](#peryton)
 - [Shark](#shark)

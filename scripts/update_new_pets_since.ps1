@@ -109,11 +109,11 @@ function Get-PetImageFile {
     $raw = ($RawImageField ?? '').Trim()
     $candidates = @()
 
-    if ($raw -match '(?im)^\s*([A-Za-z0-9][^|\r\n<>]+\.(?:png|gif|webp|jpg|jpeg))\s*(?:\||$)') {
+    if ($raw -match '(?i)File:([^|\]\r\n<>]+\.(?:png|gif|webp|jpg|jpeg))') {
+        $candidates += $matches[1].Trim()
+    } elseif ($raw -match '(?im)^\s*([A-Za-z0-9][^|\r\n<>]+\.(?:png|gif|webp|jpg|jpeg))\s*(?:\||$)') {
         $candidates += $matches[1].Trim()
     } elseif ($raw -match '(?i)([A-Za-z0-9][^|\r\n<>]+\.(?:png|gif|webp|jpg|jpeg))') {
-        $candidates += $matches[1].Trim()
-    } elseif ($raw -match '(?i)File:([^|\]\r\n<>]+\.(?:png|gif|webp|jpg|jpeg))') {
         $candidates += $matches[1].Trim()
     }
 
@@ -238,6 +238,7 @@ Write-Host "Checking Grow a Garden wiki pets added after $($cutoff.ToString('yyy
 $members = @(Get-AllPetCategoryMembers)
 $newPets = @()
 $refreshedPets = @()
+$recentPets = @()
 
 for ($i = 0; $i -lt $members.Count; $i += 50) {
     $memberChunk = @($members | Select-Object -Skip $i -First 50)
@@ -264,6 +265,7 @@ for ($i = 0; $i -lt $members.Count; $i += 50) {
         $imageUrl = ''
         if ($imageFile -ne '' -and $imageMap.ContainsKey("File:$imageFile")) { $imageUrl = $imageMap["File:$imageFile"] }
         $record = ConvertTo-PetRecord $title $content $categories $imageUrl
+        $recentPets += $record
         if ($existingKeys.ContainsKey($key)) {
             $existingPets[$existingKeys[$key]] = $record
             $refreshedPets += $title
@@ -276,7 +278,7 @@ for ($i = 0; $i -lt $members.Count; $i += 50) {
 }
 
 $reportPath = "new_pets_since_$($cutoff.ToString('yyyy-MM-dd')).json"
-$newPets | ConvertTo-Json -Depth 10 | Set-Content -Path $reportPath -Encoding UTF8
+$recentPets | Sort-Object Title | ConvertTo-Json -Depth 10 | Set-Content -Path $reportPath -Encoding UTF8
 
 if ($newPets.Count -eq 0) {
     Write-Host "No missing pets found after $($cutoff.ToString('yyyy-MM-dd'))."
